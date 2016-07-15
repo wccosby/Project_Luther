@@ -84,10 +84,20 @@ def parse_movie_page(url_list):
         #
         #     #''' BUDGET '''#
             # try:
-            #     budget_string = movie_soup.find(text=re.compile('Production Budget:')).findNextSibling().get_text(strip=True)
-            #     budget = budget_string.replace('$','').replace(',','')
-            #     # split the string, use the 2nd index to determine scale (itll be like ['245','million'])
-            #     print budget
+            budget_string = movie_soup.find(text=re.compile('Production Budget:')).findNextSibling().get_text(strip=True)
+            budget = budget_string.replace('$','').replace(',','')
+            # split the string, use the 2nd index to determine scale (itll be like ['245','million'])
+            print budget
+            # this means that there was a value for this field
+            if len(budget.split()) > 1:
+                if budget.split()[1] == 'million':
+                    movie_dict[movie_name].append(int(budget.split()[0])*1000000)
+                elif budge.split()[1] == 'thousand':
+                    movie_dict[movie_name].append(int(budget.split()[0])*1000)
+                else:
+                    print('THE BUDGET WAS ',budget.split())
+            else:
+                movie_dict[movie_name].append(0)
             #     if budget.split()[1] == 'million':
             #         movie_dict[movie_name].append(int(budget.split()[0]*1000000))
             #     elif budge.split()[1] == 'thousand':
