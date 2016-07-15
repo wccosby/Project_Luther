@@ -27,6 +27,12 @@ import requests
 # movies_df = pd.DataFrame(movie_data,columns = header)
 # # movies_df.dropna()
 
+###
+###
+### format:
+### movie name: [domestic opening weekend, foreign gross total, budget, genre, date]
+###
+###
 
 # testing for 1 page first
 def parse_movie_page(url_list):
@@ -48,24 +54,38 @@ def parse_movie_page(url_list):
             # MOVIE NAME
             # these are returning as unicode, so coerce to a standard string
             movie_name = movie_soup.find_all('td')[2].find('b').get_text(strip=True)
-            print "movie name: ",movie_name
+            # print "movie name: ",movie_name
 
             #''' DOMESTIC TOTAL GROSS '''#
-            # can do this the normal, easy way, also it is present for every movie
-            dtg_string = movie_soup.find(text=re.compile('Domestic Total')) # finds the label
-            # format the dtg
-        #     dtg = dtg_string.findNextSibling().text # grabs the next value, which is the dtg
-            dtg = dtg_string.find_parent("td").find('b').get_text(strip=True)
-            dtg = dtg.replace('$','').replace(',','')
-            print "domestic total gross: ",dtg
-            movie_dict[movie_name].append(int(dtg))
+        #     # can do this the normal, easy way, also it is present for every movie
+        #     dtg_string = movie_soup.find(text=re.compile('Domestic Total')) # finds the label
+        #     # format the dtg
+        # #     dtg = dtg_string.findNextSibling().text # grabs the next value, which is the dtg
+        #     dtg = dtg_string.find_parent("td").find('b').get_text(strip=True)
+        #     dtg = dtg.replace('$','').replace(',','')
+        #     print "domestic total gross: ",dtg
+        #     movie_dict[movie_name].append(int(dtg))
 
 
             #''' DOMESTIC OPENING WEEKEND '''#
-            domestic_opening_string = movie_soup.find_all(class_='mp_box_content')[1].find('tr').find_all('td')[1].get_text(strip=True)
-            domestic_opening = domestic_opening_string.replace('$','').replace(',','')
-            print "domestic opening: ",domestic_opening
-            movie_dict[movie_name].append(int(domestic_opening))
+            # sometimes they have "limited release" stuff
+            try:
+                domestic_opening_string = movie_soup.find_all(class_='mp_box_content')[1].find('tr').find_all('td')[1].get_text(strip=True)
+                domestic_opening = domestic_opening_string.replace('$','').replace(',','')
+                # print "domestic opening: ",domestic_opening
+                movie_dict[movie_name].append(int(domestic_opening))
+            except:
+                # limited release
+                limited_domestic_opening_string = movie_soup.find_all(class_='mp_box_content')[1].find_all('tr')[1].find('b').get_text(strip=True)
+                limited_domestic_opening = int(limited_domestic_opening_string.replace('$','').replace(',',''))
+
+                # expanded release
+                expanded_domestic_opening_string = movie_soup.find_all(class_='mp_box_content')[1].find_all('tr')[3].find_all('td')[1].get_text(strip=True)
+                expanded_domestic_opening = int(expanded_domestic_opening_string.replace('$','').replace(',',''))
+
+                # get the total
+                total_domestic_opening = limited_domestic_opening + expanded_domestic_opening
+                movie_dict[movie_name].append(total_domestic_opening)
 
 
 
@@ -75,10 +95,10 @@ def parse_movie_page(url_list):
             try:
                 ftg_string = movie_soup.find(text="Foreign:").find_parent("td").find_next_sibling("td").get_text(strip=True)
                 ftg = ftg_string.replace('$','').replace(',','')
-                print "foreign gross total: ",ftg
+                # print "foreign gross total: ",ftg
                 movie_dict[movie_name].append(int(ftg))
             except: # no foreign release data
-                print "No foreign release information"
+                # print "No foreign release information"
                 movie_dict[movie_name].append(0)
         #
         #
@@ -114,14 +134,14 @@ def parse_movie_page(url_list):
             genre_obj = movie_soup.find(text=re.compile('Genre:'))
             genre_parent = genre_obj.find_parent('td')
             genre_string = genre_parent.find('b').get_text(strip=True)
-            print "genre: ",genre_string
+            # print "genre: ",genre_string
             movie_dict[movie_name].append(genre_string)
 
 
             #''' DATE '''#
             date = movie_soup.find(text=re.compile('Release Date:')).find_parent('td').find('a').get_text(strip=True)
             datetime_obj = dateutil.parser.parse(date)
-            print "date time: ", datetime_obj
+            # print "date time: ", datetime_obj
             movie_dict[movie_name].append(datetime_obj)
 
             print
@@ -134,8 +154,11 @@ url2 = ['http://www.boxofficemojo.com/movies/?id=pixar2015.htm',
        "http://www.boxofficemojo.com/movies/?id=marvel2016.htm"]
 url3 = ['http://www.boxofficemojo.com/movies/?id=pixar2015.htm',
        "http://www.boxofficemojo.com/movies/?id=marvel2016.htm",
-       "http://www.boxofficemojo.com/movies/?id=deadpool2016.htm"]
+       "http://www.boxofficemojo.com/movies/?id=deadpool2016.htm",
+       'http://www.boxofficemojo.com/movies/?id=hello,mynameisdoris.htm']
 url_pool = ["http://www.boxofficemojo.com/movies/?id=deadpool2016.htm"]
+
+url_lim_opening = ['http://www.boxofficemojo.com/movies/?id=hello,mynameisdoris.htm']
 
 
 test_dict = parse_movie_page(url3)
