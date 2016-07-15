@@ -54,7 +54,6 @@ def parse_movie_page(url_list):
             # MOVIE NAME
             # these are returning as unicode, so coerce to a standard string
             movie_name = movie_soup.find_all('td')[2].find('b').get_text(strip=True)
-            # print "movie name: ",movie_name
 
             #''' DOMESTIC TOTAL GROSS '''#
         #     # can do this the normal, easy way, also it is present for every movie
@@ -95,13 +94,11 @@ def parse_movie_page(url_list):
             try:
                 ftg_string = movie_soup.find(text="Foreign:").find_parent("td").find_next_sibling("td").get_text(strip=True)
                 ftg = ftg_string.replace('$','').replace(',','')
-                # print "foreign gross total: ",ftg
                 movie_dict[movie_name].append(int(ftg))
             except: # no foreign release data
-                # print "No foreign release information"
                 movie_dict[movie_name].append(0)
-        #
-        #
+
+
         #     #''' BUDGET '''#
             # try:
             budget_string = movie_soup.find(text=re.compile('Production Budget:')).findNextSibling().get_text(strip=True)
@@ -147,6 +144,30 @@ def parse_movie_page(url_list):
             print
 
     return movie_dict
+
+
+def get_movie_urls(list_url):
+    movie_data = []
+
+    # header = ['Year','Total Gross','Change','Tickets Sold','Change','# of movies','Total Screens',
+    #           'Avg. Ticket Price','Avg. Cost','#1 Movie']
+    movie_data = []
+
+    # the first row is the title of the columns
+    for row in movie_table[2].findAll("tr"):
+        movie_row = []
+        for i,cell in enumerate(row.findAll("td")):
+    #         print cell
+            movie_row.append(cell.find(text=True))
+        movie_data.append(movie_row)
+
+    header = movie_data.pop(0)
+    movies_df = pd.DataFrame(movie_data,columns = header)
+    # movies_df.dropna()
+
+
+
+
 
 
 
