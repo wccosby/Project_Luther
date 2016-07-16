@@ -1,0 +1,1391 @@
+MOVIE_NAME,DOMESTIC_OPENING,FOREIGN_TOTAL,BUDGET,GENRE,RELEASE_DATE
+American Sniper,89902522,197300000,0,Drama,2014-12-25 00:00:00
+The Hunger Games:Mockingjay - Part 1,121897634,418220826,125000000,Action / Adventure,2014-11-21 00:00:00
+Guardians of the Galaxy,94320883,440135799,170000000,Action / Adventure,2014-08-01 00:00:00
+Captain America:The Winter Soldier,95023721,454654931,170000000,Action / Adventure,2014-04-04 00:00:00
+The LEGO Movie,69050279,211400000,60000000,Animation,2014-02-07 00:00:00
+The Hobbit:The Battle of the Five Armies,54724334,700900000,0,Fantasy,2014-12-17 00:00:00
+Transformers:Age of Extinction,100038390,858614996,210000000,Sci-Fi Action,2014-06-27 00:00:00
+Maleficent,69431298,517129407,180000000,Fantasy,2014-05-30 00:00:00
+X-Men:Days of Future Past,90823660,513941241,200000000,Action / Adventure,2014-05-23 00:00:00
+Big Hero 6,56215889,435290784,165000000,Animation,2014-11-07 00:00:00
+Dawn of the Planet of the Apes,72611427,502098977,170000000,Sci-Fi Action,2014-07-11 00:00:00
+The Amazing Spider-Man 2,91608337,506128390,0,Action / Adventure,2014-05-02 00:00:00
+Godzilla (2014),93188384,328400000,160000000,Sci-Fi Action,2014-05-16 00:00:00
+22 Jump Street,57071445,139614539,50000000,Action Comedy,2014-06-13 00:00:00
+Teenage Mutant Ninja Turtles (2014),65575105,302128830,125000000,Action / Adventure,2014-08-08 00:00:00
+Interstellar,47510360,487100000,165000000,Sci-Fi Adventure,2014-11-05 00:00:00
+How to Train Your Dragon 2,49451322,444534595,145000000,Animation,2014-06-13 00:00:00
+Gone Girl,37513109,201563174,61000000,Thriller,2014-10-03 00:00:00
+Divergent,54607747,137937923,85000000,Action / Adventure,2014-03-21 00:00:00
+Neighbors,49033915,120507734,18000000,Comedy,2014-05-09 00:00:00
+Ride Along,41516170,19530702,25000000,Comedy,2014-01-17 00:00:00
+Rio 2,39327869,368563537,103000000,Animation,2014-04-11 00:00:00
+Into the Woods,31051923,85114029,50000000,Musical,2014-12-25 00:00:00
+Lucy,43899340,336696463,40000000,Sci-Fi Action,2014-07-25 00:00:00
+The Fault in our Stars,48002523,182294484,12000000,Drama,2014-06-06 00:00:00
+Unbroken,30621445,47805042,65000000,War Drama,2014-12-25 00:00:00
+Night at the Museum:Secret of the Tomb,17100520,249458014,127000000,Family Adventure,2014-12-19 00:00:00
+Mr. Peabody & Sherman,32207057,164191609,145000000,Animation,2014-03-07 00:00:00
+300:Rise of An Empire,45038460,231000000,110000000,Period Action,2014-03-07 00:00:00
+The Maze Runner,32512804,245891999,34000000,Sci-Fi Thriller,2014-09-19 00:00:00
+The Equalizer,34137828,90800000,55000000,Thriller,2014-09-26 00:00:00
+Noah,43720472,261437429,125000000,Drama,2014-03-28 00:00:00
+Edge of Tomorrow,28760246,270335000,178000000,Sci-Fi Action,2014-06-06 00:00:00
+Non-Stop,28875635,130641000,50000000,Thriller,2014-02-28 00:00:00
+Heaven is for Real,22522221,9889709,12000000,Drama,2014-04-16 00:00:00
+The Imitation Game,8411644,142430025,0,Drama,2014-11-28 00:00:00
+Dumb and Dumber To,36111775,83629000,40000000,Comedy,2014-11-14 00:00:00
+Annie (2014),15861939,47910554,65000000,Musical,2014-12-19 00:00:00
+Fury (2014),23702421,126000000,68000000,War,2014-10-17 00:00:00
+Tammy,21577049,16000000,20000000,Comedy,2014-07-02 00:00:00
+Annabelle,37134255,172600000,0,Horror,2014-10-03 00:00:00
+The Other Woman (2014),24763752,112799203,40000000,Comedy,2014-04-25 00:00:00
+Penguins of Madagascar,25447444,289664710,132000000,Animation,2014-11-26 00:00:00
+Let's Be Cops,17813722,55834177,17000000,Action Comedy,2014-08-13 00:00:00
+The Monuments Men,22003433,76952415,70000000,Action Drama,2014-02-07 00:00:00
+Hercules (2014),29800263,172131248,100000000,Action / Adventure,2014-07-25 00:00:00
+The Purge:Anarchy,29816675,39965565,9000000,Thriller,2014-07-18 00:00:00
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",18360230,34425138,28000000,Family,2014-10-10 00:00:00
+Think Like a Man Too,29241911,4999246,24000000,Comedy,2014-06-20 00:00:00
+Exodus:Gods and Kings,24115934,203161118,140000000,Drama,2014-12-12 00:00:00
+The Nut Job,19423000,56633986,42000000,Animation,2014-01-17 00:00:00
+God's Not Dead,9217013,1875000,2000000,Drama,2014-03-21 00:00:00
+Son of God,25601865,8100000,0,Drama,2014-02-28 00:00:00
+The Grand Budapest Hotel,9350961,115500000,25000000,Comedy,2014-03-07 00:00:00
+Planes:Fire & Rescue,17509407,92220853,50000000,Animation,2014-07-18 00:00:00
+RoboCop (2014),21681430,184081958,100000000,Sci-Fi Action,2014-02-12 00:00:00
+Dracula Untold,23514615,160843925,70000000,Action Horror,2014-10-10 00:00:00
+Horrible Bosses 2,15457418,53225000,42000000,Comedy,2014-11-26 00:00:00
+The Hundred-Foot Journey,10979290,34640000,22000000,Drama,2014-08-08 00:00:00
+No Good Deed (2014),24250283,1779578,0,Thriller,2014-09-12 00:00:00
+Selma,11878844,14711000,20000000,Drama,2014-12-25 00:00:00
+Muppets Most Wanted,17005126,29200177,50000000,Family Comedy,2014-03-21 00:00:00
+Ouija,19875995,52734261,5000000,Horror,2014-10-24 00:00:00
+The Boxtrolls,17275239,58447728,60000000,Animation,2014-09-26 00:00:00
+Jack Ryan:Shadow Recruit,15451981,84933618,60000000,Action Thriller,2014-01-17 00:00:00
+If I Stay,15679190,28400000,11000000,Drama,2014-08-22 00:00:00
+The Book of Life (2014),17005218,49632013,50000000,Animation,2014-10-17 00:00:00
+About Last Night (2014),25649011,365000,0,Romantic Comedy,2014-02-14 00:00:00
+Into The Storm,17346427,114100000,50000000,Thriller,2014-08-08 00:00:00
+The Judge,13116226,37300000,50000000,Drama,2014-10-10 00:00:00
+Jersey Boys,13319371,20622000,40000000,Musical,2014-06-20 00:00:00
+Blended,14284031,81740000,40000000,Romantic Comedy,2014-05-23 00:00:00
+The Giver,12305016,21890082,25000000,Fantasy Drama,2014-08-15 00:00:00
+St. Vincent,7856474,10699522,0,Comedy,2014-10-10 00:00:00
+Need for Speed,17844939,159700000,66000000,Action,2014-03-14 00:00:00
+A Million Ways to Die in the West,16797385,44050456,40000000,Western Comedy,2014-05-30 00:00:00
+John Wick,14415922,42975221,20000000,Action,2014-10-24 00:00:00
+Birdman,2895868,60874496,18000000,Comedy / Drama,2014-10-17 00:00:00
+Dolphin Tale 2,15873397,15800000,36000000,Family,2014-09-12 00:00:00
+The Expendables 3,15879645,166850000,0,Action,2014-08-15 00:00:00
+Earth to Echo,8364658,6401862,13000000,Adventure,2014-07-02 00:00:00
+Sex Tape,14608152,87526036,40000000,Comedy,2014-07-18 00:00:00
+Wild (2014),4720562,14621185,0,Drama,2014-12-03 00:00:00
+Million Dollar Arm,10515659,2769953,25000000,Sports Drama,2014-05-16 00:00:00
+The Theory of Everything,5219909,87833151,15000000,Drama,2014-11-07 00:00:00
+This is Where I Leave You,11558149,7000000,0,Comedy,2014-09-19 00:00:00
+The Gambler,9129999,5600000,25000000,Crime Drama,2014-12-25 00:00:00
+Paranormal Activity:The Marked Ones,18343611,58442482,5000000,Horror,2014-01-03 00:00:00
+Nightcrawler,10441000,6316000,0,Crime Drama,2014-10-31 00:00:00
+Chef,2116509,14543932,0,Comedy,2014-05-09 00:00:00
+Get On Up,13585915,2745871,0,Music Drama,2014-08-01 00:00:00
+3 Days to Kill,12242218,21900000,28000000,Action Thriller,2014-02-21 00:00:00
+Deliver Us From Evil,9740471,57360693,30000000,Horror,2014-07-02 00:00:00
+When the Game Stands Tall,8381509,0,15000000,Sports Drama,2014-08-22 00:00:00
+Draft Day,9783603,619809,0,Sports Drama,2014-04-11 00:00:00
+Oculus,12005402,16335000,5000000,Horror,2014-04-11 00:00:00
+The Best of Me,10003827,9160000,26000000,Romance,2014-10-17 00:00:00
+A Walk Among the Tombstones,12758780,26874000,28000000,Drama,2014-09-19 00:00:00
+That Awkward Moment,8742109,14400000,8000000,Romantic Comedy,2014-01-31 00:00:00
+Boyhood,2380066,19143000,4000000,Drama,2014-07-11 00:00:00
+Top Five,6896593,800000,0,Comedy,2014-12-12 00:00:00
+The November Man,7911597,7538000,0,Action,2014-08-27 00:00:00
+Endless Love (2014),13307125,11279923,20000000,Romance,2014-02-14 00:00:00
+Pompeii,10340823,94611883,100000000,Action Drama,2014-02-21 00:00:00
+Transcendence,10886386,80016949,100000000,Sci-Fi,2014-04-18 00:00:00
+As Above/So Below,8632820,20577309,0,Thriller,2014-08-29 00:00:00
+Brick Mansions,9516855,48500000,28000000,Action,2014-04-25 00:00:00
+"I, Frankenstein",8610441,52079302,65000000,Action Horror,2014-01-24 00:00:00
+The Legend of Hercules,8868318,42430914,70000000,Action / Adventure,2014-01-10 00:00:00
+Bears,4776267,3536551,0,Documentary,2014-04-18 00:00:00
+Addicted,7485346,0,0,Drama,2014-10-10 00:00:00
+A Haunted House 2,8843875,6630000,4000000,Horror Comedy,2014-04-18 00:00:00
+A Most Wanted Man,5929389,18995662,0,Thriller,2014-07-25 00:00:00
+Begin Again,2954903,47294229,0,Comedy,2014-06-27 00:00:00
+Tyler Perry's The Single Moms Club,8075111,364000,0,Comedy / Drama,2014-03-14 00:00:00
+Devil's Due,8308220,21100099,7000000,Horror,2014-01-17 00:00:00
+And So It Goes,4642329,10151586,0,Comedy / Drama,2014-07-25 00:00:00
+Step Up All In,6469857,71261262,0,Music Drama,2014-08-08 00:00:00
+Beyond the Lights,6200284,0,7000000,Drama,2014-11-14 00:00:00
+Big Eyes,3001738,14771135,0,Drama,2014-12-25 00:00:00
+America (2014),2782361,0,0,Documentary,2014-06-27 00:00:00
+Left Behind (2014),6300147,5663000,16000000,Thriller,2014-10-03 00:00:00
+Frank Miller's Sin City:A Dame to Kill For,6317683,25649812,0,Crime,2014-08-22 00:00:00
+Labor Day,5175282,6904284,18000000,Drama,2014-01-31 00:00:00
+Whiplash,135388,35890041,0,Drama,2014-10-10 00:00:00
+Winter's Tale,7297694,18525000,60000000,Fantasy,2014-02-14 00:00:00
+Foxcatcher,1250877,0,0,Drama,2014-11-14 00:00:00
+Belle,106578,0,0,Drama,2014-05-02 00:00:00
+The Drop,4104552,7933992,0,Crime Drama,2014-09-12 00:00:00
+Island of Lemurs:Madagascar (IMAX),188307,2298227,0,IMAX,2014-04-04 00:00:00
+P.K.,3565258,89754000,0,Foreign,2014-12-19 00:00:00
+Magic in the Moonlight,2198245,40490035,0,Comedy / Drama,2014-07-25 00:00:00
+Sabotage (2014),5272444,7000000,0,Action Thriller,2014-03-28 00:00:00
+Moms' Night Out,4311083,0,5000000,Comedy,2014-05-09 00:00:00
+The Quiet Ones,3880053,9325000,0,Horror,2014-04-25 00:00:00
+Legends of Oz:Dorothy's Return,3747780,10200000,70000000,Animation,2014-05-09 00:00:00
+Inherent Vice,3101444,6600000,0,Crime,2014-12-12 00:00:00
+Vampire Academy,3921742,7600000,0,Fantasy,2014-02-07 00:00:00
+Bad Words,2673487,0,0,Comedy,2014-03-14 00:00:00
+Cantinflas,2661253,0,0,Drama,2014-08-29 00:00:00
+The Interview (2014),1794666,5200000,0,Comedy,2014-12-25 00:00:00
+Meet the Mormons,2509808,0,0,Documentary,2014-10-10 00:00:00
+A Most Violent Year,1685012,6257936,20000000,Drama / Thriller,2014-12-31 00:00:00
+Cesar Chavez,2861528,0,0,Drama,2014-03-28 00:00:00
+The Skeleton Twins,380691,0,0,Drama,2014-09-12 00:00:00
+The Wind Rises,313751,112722821,0,Animation,2014-02-21 00:00:00
+Snowpiercer,171187,82195262,0,Sci-Fi Action,2014-06-27 00:00:00
+The Railway Man,613788,17882455,0,Drama,2014-04-11 00:00:00
+Dear White People,347959,0,0,Comedy / Drama,2014-10-17 00:00:00
+The Lunchbox,44542,0,0,Foreign,2014-02-28 00:00:00
+My Old Lady,124680,0,0,Comedy / Drama,2014-09-10 00:00:00
+Mr. Turner,109000,1447000,0,Drama,2014-12-19 00:00:00
+Ida,55438,0,0,Foreign,2014-05-02 00:00:00
+Fading Gigolo,180801,9600000,0,Comedy,2014-04-18 00:00:00
+Calvary,74149,13287735,0,Comedy / Drama,2014-08-01 00:00:00
+Wish I Was Here,1638949,1892000,0,Comedy / Drama,2014-07-18 00:00:00
+Ghostbusters (30th Anniversary re-release),1756513,0,0,Horror Comedy,2014-08-29 00:00:00
+Mommy,473882,0,0,Foreign,2014-09-19 00:00:00
+What If (2014),988262,4354000,0,Romantic Comedy,2014-08-08 00:00:00
+The Grand Seduction,323743,0,0,Comedy,2014-05-30 00:00:00
+Veronica Mars,1988351,194900,6000000,Comedy,2014-03-14 00:00:00
+Before I Go To Sleep,1843347,11818000,0,Thriller,2014-10-31 00:00:00
+Rosewater,1154303,0,0,Drama,2014-11-14 00:00:00
+Obvious Child,77315,0,0,Comedy,2014-06-06 00:00:00
+The Trip to Italy,71712,3049000,0,Comedy,2014-08-15 00:00:00
+The Identical,1587137,0,0,Drama,2014-09-05 00:00:00
+The Fluffy Movie,1311446,0,0,Concert,2014-07-25 00:00:00
+Citizenfour,126321,202299,0,Documentary,2014-10-24 00:00:00
+Kirk Cameron's Saving Christmas,992087,0,0,Family,2014-11-14 00:00:00
+The Pyramid,1955564,14104804,0,Horror,2014-12-05 00:00:00
+The Good Lie,841422,0,0,Drama,2014-10-03 00:00:00
+The Raid 2,1121964,0,0,Foreign / Action,2014-03-28 00:00:00
+Under the Skin (2014),133154,2766000,0,Sci-Fi,2014-04-04 00:00:00
+The Admiral:Roaring Currents,51431,109567000,0,Foreign,2014-08-08 00:00:00
+Dragon Ball Z:Battle of Gods,296414,47800000,0,Animation,2014-08-05 00:00:00
+Bang Bang,1278690,39499809,0,Foreign / Action,2014-10-02 00:00:00
+Kick,1071373,0,0,Foreign,2014-07-25 00:00:00
+Kill the Messenger,941809,0,0,Thriller,2014-10-10 00:00:00
+The Homesman,45433,0,0,Western,2014-11-14 00:00:00
+Ode to My Father,33880,0,0,Foreign,2014-12-25 00:00:00
+Love is Strange,117276,0,0,Drama,2014-08-22 00:00:00
+2 States,1073898,0,0,Foreign,2014-04-18 00:00:00
+Le Week-End,43608,0,0,Romance,2014-03-14 00:00:00
+Anchorman 2 (R-Rated Extended Cut),1358833,0,0,Comedy,2014-02-28 00:00:00
+2014 Oscar Nominated Short Films,329505,0,0,Unknown,2014-01-31 00:00:00
+Words and Pictures,87879,1175000,0,Comedy / Drama,2014-05-23 00:00:00
+Gloria (2014),56454,0,0,Foreign,2014-01-24 00:00:00
+The Immigrant,44064,3842358,0,Drama,2014-05-16 00:00:00
+Only Lovers Left Alive,87989,0,7000000,Drama,2014-04-11 00:00:00
+Tusk,846831,0,0,Horror,2014-09-19 00:00:00
+Tim's Vermeer,49777,0,0,Documentary,2014-01-31 00:00:00
+Persecuted,851391,0,0,Thriller,2014-07-18 00:00:00
+Awake:The Life of Yogananda,18885,0,0,Documentary,2014-10-10 00:00:00
+Fed Up,126028,0,0,Documentary,2014-05-09 00:00:00
+Finding Vivian Maier,63600,0,0,Documentary,2014-03-28 00:00:00
+Pride (2014),100040,6077000,0,Comedy / Drama,2014-09-26 00:00:00
+"Two Days, One Night",30700,5427000,0,Foreign,2014-12-24 00:00:00
+Locke,81006,0,0,Thriller,2014-04-25 00:00:00
+Gimme Shelter,689070,0,0,Drama,2014-01-24 00:00:00
+Force Majeure,23309,0,0,Foreign,2014-10-24 00:00:00
+Jai Ho,840506,0,0,Foreign,2014-01-24 00:00:00
+Singham Returns,654045,0,0,Foreign / Action,2014-08-15 00:00:00
+Repentance,501290,0,0,Horror Thriller,2014-02-28 00:00:00
+The Remaining,159143,0,0,Horror Thriller,2014-09-05 00:00:00
+Hector And The Search For Happiness,40847,0,0,Drama,2014-09-19 00:00:00
+The Rover,550516,2098093,12000000,Drama,2014-06-13 00:00:00
+Walking with the Enemy,331855,0,0,Drama,2014-04-25 00:00:00
+Leviathan (2014),15200,0,0,Foreign,2014-12-25 00:00:00
+The Captive,407804,0,0,Thriller,2014-09-05 00:00:00
+Laggies,74139,0,0,Romantic Comedy,2014-10-24 00:00:00
+50 to 1,78480,0,0,Drama,2014-03-21 00:00:00
+Haider,508084,0,0,Foreign,2014-10-02 00:00:00
+Third Person,38856,0,0,Romance,2014-06-20 00:00:00
+Stalingrad (2014),510846,67115573,0,Foreign,2014-02-28 00:00:00
+The Song,568596,0,0,Music Drama,2014-09-26 00:00:00
+Enemy,16161,2388000,0,Thriller,2014-03-14 00:00:00
+The Babadook,30007,5725679,0,Horror,2014-11-28 00:00:00
+Shaadi Ke Side Effects,582672,0,0,Foreign,2014-02-28 00:00:00
+Mas Negro Que La Noche,539867,5221000,0,Foreign / Horror,2014-09-26 00:00:00
+Particle Fever,53901,0,0,Documentary,2014-03-05 00:00:00
+Song of the Sea,21910,0,0,Animation,2014-12-19 00:00:00
+Atlas Shrugged Part III:Who Is John Galt?,461179,0,0,Drama,2014-09-12 00:00:00
+Kochadaiiyaan,583172,0,0,Foreign,2014-05-23 00:00:00
+Saw 10th Anniversary,650051,0,0,Horror,2014-10-31 00:00:00
+Life Itself,131411,0,0,Documentary,2014-07-04 00:00:00
+Nymphomaniac:Volume I,158369,9500000,0,Drama,2014-03-21 00:00:00
+Breakup Buddies,230204,0,0,Foreign,2014-10-03 00:00:00
+Palo Alto,63461,0,0,Drama,2014-05-09 00:00:00
+Ek Villain,414116,0,0,Foreign / Action,2014-06-27 00:00:00
+Land Ho!,34319,0,0,Comedy,2014-07-11 00:00:00
+Yves Saint Laurent,24207,20302697,0,Foreign,2014-06-25 00:00:00
+Khoobsurat,345085,0,0,Foreign,2014-09-19 00:00:00
+Holiday (2014),394797,0,0,Foreign / Action,2014-06-06 00:00:00
+"Men, Women & Children",354391,1534627,0,Drama,2014-10-01 00:00:00
+The Tale of The Princess Kaguya,54915,23483000,0,Animation,2014-10-17 00:00:00
+Frankie & Alice (2014),350647,0,0,Drama,2014-04-04 00:00:00
+A Matter of Faith,138677,0,0,Drama,2014-10-17 00:00:00
+Jodorowsky's Dune,36018,0,0,Documentary,2014-03-21 00:00:00
+Hasee Toh Phasee,336985,0,0,Foreign,2014-02-07 00:00:00
+Frank,16056,0,0,Comedy / Drama,2014-08-15 00:00:00
+Mary Kom,370277,0,0,Foreign,2014-09-05 00:00:00
+Finding Fanny,515393,7070093,0,Foreign,2014-09-12 00:00:00
+The Signal (2014),155642,0,0,Sci-Fi Thriller,2014-06-13 00:00:00
+The Disappearance of Eleanor Rigby,66941,397233,0,Drama,2014-09-12 00:00:00
+Back in Time (Congcong Nanian),206591,0,0,Foreign,2014-12-12 00:00:00
+Forrest Gump (IMAX),398560,0,0,Drama,2014-09-05 00:00:00
+The Attorney,216035,70010303,0,Foreign,2014-02-07 00:00:00
+23 Blast,337091,0,0,Sports Drama,2014-10-24 00:00:00
+On Any Sunday:The Next Chapter,320894,0,0,Documentary,2014-11-07 00:00:00
+Highway (2014),326654,0,0,Foreign,2014-02-21 00:00:00
+Dom Hemingway,29276,0,0,Crime,2014-04-02 00:00:00
+A Hard Day's Night (2014 re-release),220542,0,0,Musical,2014-07-04 00:00:00
+The One I Love,48059,0,0,Romantic Comedy,2014-08-22 00:00:00
+Tracks (2014),21544,4368235,0,Drama,2014-09-19 00:00:00
+The Two Faces of January,43116,13044488,0,Thriller,2014-09-26 00:00:00
+A Girl Walks Home Alone at Night,0,0,0,Foreign,2014-11-21 00:00:00
+Last Days in Vietnam,30500,0,0,Documentary,2014-09-05 00:00:00
+In Secret,265586,0,0,Romantic Thriller,2014-02-21 00:00:00
+But Always (Yi Sheng Yi Shi),144720,0,0,Foreign,2014-09-05 00:00:00
+Beijing Love Story,140106,0,0,Foreign,2014-02-14 00:00:00
+Cold in July,40317,0,0,Drama / Thriller,2014-05-23 00:00:00
+She's Beautiful When She's Angry,10505,0,0,Documentary,2014-12-05 00:00:00
+The German Doctor,34259,2600000,0,Foreign,2014-04-25 00:00:00
+The Pirates,26025,32100000,0,Foreign,2014-09-05 00:00:00
+Goodbye to Language,0,0,0,Foreign,2014-10-24 00:00:00
+Humpty Sharma Ki Dulhania,380011,0,0,Foreign,2014-07-11 00:00:00
+Women Who Flirt (Sajiao Nvren),74052,0,0,Foreign,2014-11-26 00:00:00
+Venus in Fur,24761,7976421,0,Drama,2014-06-20 00:00:00
+Joe (2014),105881,0,0,Drama,2014-04-11 00:00:00
+Glen Campbell... I'll Be Me,86741,0,0,Documentary,2014-10-24 00:00:00
+Omar,157000,0,0,Foreign,2014-02-21 00:00:00
+The Face of Love,24660,0,0,Drama,2014-03-07 00:00:00
+Le Chef,11290,5912970,0,Foreign,2014-06-20 00:00:00
+Jimi:All Is By My Side,97008,0,0,Music Drama,2014-09-26 00:00:00
+Chinese Puzzle,23544,7144485,0,Foreign,2014-05-16 00:00:00
+I Origins,27652,0,0,Drama,2014-07-18 00:00:00
+"Like Father, Like Son (2014)",16044,19644345,0,Foreign,2014-01-17 00:00:00
+The Guest (2014),84527,2034271,0,Thriller,2014-09-17 00:00:00
+Elaine Stritch:Shoot Me,27853,0,0,Documentary,2014-02-21 00:00:00
+Nymphomaniac:Volume II,74978,1900000,0,Drama,2014-04-04 00:00:00
+Stranger By the Lake,27599,0,0,Foreign,2014-01-24 00:00:00
+On My Way,10536,0,0,Foreign,2014-03-14 00:00:00
+Happy Ending,198702,0,0,Foreign,2014-11-21 00:00:00
+The Hornet's Nest,26550,0,0,Documentary,2014-05-09 00:00:00
+I Am Eleven,5800,0,0,Documentary,2014-09-12 00:00:00
+A Five Star Life,15996,2198866,0,Foreign,2014-07-18 00:00:00
+Mood Indigo,26511,9500000,0,Foreign,2014-07-18 00:00:00
+Innocence (2014),235224,0,0,Fantasy,2014-09-05 00:00:00
+The Dance of Reality,24768,0,0,Foreign,2014-05-23 00:00:00
+Antarctica:A Year on Ice,32238,0,0,Documentary,2014-11-28 00:00:00
+The Last of Robin Hood,25821,0,0,Drama,2014-08-29 00:00:00
+Elsa & Fred (2014),65275,0,0,Romantic Comedy,2014-11-07 00:00:00
+Kundo:Age of the Rampant,120857,0,0,Foreign,2014-08-29 00:00:00
+"20,000 Days on Earth",27879,1826000,0,Documentary,2014-09-17 00:00:00
+The Unknown Known,64315,0,0,Documentary,2014-04-04 00:00:00
+Main Tera Hero,162404,0,0,Foreign,2014-04-04 00:00:00
+Night Moves,21488,0,0,Thriller,2014-05-30 00:00:00
+Love on the Cloud (Wei Ai),67967,0,0,Foreign,2014-12-24 00:00:00
+The Love Punch,0,4522129,0,Comedy,2014-05-23 00:00:00
+Life of Crime,104300,0,0,Comedy,2014-08-29 00:00:00
+Ernest & Celestine,13078,4813287,0,Animation,2014-02-28 00:00:00
+Blue Ruin,32608,0,0,Thriller,2014-04-25 00:00:00
+The Green Prince,32698,0,0,Documentary,2014-09-12 00:00:00
+The Zero Theorem,83803,513000,0,Sci-Fi,2014-09-19 00:00:00
+Action Jackson (2014),171795,0,0,Foreign,2014-12-05 00:00:00
+Alive Inside,7200,0,0,Documentary,2014-07-18 00:00:00
+The Blue Room,21809,0,0,Foreign,2014-10-03 00:00:00
+National Gallery,10049,0,0,Documentary,2014-11-05 00:00:00
+Tazza:The Hidden Card,24106,0,0,Foreign,2014-09-19 00:00:00
+The Galapagos Affair:Satan Came to Eden,5185,0,0,Documentary,2014-04-04 00:00:00
+James Cameron's Deepsea Challenge 3D,149879,0,0,Documentary,2014-08-08 00:00:00
+Art and Craft,20879,0,0,Documentary,2014-09-19 00:00:00
+Diplomacy,8518,3716000,0,Foreign,2014-10-15 00:00:00
+Dr. Cabbie (U.S. only),118732,0,0,Comedy,2014-11-26 00:00:00
+The Suspect (2014),86137,21362890,0,Foreign,2014-01-10 00:00:00
+Supermensch:The Legend of Shep Gordon,23017,0,0,Documentary,2014-06-06 00:00:00
+The Breakup Guru,62717,0,0,Foreign,2014-06-27 00:00:00
+Rob the Mob,13833,0,0,Crime Thriller,2014-03-21 00:00:00
+Under the Electric Sky,0,0,0,Documentary,2014-05-29 00:00:00
+Jinn,149337,0,0,Thriller,2014-04-04 00:00:00
+Bethlehem,69700,0,0,Foreign,2014-03-07 00:00:00
+The Double (2014),14646,0,0,Comedy / Drama,2014-05-09 00:00:00
+Listen Up Philip,23284,0,0,Drama,2014-10-17 00:00:00
+A Summer's Tale,12863,0,0,Foreign,2014-06-20 00:00:00
+Code Black,6319,0,0,Documentary,2014-06-20 00:00:00
+We Are The Best!,17664,0,0,Foreign,2014-05-30 00:00:00
+Anita,44114,0,0,Documentary,2014-03-21 00:00:00
+Evangelion:3.0 You Can (Not) Redo,110825,60313000,0,Animation,2014-01-10 00:00:00
+Horns,107544,3701494,0,Fantasy Drama,2014-10-31 00:00:00
+Afternoon of a Faun,15292,0,0,Documentary,2014-02-05 00:00:00
+That Demon Within,77130,0,0,Foreign / Action,2014-04-18 00:00:00
+God's Pocket,21482,0,0,Drama,2014-05-09 00:00:00
+NAS:Time is Illmatic,23200,0,0,Documentary,2014-10-01 00:00:00
+Keep On Keepin' On,12930,0,0,Documentary,2014-09-19 00:00:00
+Sinbad:The Fifth Voyage,0,0,0,Fantasy,2014-02-07 00:00:00
+Citizen Koch,10200,0,0,Documentary,2014-06-06 00:00:00
+Alan Partridge:The Movie,12664,9573673,0,Comedy,2014-04-04 00:00:00
+Dancing in Jaffa,10564,0,0,Documentary,2014-04-11 00:00:00
+A Coffee in Berlin,3918,2600000,0,Foreign,2014-06-13 00:00:00
+Godzilla:The Japanese Original,10903,0,0,Foreign,2014-04-18 00:00:00
+Kids For Cash,36639,0,0,Documentary,2014-02-07 00:00:00
+Gore Vidal:United States of Amnesia,13744,0,0,Documentary,2014-05-23 00:00:00
+Mistaken for Strangers,87743,0,0,Documentary,2014-03-28 00:00:00
+The Congress,28640,318000,0,Sci-Fi,2014-08-29 00:00:00
+The Divine Move,49057,27790164,0,Foreign,2014-07-25 00:00:00
+Redwood Highway,30,0,0,Drama,2014-04-11 00:00:00
+The Jewish Cardinal,0,0,0,Foreign,2014-01-10 00:00:00
+Raja Natwarlal,83669,0,0,Foreign,2014-08-29 00:00:00
+Bjork - Biophilia Live,0,305932,0,Documentary,2014-09-26 00:00:00
+Make Your Move,81172,1346000,0,Drama,2014-04-18 00:00:00
+Knights of Badassdom,17449,0,0,Comedy,2014-01-21 00:00:00
+Afflicted (2014),69447,0,0,Horror,2014-04-04 00:00:00
+Finding Fela,0,0,0,Documentary,2014-08-01 00:00:00
+Zero Motivation,9427,0,0,Foreign,2014-12-03 00:00:00
+God the Father,15037,0,0,Documentary,2014-10-17 00:00:00
+The Liberator,69992,0,0,Foreign,2014-10-03 00:00:00
+Penton:The John Penton Story,0,0,0,Documentary,2014-06-23 00:00:00
+Rich Hill,9635,0,0,Documentary,2014-08-01 00:00:00
+The Overnighters,4324,0,0,Documentary,2014-10-10 00:00:00
+Duran Duran:Unstaged,0,0,0,Documentary,2014-09-10 00:00:00
+Anohana The Movie:The Flower We Saw That Day,37480,0,0,Animation,2014-01-18 00:00:00
+Ivory Tower,17857,0,0,Documentary,2014-06-13 00:00:00
+Six Dance Lessons in Six Weeks,12542,0,0,Comedy,2014-12-12 00:00:00
+The Golden Era,50242,0,0,Foreign,2014-10-17 00:00:00
+God Help the Girl,11330,0,0,Drama,2014-09-05 00:00:00
+Coherence,17000,0,0,Sci-Fi,2014-06-20 00:00:00
+The Way He Looks,26334,1058000,0,Foreign,2014-11-07 00:00:00
+Korengal,14630,0,0,Documentary,2014-05-30 00:00:00
+One Chance,33405,10799238,0,Musical,2014-10-10 00:00:00
+Beyond Sight:The Derek Rabelo Story,26840,0,0,Documentary,2014-03-07 00:00:00
+The Best Offer,2595,0,0,Crime Drama,2014-01-03 00:00:00
+Child's Pose,12955,0,0,Foreign,2014-02-19 00:00:00
+Hiroshima Mon Amour (2014 re-release),18494,0,0,Foreign,2014-10-17 00:00:00
+Cuban Fury,57105,0,0,Comedy,2014-04-11 00:00:00
+Generation War,7386,0,0,Foreign,2014-01-15 00:00:00
+Girl on a Bicycle,37610,0,0,Romantic Comedy,2014-02-14 00:00:00
+Pump,42200,0,0,Documentary,2014-09-19 00:00:00
+Breathe In,15324,0,0,Drama,2014-03-28 00:00:00
+The Principle,8657,0,0,Documentary,2014-10-24 00:00:00
+Life After Beth,15843,0,0,Comedy,2014-08-15 00:00:00
+Advanced Style,6500,0,0,Documentary,2014-09-26 00:00:00
+Visitors (2014),9094,0,0,Documentary,2014-01-24 00:00:00
+Watermark,7724,0,0,Foreign,2014-04-04 00:00:00
+12 O'Clock Boys,44108,0,0,Documentary,2014-01-31 00:00:00
+Water & Power,39428,0,0,Crime Drama,2014-05-02 00:00:00
+Fort McCoy,4070,0,0,Drama,2014-08-15 00:00:00
+Whitey:USA v. James J. Bulger,14287,0,0,Documentary,2014-06-27 00:00:00
+Just a Sigh,11500,1200000,0,Foreign,2014-03-21 00:00:00
+Better Living Through Chemistry,46435,0,0,Comedy,2014-03-14 00:00:00
+Veil of Tears,44358,0,0,Documentary,2014-03-28 00:00:00
+"Flamenco, Flamenco",1259,0,0,Foreign,2014-07-18 00:00:00
+"Je T'aime, Je T'aime (2014 re-issue)",12869,0,0,Foreign,2014-02-14 00:00:00
+A Letter to Momo,4596,6677000,0,Animation,2014-07-23 00:00:00
+The Better Angels,4246,0,0,Drama,2014-11-07 00:00:00
+Take Me to the River,25588,0,0,Documentary,2014-09-12 00:00:00
+For No Good Reason,4516,0,0,Documentary,2014-04-25 00:00:00
+The Notebook (2014),3127,0,0,Foreign,2014-08-29 00:00:00
+Through a Lens Darkly,9456,0,0,Documentary,2014-08-27 00:00:00
+Art of the Steal,40003,0,0,Comedy,2014-03-14 00:00:00
+Jealousy,5533,0,0,Foreign,2014-08-15 00:00:00
+Heropanti,32831,0,0,Foreign,2014-05-23 00:00:00
+No Tears for the Dead,8329,0,0,Foreign,2014-06-13 00:00:00
+The Last Sentence,9020,265000,0,Foreign,2014-06-20 00:00:00
+Young and Beautiful,4607,0,0,Foreign,2014-04-25 00:00:00
+Siddharth,4564,0,0,Foreign,2014-06-27 00:00:00
+Bicycling with Moliere,3896,10700000,0,Foreign,2014-04-23 00:00:00
+Frontera,10962,0,0,Drama,2014-09-05 00:00:00
+Wetlands,6488,10501000,0,Foreign,2014-09-05 00:00:00
+Cheap Thrills,18638,0,0,Comedy Thriller,2014-03-21 00:00:00
+Walk of Shame,39751,0,0,Romantic Comedy,2014-05-02 00:00:00
+The One I Wrote For You,48643,0,0,Drama,2014-12-05 00:00:00
+Sagrada:The Mystery of Creation,2009,0,0,Documentary,2014-09-12 00:00:00
+The Conformist (2014 re-release),0,0,0,Foreign,2014-08-29 00:00:00
+Rudderless,37440,0,0,Comedy / Drama,2014-10-17 00:00:00
+Borgman,5317,952000,0,Foreign,2014-06-06 00:00:00
+The Rocket (2014),4621,0,0,Foreign,2014-01-10 00:00:00
+Ilo Ilo,8775,1100000,0,Foreign,2014-04-04 00:00:00
+The Bag Man,29231,0,0,Crime Drama,2014-02-28 00:00:00
+Big Men,7539,0,0,Documentary,2014-03-14 00:00:00
+In Bloom,9280,0,0,Foreign,2014-01-10 00:00:00
+Hellion,7601,0,0,Drama,2014-06-13 00:00:00
+Starred Up,10358,0,0,Drama,2014-08-27 00:00:00
+Half of a Yellow Sun,4843,0,0,Drama,2014-05-16 00:00:00
+Low Down,5278,0,0,Drama,2014-10-24 00:00:00
+Hateship Loveship,6015,0,0,Drama,2014-04-11 00:00:00
+"1,000 Times Good Night",24120,0,0,Foreign,2014-10-24 00:00:00
+At Middleton,33768,0,0,Romance,2014-01-31 00:00:00
+Ping Pong Summer,25781,0,0,Comedy,2014-06-06 00:00:00
+To Be Takei,22846,0,0,Documentary,2014-08-22 00:00:00
+The Missing Picture,10148,0,0,Foreign,2014-03-19 00:00:00
+The Retrieval,7232,0,0,Drama,2014-03-14 00:00:00
+The Discoverers,7166,0,0,Comedy / Drama,2014-05-16 00:00:00
+NOW:In the Wings on a World Stage,21500,0,0,Documentary,2014-05-02 00:00:00
+Shirin in Love,0,0,0,Romantic Comedy,2014-03-14 00:00:00
+The Internet's Own Boy,21705,0,0,Documentary,2014-06-27 00:00:00
+A Birder's Guide to Everything,21602,0,0,Comedy,2014-03-21 00:00:00
+American Mustang,7906,0,0,Family,2014-01-17 00:00:00
+Viva La Liberta,5272,0,0,Foreign,2014-11-07 00:00:00
+Lucky Them,3728,0,0,Romantic Comedy,2014-05-30 00:00:00
+Decoding Annie Parker,16781,0,0,Drama,2014-05-02 00:00:00
+Alphaville (2013 re-release),7298,0,0,Foreign,2014-02-07 00:00:00
+A Master Builder,7017,0,0,Drama,2014-07-23 00:00:00
+Monk With a Camera,0,0,0,Documentary,2014-11-21 00:00:00
+Filmistaan,31113,0,0,Foreign,2014-06-06 00:00:00
+Return to The Hiding Place,36942,0,0,Historical Drama,2014-05-23 00:00:00
+Ai Weiwei:The Fake Case,5066,0,0,Documentary,2014-05-16 00:00:00
+There's No Place Like Utopia,30710,0,0,Documentary,2014-07-18 00:00:00
+The Dog,12431,0,0,Documentary,2014-08-08 00:00:00
+If You Build It,4949,0,0,Documentary,2014-01-10 00:00:00
+Road to Ninja - Naruto the Movie,19017,17278965,0,Animation,2014-08-29 00:00:00
+Next Goal Wins,2568,0,0,Documentary,2014-04-25 00:00:00
+Interior. Leather Bar.,5218,0,0,Drama,2014-01-03 00:00:00
+Blood Ties (2014),26912,2373000,0,Crime Drama,2014-03-21 00:00:00
+The Last Of The Unjust,14328,0,0,Documentary,2014-02-07 00:00:00
+Teenage,8000,0,0,Documentary,2014-03-14 00:00:00
+Child of God,27630,0,0,Drama,2014-08-01 00:00:00
+Expedition to the End of the World,6635,0,0,Documentary,2014-08-20 00:00:00
+7 Boxes,6447,266900,0,Foreign / Action,2014-02-07 00:00:00
+Dead Snow 2:Red vs. Dead,17331,0,0,Horror Comedy,2014-10-10 00:00:00
+Not Cool,10329,0,0,Comedy,2014-09-19 00:00:00
+Le Jour Se Leve (2014 re-release),11864,0,0,Foreign,2014-11-14 00:00:00
+That Man From Rio,0,0,0,Foreign,2014-08-22 00:00:00
+Beneath the Harvest Sky,16768,0,0,Drama,2014-04-25 00:00:00
+This Ain't No Mouse Music!,15982,0,0,Documentary,2014-09-19 00:00:00
+Expelled from Paradise,18869,0,0,Animation,2014-12-13 00:00:00
+Tiger & Bunny The Movie:The Rising,23171,0,0,Animation,2014-03-14 00:00:00
+Filth,7526,8300000,0,Crime,2014-05-30 00:00:00
+Rocks in my Pockets,4674,0,0,Animation,2014-09-03 00:00:00
+White Bird in a Blizzard,6302,0,0,Drama,2014-10-24 00:00:00
+It Felt Like Love,8211,0,0,Drama,2014-03-21 00:00:00
+K:Missing Kings,0,0,0,Animation,2014-07-18 00:00:00
+Big Bad Wolves,6342,0,0,Foreign,2014-01-17 00:00:00
+A Field in England,9498,0,0,Historical Drama,2014-02-07 00:00:00
+For a Woman,6530,1200000,0,Foreign,2014-05-02 00:00:00
+The Hero of Color City,24260,0,0,Animation,2014-10-03 00:00:00
+Bird People,7443,0,0,Romance,2014-09-12 00:00:00
+Abuse of Weakness,9140,0,0,Foreign,2014-08-15 00:00:00
+The Passionate Thief (2014 re-release),8677,0,0,Foreign,2014-12-05 00:00:00
+Documented,5422,0,0,Documentary,2014-05-02 00:00:00
+Happy Christmas,7523,0,0,Comedy / Drama,2014-07-25 00:00:00
+Jimmy P,7191,0,0,Drama,2014-02-14 00:00:00
+Southern Baptist Sissies,5200,0,0,Drama,2014-02-21 00:00:00
+A Long Way Off,1926,0,0,Drama,2014-05-16 00:00:00
+Manakamana,3635,0,0,Documentary,2014-04-18 00:00:00
+Yellow Day,29144,0,0,Family,2014-09-19 00:00:00
+Othello (2014 re-release),6010,0,0,Drama,2014-04-25 00:00:00
+Why Don't You Play in Hell,5060,1200000,0,Foreign,2014-11-07 00:00:00
+Stations of the Elevated,9423,0,0,Documentary,2014-10-17 00:00:00
+Closed Curtain,5002,0,0,Foreign,2014-07-09 00:00:00
+The King and the Mockingbird,3721,0,0,Animation,2014-11-21 00:00:00
+Lilting,1567,0,0,Drama,2014-09-26 00:00:00
+Last Weekend,2661,0,0,Comedy,2014-08-29 00:00:00
+Elena (2014),10341,0,0,Documentary,2014-05-30 00:00:00
+Christian Mingle,19836,0,0,Romantic Comedy,2014-10-10 00:00:00
+Level Five,7161,0,0,Foreign,2014-08-15 00:00:00
+Adult World,3783,0,0,Comedy,2014-02-14 00:00:00
+Born to Fly:Elizabeth Streb vs. Gravity,8406,0,0,Documentary,2014-09-10 00:00:00
+Happy Valley (2014),9047,0,0,Documentary,2014-11-21 00:00:00
+Believe Me,0,0,0,Comedy,2014-09-26 00:00:00
+A Tale of Winter (Conte d'hiver),3802,0,0,Foreign,2014-12-19 00:00:00
+Video Games:The Movie,12759,0,0,Documentary,2014-07-18 00:00:00
+Short Peace,0,0,0,Animation,2014-03-03 00:00:00
+Two Lives,1303,0,0,Foreign,2014-02-28 00:00:00
+Grand Piano,2964,0,0,Thriller,2014-03-07 00:00:00
+May in the Summer,0,112000,0,Comedy / Drama,2014-08-22 00:00:00
+Bright Days Ahead,4919,1414579,0,Foreign,2014-04-25 00:00:00
+The Decent One,0,0,0,Documentary,2014-10-01 00:00:00
+Memphis,0,0,0,Drama,2014-09-05 00:00:00
+The Sacrifice,0,0,0,Drama,2014-11-12 00:00:00
+Lekar Hum Deewana Dil,14418,0,0,Foreign,2014-07-04 00:00:00
+The Great Flood,3596,0,0,Documentary,2014-01-08 00:00:00
+Run and Jump,3944,0,0,Drama,2014-01-24 00:00:00
+The Past is a Grotesque Animal,0,0,0,Documentary,2014-06-20 00:00:00
+Uzumasa Limelight,10090,0,0,Foreign,2014-12-05 00:00:00
+A Picture of You,5650,0,0,Drama,2014-06-20 00:00:00
+Guardian Angel,12624,0,0,Action Drama,2014-10-17 00:00:00
+Peter Brook:The Tightrope,6768,0,0,Documentary,2014-01-31 00:00:00
+Actress (2014),4880,0,0,Documentary,2014-11-07 00:00:00
+Watchers of the Sky,7473,0,0,Documentary,2014-10-17 00:00:00
+The Kill Team,0,0,0,Documentary,2014-07-25 00:00:00
+Test,0,0,0,Drama,2014-06-06 00:00:00
+Tasting Menu,6010,0,0,Comedy,2014-04-18 00:00:00
+Two Night Stand,15600,0,0,Romantic Comedy,2014-09-26 00:00:00
+Who is Dayani Cristal?,5712,0,0,Documentary,2014-04-25 00:00:00
+Journey to the West,7456,0,0,Foreign,2014-03-07 00:00:00
+One Day Pina Asked...,1756,0,0,Documentary,2014-04-04 00:00:00
+Kelly & Cal,5387,0,0,Comedy,2014-09-05 00:00:00
+The Homestretch,8373,0,0,Documentary,2014-09-12 00:00:00
+Stand Clear of the Closing Doors,7000,0,0,Drama,2014-05-23 00:00:00
+Accident,5798,0,0,Drama,2014-05-23 00:00:00
+Goodbye To All That,0,0,0,Drama,2014-12-17 00:00:00
+Cold Comes the Night,11603,0,0,Thriller,2014-01-10 00:00:00
+Hank and Asha,6192,0,0,Romantic Comedy,2014-04-11 00:00:00
+Burning Bush,0,0,0,Foreign,2014-06-11 00:00:00
+Magician:The Astonishing Life and Work of Orson Welles,7130,0,0,Documentary,2014-12-10 00:00:00
+Levitated Mass,4589,0,0,Documentary,2014-09-05 00:00:00
+Barefoot,11767,0,0,Comedy / Drama,2014-02-21 00:00:00
+Horses of God,2251,0,0,Foreign,2014-05-14 00:00:00
+Last Passenger,9326,0,0,Action Thriller,2014-04-25 00:00:00
+Exhibition,0,0,0,Drama,2014-06-20 00:00:00
+13 Sins,9261,0,0,Thriller,2014-04-18 00:00:00
+The Pretty One,1484,0,0,Comedy,2014-02-07 00:00:00
+Tosca's Kiss (2014 re-release),418,0,0,Documentary,2014-06-06 00:00:00
+Fifi Howls From Happiness,2728,0,0,Documentary,2014-08-08 00:00:00
+War of the Worlds:Goliath,13385,0,0,Animation,2014-03-07 00:00:00
+A Long Way Down,1426,7163000,0,Comedy / Drama,2014-07-11 00:00:00
+Camp X-Ray,1316,0,0,Drama,2014-10-17 00:00:00
+Days and Nights,6003,0,0,Drama,2014-09-26 00:00:00
+Sol LeWitt,4051,0,0,Documentary,2014-05-07 00:00:00
+The Pleasures of Being Out of Step,1846,0,0,Documentary,2014-05-16 00:00:00
+K2:Siren of the Himalayas,1421,0,0,Documentary,2014-08-22 00:00:00
+Alien Abduction,10514,0,0,Sci-Fi Horror,2014-04-04 00:00:00
+Concerning Violence,0,0,0,Documentary,2014-12-05 00:00:00
+Special ID,6153,0,0,Foreign / Action,2014-03-07 00:00:00
+Bhopal:A Prayer for Rain,5948,0,0,Drama,2014-11-07 00:00:00
+Boy Meets Girl,0,0,0,Foreign,2014-08-08 00:00:00
+Touch the Wall,6200,0,0,Documentary,2014-11-28 00:00:00
+Wolves,0,0,0,Action Horror,2014-11-14 00:00:00
+In No Great Hurry:13 Lessons in Life with Saul Leiter,6100,0,0,Documentary,2014-01-03 00:00:00
+The French Minister,3800,5100000,0,Foreign,2014-03-21 00:00:00
+Queen Margot (2014 re-release),4985,0,0,Foreign,2014-05-09 00:00:00
+Revenge of the Mekons,2354,0,0,Documentary,2014-10-29 00:00:00
+Falcon Rising,8691,0,0,Action / Adventure,2014-09-05 00:00:00
+Life of Riley,0,2338000,0,Foreign,2014-10-24 00:00:00
+Living is Easy with Eyes Closed,11600,2591825,0,Foreign,2014-06-27 00:00:00
+You're Not You,9226,0,0,Drama,2014-10-10 00:00:00
+The Great Invisible,2348,0,0,Documentary,2014-10-29 00:00:00
+The Final Member,2064,0,0,Documentary,2014-04-18 00:00:00
+The Amazing Catfish,733,0,0,Foreign,2014-06-13 00:00:00
+Dishkiyaoon,8173,0,0,Foreign,2014-03-28 00:00:00
+Policeman,7379,27000,0,Foreign,2014-06-13 00:00:00
+Pay 2 Play:Democracy's High Stakes,2233,0,0,Documentary,2014-09-05 00:00:00
+The Players,6674,24600000,0,Foreign,2014-04-04 00:00:00
+As It Is In Heaven,531,0,0,Drama,2014-07-18 00:00:00
+Inside the Mind of Leonardo Da Vinci in 3D,0,0,0,Documentary,2014-12-19 00:00:00
+"Norte, the End of History",2164,0,0,Foreign,2014-06-20 00:00:00
+Stray Dogs,2998,0,0,Foreign,2014-09-12 00:00:00
+The Endless Summer (2014 re-release),0,0,0,Documentary,2014-07-23 00:00:00
+Before I Disappear,2676,0,0,Comedy / Drama,2014-11-28 00:00:00
+Kabbalah Me,2196,0,0,Documentary,2014-08-22 00:00:00
+Marius,0,2240000,0,Foreign,2014-07-04 00:00:00
+"If You Don't, I Will",1707,0,0,Foreign,2014-12-17 00:00:00
+On the Other Side of the Tracks,5923,25100000,0,Foreign,2014-04-04 00:00:00
+In the House of Flies,3500,0,0,Thriller,2014-05-09 00:00:00
+Radio Free Albemuth,5553,0,0,Sci-Fi,2014-06-27 00:00:00
+The Immortalists,0,0,0,Documentary,2014-11-26 00:00:00
+Honeymoon,4131,0,0,Horror,2014-09-12 00:00:00
+The Sacrament,583,0,0,Horror,2014-06-06 00:00:00
+The Cabinet of Dr. Caligari (2014 re-release),0,0,0,Horror,2014-10-31 00:00:00
+Fanny,1872,0,0,Foreign,2014-07-25 00:00:00
+Comet,0,0,0,Comedy / Drama,2014-12-05 00:00:00
+The Mystery of Happiness,382,3155000,0,Foreign,2014-09-12 00:00:00
+The Quitter,5588,0,0,Comedy / Drama,2014-09-12 00:00:00
+Canopy,3042,0,0,Adventure,2014-08-29 00:00:00
+Almost Human,2722,0,0,Sci-Fi Horror,2014-02-21 00:00:00
+Red Hollywood,4760,0,0,Documentary,2014-08-15 00:00:00
+Love is in the Air,4937,0,0,Foreign,2014-01-31 00:00:00
+Eternity the Movie,1582,0,0,Comedy,2014-10-17 00:00:00
+Gringo Trails,158,0,0,Documentary,2014-04-19 00:00:00
+Life Partners,2665,0,0,Romantic Comedy,2014-12-05 00:00:00
+Empty Hours,1366,0,0,Foreign,2014-07-11 00:00:00
+Gladiators of Rome,1920,10071000,0,Animation,2014-11-11 00:00:00
+Next Year Jerusalem,2590,0,0,Documentary,2014-05-16 00:00:00
+Rigor Mortis,7865,0,0,Foreign / Horror,2014-06-06 00:00:00
+Archipelago,0,491598,0,Drama,2014-06-27 00:00:00
+Faith Connections,0,0,0,Documentary,2014-09-12 00:00:00
+Come Back to Me,4156,0,0,Horror,2014-07-25 00:00:00
+Iceman (2014),4698,26000000,0,Foreign / Action,2014-09-19 00:00:00
+The Little Bedroom,2981,0,0,Foreign,2014-09-26 00:00:00
+Raze,3453,0,0,Action Horror,2014-01-10 00:00:00
+I Am Ali,4178,0,0,Documentary,2014-10-10 00:00:00
+The Strange Color of Your Body's Tears,1535,0,0,Foreign,2014-08-29 00:00:00
+ABCs of Death 2,4022,0,0,Horror,2014-10-31 00:00:00
+Stage Fright (2014),3562,0,0,Horror,2014-05-09 00:00:00
+Plot for Peace,2554,0,0,Documentary,2014-10-31 00:00:00
+Very Good Girls,4102,0,0,Drama,2014-07-25 00:00:00
+Pioneer,1857,0,0,Thriller,2014-12-05 00:00:00
+"No God, No Master",0,0,0,Crime Thriller,2014-03-28 00:00:00
+Before You Know It,1591,0,0,Documentary,2014-05-30 00:00:00
+Will You Still Love Me Tomorrow,2969,0,0,Foreign,2014-01-17 00:00:00
+Aatsinki:The Story of Arctic Cowboys,2842,0,0,Documentary,2014-01-24 00:00:00
+Life of a King,4231,0,0,Drama,2014-01-17 00:00:00
+Jews of Egypt,2179,0,0,Documentary,2014-03-28 00:00:00
+The Adventurer:The Curse of the Midas Box,4756,0,0,Family Adventure,2014-01-10 00:00:00
+Manuscripts Don't Burn,0,0,0,Foreign,2014-07-25 00:00:00
+Tip Top,0,0,0,Foreign,2014-12-12 00:00:00
+Love and Air Sex,0,0,0,Comedy,2014-02-07 00:00:00
+Cavemen,3544,0,0,Romantic Comedy,2014-02-07 00:00:00
+Gang of Ghosts,4520,0,0,Foreign,2014-03-21 00:00:00
+The Strange Little Cat,3594,0,0,Foreign,2014-08-01 00:00:00
+"2 Autumns, 3 Winters",2163,0,0,Foreign,2014-06-06 00:00:00
+The Devil's Hand,4239,0,0,Horror,2014-10-10 00:00:00
+Papirosen,0,0,0,Documentary,2014-01-24 00:00:00
+Kid Cannabis,5565,0,0,Drama,2014-04-18 00:00:00
+Gabrielle (2014),3024,222000,0,Foreign,2014-04-18 00:00:00
+Flex is Kings,3152,0,0,Documentary,2014-04-04 00:00:00
+The Only Real Game,1130,0,0,Documentary,2014-03-07 00:00:00
+Return to Nuke 'Em High Volume 1,3226,0,0,Horror Comedy,2014-01-10 00:00:00
+Sleepwalker,2636,0,0,Horror,2014-11-21 00:00:00
+Nothing Bad Can Happen,2853,0,0,Foreign,2014-06-27 00:00:00
+Half the Road,1613,0,0,Documentary,2014-04-18 00:00:00
+Death Metal Angola,895,0,0,Documentary,2014-11-07 00:00:00
+Smiling Through the Apocalypse,2590,0,0,Documentary,2014-09-12 00:00:00
+Unrelated,0,154463,0,Drama,2014-06-27 00:00:00
+The Truth About Emanuel,0,0,0,Thriller,2014-01-10 00:00:00
+Anna,2541,0,0,Thriller,2014-06-06 00:00:00
+Free the Nipple,606,0,0,Drama,2014-12-12 00:00:00
+Thunder and the House of Magic!,4091,64193114,0,Animation,2014-09-05 00:00:00
+Maidan,1847,0,0,Documentary,2014-12-12 00:00:00
+Beyond Outrage,1938,16211978,0,Foreign,2014-01-03 00:00:00
+Swim Little Fish Swim,0,0,0,Comedy,2014-09-19 00:00:00
+Hollidaysburg,1713,0,0,Comedy,2014-09-19 00:00:00
+The Word,3648,0,0,Thriller,2014-03-14 00:00:00
+Stop the Pounding Heart,2363,0,0,Documentary,2014-09-19 00:00:00
+Hide Your Smiling Faces,0,0,0,Drama,2014-03-28 00:00:00
+Evolution of a Criminal,0,0,0,Documentary,2014-10-10 00:00:00
+Locker 13,2468,0,0,Thriller,2014-03-28 00:00:00
+The Hacker Wars,2958,0,0,Documentary,2014-10-17 00:00:00
+Aftermath (2014),1124,0,0,Crime Thriller,2014-11-28 00:00:00
+Life's a Breeze,1361,99668,0,Comedy / Drama,2014-09-19 00:00:00
+Age of Uprising:The Legend of Michael Kohlhaas (U.S. only),0,797000,0,Foreign,2014-05-30 00:00:00
+The Girl on the Train (2014),211,0,0,Drama,2014-07-04 00:00:00
+Showrunners:The Art of Running a TV Show,3100,0,0,Documentary,2014-10-31 00:00:00
+What Now? Remind Me,1434,0,0,Foreign,2014-08-08 00:00:00
+French Gigolo (Cliente),0,6003708,0,Foreign,2014-03-21 00:00:00
+Fatal Assistance,3000,0,0,Documentary,2014-02-28 00:00:00
+V/H/S:Viral,1221,0,0,Horror,2014-11-21 00:00:00
+Black Out,1749,0,0,Foreign / Action,2014-02-21 00:00:00
+Mercedes Sosa:The Voice of Latin America,1415,0,0,Documentary,2014-01-24 00:00:00
+Refuge,1274,0,0,Drama,2014-03-28 00:00:00
+Indigo Children,1829,0,0,Drama,2014-01-17 00:00:00
+Jake Squared,1681,0,0,Comedy / Drama,2014-08-15 00:00:00
+McCanick,1929,0,0,Drama,2014-03-21 00:00:00
+Two-Bit Waltz,136,0,0,Comedy,2014-10-24 00:00:00
+The Wait,161,0,0,Drama / Thriller,2014-01-10 00:00:00
+The Protector 2,270,3300000,0,Foreign / Action,2014-05-02 00:00:00
+Evergreen:The Road to Legalization,189,0,0,Documentary,2014-06-13 00:00:00
+Moebius,876,0,0,Foreign,2014-08-01 00:00:00
+Infliction,816,0,0,Horror,2014-03-16 00:00:00
+Missionary,0,0,0,Drama / Thriller,2014-10-31 00:00:00
+Missionary,2120,0,0,Drama / Thriller,2014-10-31 00:00:00
+The Right Kind of Wrong,593,0,0,Romantic Comedy,2014-03-14 00:00:00
+Algorithms,317,0,0,Documentary,2014-10-17 00:00:00
+Open Windows,0,0,0,Thriller,2014-11-07 00:00:00
+Mr. Pip,1714,0,0,War Drama,2014-11-07 00:00:00
+More Than the Rainbow,1082,0,0,Documentary,2014-05-02 00:00:00
+Summer in February,0,0,0,Drama,2014-01-17 00:00:00
+Rhymes for Young Ghouls,141,0,0,Drama,2014-10-24 00:00:00
+Postman Pat:The Movie,1254,1322324,0,Animation,2014-06-27 00:00:00
+Souldier,900,0,0,Documentary,2014-02-21 00:00:00
+Ragnarok,522,3719976,0,Foreign,2014-08-22 00:00:00
+The Tower (2014),726,0,0,Documentary,2014-11-07 00:00:00
+Anything For Alice,738,0,0,Foreign,2014-12-17 00:00:00
+We Are the Giant,1088,0,0,Documentary,2014-12-12 00:00:00
+The Butterfly Room,1081,0,0,Thriller,2014-04-11 00:00:00
+Demi-Soeur,634,0,0,Foreign,2014-02-07 00:00:00
+A People Uncounted,390,0,0,Documentary,2014-05-16 00:00:00
+Jackpot,806,1060000,0,Foreign,2014-06-27 00:00:00
+Grand Depart,339,0,0,Foreign,2014-05-23 00:00:00
+Skinless,168,0,0,Horror,2014-03-08 00:00:00
+Cinemanovels,0,0,0,Drama,2014-07-03 00:00:00
+"Mummy, I'm a Zombie",0,0,0,Animation,2014-09-20 00:00:00
+The Hunger Games:Catching Fire,158074286,440343699,130000000,Action / Adventure,2013-11-22 00:00:00
+Iron Man 3,174144585,806426000,200000000,Action / Adventure,2013-05-03 00:00:00
+Frozen,67634716,875742326,150000000,Animation,2013-11-22 00:00:00
+Despicable Me 2,83517315,602700620,76000000,Animation,2013-07-03 00:00:00
+Man of Steel,116619362,377000000,225000000,Action / Adventure,2013-06-14 00:00:00
+Gravity,55785112,449100000,100000000,Sci-Fi Thriller,2013-10-04 00:00:00
+Monsters University,82429469,475066843,0,Animation,2013-06-21 00:00:00
+The Hobbit:The Desolation of Smaug,73645197,700000000,0,Fantasy,2013-12-13 00:00:00
+Fast & Furious 6,97375245,550000000,160000000,Action,2013-05-24 00:00:00
+Oz The Great and Powerful,79110453,258400000,215000000,Adventure,2013-03-08 00:00:00
+Star Trek Into Darkness,70165559,238602923,190000000,Sci-Fi Adventure,2013-05-16 00:00:00
+Thor:The Dark World,85737841,438240376,170000000,Action / Adventure,2013-11-08 00:00:00
+World War Z,66411834,337648165,190000000,Action Horror,2013-06-21 00:00:00
+The Croods,43639736,400036243,135000000,Animation,2013-03-22 00:00:00
+The Heat,39115043,70348583,43000000,Comedy,2013-06-28 00:00:00
+We're the Millers,26419396,119600000,37000000,Comedy,2013-08-07 00:00:00
+American Hustle,19847388,101054000,40000000,Drama,2013-12-13 00:00:00
+The Great Gatsby (2013),50085185,206200000,105000000,Drama,2013-05-10 00:00:00
+The Conjuring,41855326,180600000,20000000,Horror,2013-07-19 00:00:00
+Identity Thief,34551025,39458090,35000000,Comedy,2013-02-08 00:00:00
+Grown Ups 2,41508572,113315753,80000000,Comedy,2013-07-12 00:00:00
+The Wolverine,53113752,282271394,120000000,Action,2013-07-26 00:00:00
+Anchorman 2:The Legend Continues,26232425,46296308,50000000,Comedy,2013-12-18 00:00:00
+Lone Survivor,37940782,29707311,40000000,Action Drama,2013-12-25 00:00:00
+G.I. Joe:Retaliation,40501814,253217645,130000000,Action,2013-03-28 00:00:00
+Cloudy with a Chance of Meatballs 2,34017930,154532382,78000000,Animation,2013-09-27 00:00:00
+Now You See Me,29350389,234000000,75000000,Thriller,2013-05-31 00:00:00
+The Wolf of Wall Street,18361578,275100000,100000000,Drama,2013-12-25 00:00:00
+Lee Daniels' The Butler,24637312,59966813,30000000,Drama,2013-08-16 00:00:00
+The Hangover Part III,41671198,249800000,103000000,Comedy,2013-05-23 00:00:00
+Epic,33531068,160907952,100000000,Animation,2013-05-24 00:00:00
+Captain Phillips,25718314,111690956,55000000,Drama,2013-10-11 00:00:00
+Jackass Presents:Bad Grandpa,32055177,49828518,15000000,Comedy,2013-10-25 00:00:00
+Pacific Rim,37285325,309200000,190000000,Sci-Fi Action,2013-07-12 00:00:00
+This is the End,20719162,24571120,32000000,Comedy,2013-06-12 00:00:00
+Olympus Has Fallen,30373794,62100000,70000000,Thriller,2013-03-22 00:00:00
+42,27487144,0,40000000,Sports Drama,2013-04-12 00:00:00
+Elysium,29807393,193090583,115000000,Sci-Fi,2013-08-09 00:00:00
+Planes,22232291,148970000,50000000,Animation,2013-08-09 00:00:00
+The Lone Ranger,29210849,171200000,215000000,Western,2013-07-03 00:00:00
+Oblivion,37054485,197061337,120000000,Sci-Fi Adventure,2013-04-19 00:00:00
+Insidious Chapter 2,40272103,78332871,5000000,Horror,2013-09-13 00:00:00
+Saving Mr. Banks,9757754,34566404,35000000,Drama,2013-12-13 00:00:00
+Turbo,21312625,199542554,135000000,Animation,2013-07-17 00:00:00
+2 Guns,27059130,56327951,61000000,Action Comedy,2013-08-02 00:00:00
+White House Down,24852258,132262953,150000000,Action Drama,2013-06-28 00:00:00
+Mama,28402310,74800000,15000000,Horror,2013-01-18 00:00:00
+Safe Haven,21401594,26245020,28000000,Romance,2013-02-14 00:00:00
+The Smurfs 2,17548389,276527576,105000000,Family Comedy,2013-07-31 00:00:00
+The Best Man Holiday,30107555,2310515,17000000,Comedy / Drama,2013-11-15 00:00:00
+Percy Jackson:Sea of Monsters,14401054,131290761,90000000,Fantasy,2013-08-07 00:00:00
+A Good Day to Die Hard,24834845,237304984,92000000,Action,2013-02-14 00:00:00
+Warm Bodies,20353967,50600000,35000000,Drama,2013-02-01 00:00:00
+Jack the Giant Slayer,27202226,132500000,195000000,Adventure,2013-03-01 00:00:00
+The Purge,34058360,24855512,3000000,Thriller,2013-06-07 00:00:00
+Last Vegas,16334566,70488283,28000000,Comedy,2013-11-01 00:00:00
+Ender's Game,27017351,63800000,110000000,Sci-Fi,2013-11-01 00:00:00
+Prisoners,20817053,61124385,46000000,Action Thriller,2013-09-20 00:00:00
+After Earth,27520040,183321030,130000000,Sci-Fi,2013-05-31 00:00:00
+The Secret Life of Walter Mitty,12765508,129896484,90000000,Comedy,2013-12-25 00:00:00
+Escape From Planet Earth,15891055,17584666,40000000,Animation,2013-02-15 00:00:00
+12 Years a Slave,7599446,131061209,20000000,Drama,2013-10-18 00:00:00
+Free Birds,15805237,54636592,55000000,Animation,2013-11-01 00:00:00
+Hansel and Gretel:Witch Hunters,19690956,170646274,50000000,Action Comedy,2013-01-25 00:00:00
+Evil Dead (2013),25775847,43303096,17000000,Horror,2013-04-05 00:00:00
+Red 2,18048422,94813005,84000000,Action Comedy,2013-07-19 00:00:00
+Tyler Perry's A Madea Christmas,16007634,853000,0,Comedy,2013-12-13 00:00:00
+Tyler Perry's Temptation:Confessions of a Marriage Counselor,21641679,1150000,0,Drama,2013-03-29 00:00:00
+The Call,17118745,16700000,13000000,Thriller,2013-03-15 00:00:00
+Pain and Gain,20244505,36300000,26000000,Action,2013-04-26 00:00:00
+Gangster Squad,17070347,59200000,60000000,Crime Drama,2013-01-11 00:00:00
+Jurassic Park 3D,18620145,71100000,10000000,Sci-Fi Horror,2013-04-05 00:00:00
+The Internship,17325307,48820080,58000000,Comedy,2013-06-07 00:00:00
+Instructions Not Included,15995715,54600000,0,Foreign,2013-08-30 00:00:00
+Snitch,13167607,0,0,Action,2013-02-22 00:00:00
+Riddick,19030375,56312160,38000000,Sci-Fi Fantasy,2013-09-06 00:00:00
+A Haunted House,18101682,20100000,0,Comedy,2013-01-11 00:00:00
+47 Ronin,9910310,113421364,175000000,Action Drama,2013-12-25 00:00:00
+August:Osage County,7337567,36450127,0,Comedy / Drama,2013-12-27 00:00:00
+Philomena,3804436,62419893,12000000,Drama,2013-11-22 00:00:00
+The Family (2013),14034764,41500000,30000000,Action Comedy,2013-09-13 00:00:00
+Walking with Dinosaurs,7091938,90470397,80000000,Family Adventure,2013-12-20 00:00:00
+Carrie (2013),16101552,49524059,30000000,Horror,2013-10-18 00:00:00
+Texas Chainsaw 3D,21744470,12900000,0,Horror,2013-01-04 00:00:00
+R.I.P.D.,12691415,44705365,130000000,Action / Adventure,2013-07-19 00:00:00
+Blue Jasmine,4584751,64100000,0,Comedy,2013-07-26 00:00:00
+Kevin Hart:Let Me Explain,10030463,74000,0,Concert,2013-07-03 00:00:00
+Side Effects (2013),9303145,31200000,0,Thriller,2013-02-08 00:00:00
+Scary Movie 5,14157367,46362957,20000000,Comedy,2013-04-12 00:00:00
+The Mortal Instruments:City of Bones,9336957,59400000,60000000,Fantasy Drama,2013-08-21 00:00:00
+Delivery Man,7944977,19320590,26000000,Comedy,2013-11-22 00:00:00
+Grudge Match,7021993,15100000,40000000,Sports Comedy,2013-12-25 00:00:00
+One Direction:This is Us,15815497,39659524,10000000,Concert,2013-08-30 00:00:00
+Kick-Ass 2,13332955,32000000,28000000,Action Comedy,2013-08-16 00:00:00
+Dallas Buyers Club,2948022,27900000,5000000,Drama,2013-11-01 00:00:00
+Rush (2013),10202209,63300000,38000000,Action Drama,2013-09-20 00:00:00
+The Host (2013),10600112,36700000,40000000,Sci-Fi Thriller,2013-03-29 00:00:00
+The World's End,8811790,20084436,20000000,Comedy,2013-08-23 00:00:00
+21 and Over,8754168,22383292,13000000,Comedy,2013-03-01 00:00:00
+Her (2013),5644157,21783000,23000000,Comedy / Drama,2013-12-18 00:00:00
+Escape Plan,9885732,112192336,0,Action Thriller,2013-10-18 00:00:00
+Don Jon,8677009,5973052,3000000,Comedy,2013-09-27 00:00:00
+The Incredible Burt Wonderstone,10177257,4900000,30000000,Comedy,2013-03-15 00:00:00
+The Big Wedding,7591663,24700000,35000000,Romantic Comedy,2013-04-26 00:00:00
+Mud,4754490,11023087,0,Drama,2013-04-26 00:00:00
+Baggage Claim,9031102,887000,0,Romantic Comedy,2013-09-27 00:00:00
+"The Way, Way Back",3998602,1692106,0,Comedy,2013-07-05 00:00:00
+The Book Thief,4969866,55097835,0,Drama,2013-11-08 00:00:00
+The Place Beyond the Pines,5197002,14082089,15000000,Drama,2013-03-29 00:00:00
+Homefront,6915241,22900000,22000000,Action Thriller,2013-11-27 00:00:00
+Broken City,8268908,0,35000000,Crime Thriller,2013-01-18 00:00:00
+Beautiful Creatures (2013),7582595,40600000,60000000,Drama,2013-02-14 00:00:00
+Runner Runner,7706712,43358449,30000000,Thriller,2013-10-04 00:00:00
+You're Next,7020196,0,0,Horror,2013-08-23 00:00:00
+Quartet,1828648,41130181,0,Comedy,2013-01-11 00:00:00
+Admission,6154984,0,13000000,Comedy / Drama,2013-03-22 00:00:00
+Nebraska,1692827,10027960,12000000,Comedy / Drama,2013-11-15 00:00:00
+Parker,7008222,28600000,35000000,Action / Crime,2013-01-25 00:00:00
+Enough Said,2144056,7738000,0,Comedy,2013-09-18 00:00:00
+Dark Skies,8189166,9003080,0,Thriller,2013-02-22 00:00:00
+The Counselor,7842930,54035619,25000000,Thriller,2013-10-25 00:00:00
+Jobs,6713900,19800000,12000000,Drama,2013-08-16 00:00:00
+Fruitvale Station,4976510,1284491,0,Drama,2013-07-12 00:00:00
+About Time,5834320,71777528,0,Comedy,2013-11-01 00:00:00
+The Last Exorcism Part II,7728354,0,5000000,Horror,2013-03-01 00:00:00
+Spring Breakers,5121946,17600000,5000000,Crime Drama,2013-03-15 00:00:00
+Inside Llewyn Davis,2287959,19700000,0,Comedy / Drama,2013-12-06 00:00:00
+The Last Stand,6281433,36280458,45000000,Action,2013-01-18 00:00:00
+Out of the Furnace,5220288,4329819,22000000,Thriller,2013-12-04 00:00:00
+Dead Man Down,5345250,7179244,0,Thriller,2013-03-08 00:00:00
+Getaway (2013),4503892,0,18000000,Thriller,2013-08-30 00:00:00
+Bullet to the Head,4548201,0,0,Action Thriller,2013-02-01 00:00:00
+Tyler Perry Presents Peeples,4611534,130000,15000000,Comedy,2013-05-10 00:00:00
+Battle of the Year,4603177,7661122,20000000,Drama,2013-09-20 00:00:00
+Movie 43,4805878,23598535,6000000,Comedy,2013-01-25 00:00:00
+Mandela:Long Walk to Freedom,2325028,19010750,0,Drama,2013-11-29 00:00:00
+Before Midnight,1629633,3061842,0,Drama,2013-05-24 00:00:00
+Dhoom 3,3423508,80000000,0,Foreign / Action,2013-12-20 00:00:00
+Jerusalem,0,1258735,0,Documentary,2013-09-13 00:00:00
+Machete Kills,3837183,7000000,0,Action,2013-10-11 00:00:00
+Paranoia,3528376,6400000,35000000,Thriller,2013-08-16 00:00:00
+Journey to the South Pacific,8137,4887980,0,Documentary,2013-11-27 00:00:00
+Black Nativity,3669530,435996,0,Musical,2013-11-27 00:00:00
+The Spectacular Now,902365,0,0,Comedy / Drama,2013-08-02 00:00:00
+The Grandmaster,2610409,57481777,0,Foreign / Action,2013-08-23 00:00:00
+All Is Lost,93583,7363849,0,Drama,2013-10-18 00:00:00
+Believe,2007567,0,5000000,Documentary,2013-12-25 00:00:00
+The Bling Ring,2216298,13300000,0,Crime,2013-06-14 00:00:00
+Pulling Strings,2467168,2048517,0,Romantic Comedy,2013-10-04 00:00:00
+Closed Circuit,2464931,0,0,Thriller,2013-08-28 00:00:00
+The Wizard of Oz (3D/IMAX),3093998,0,0,Fantasy,2013-09-20 00:00:00
+Chennai Express,2220497,0,0,Action Comedy,2013-08-08 00:00:00
+The Company You Keep,1284623,14500000,0,Thriller,2013-04-05 00:00:00
+20 Feet from Stardom,54596,0,0,Documentary,2013-06-14 00:00:00
+Much Ado About Nothing (2013),171942,0,0,Comedy / Drama,2013-06-07 00:00:00
+Frances Ha,137398,0,0,Comedy / Drama,2013-05-17 00:00:00
+Yeh Jawaani Hai Deewani,1568677,0,0,Foreign,2013-05-31 00:00:00
+The To-Do List,1579402,74556,0,Comedy,2013-07-26 00:00:00
+Metallica Through the Never,1576561,4553000,18000000,Drama,2013-09-27 00:00:00
+Emperor,1014099,0,0,War Drama,2013-03-08 00:00:00
+Stand Up Guys,1486390,0,0,Action Comedy,2013-02-01 00:00:00
+The Fifth Estate,1673351,5300000,28000000,Drama,2013-10-18 00:00:00
+Top Gun 3D,1965737,0,0,Action Drama,2013-02-08 00:00:00
+In a World,70541,0,0,Comedy,2013-08-09 00:00:00
+Home Run,1582466,0,0,Sports Drama,2013-04-19 00:00:00
+The Great Beauty,23442,18500000,0,Foreign,2013-11-15 00:00:00
+Filly Brown,1478323,0,2000000,Drama,2013-04-19 00:00:00
+Ram-Leela,1449174,0,0,Foreign,2013-11-15 00:00:00
+Grace Unplugged,998145,0,0,Music Drama,2013-10-04 00:00:00
+The Sapphires,38372,17972761,0,Comedy / Drama,2013-03-22 00:00:00
+The Gatekeepers,61552,0,0,Documentary,2013-02-01 00:00:00
+I'm In Love With a Church Girl,971826,0,0,Drama,2013-10-18 00:00:00
+No (2013),71742,0,0,Foreign,2013-02-15 00:00:00
+Trance,131145,21932826,20000000,Crime Thriller,2013-04-05 00:00:00
+The East,77031,99671,0,Drama,2013-05-31 00:00:00
+Renoir,65194,0,0,Foreign,2013-03-29 00:00:00
+The Christmas Candle,68655,0,0,Drama,2013-11-15 00:00:00
+Blue Is the Warmest Color,100316,5180019,0,Foreign,2013-10-25 00:00:00
+Oldboy (2013),885382,2667364,30000000,Thriller,2013-11-27 00:00:00
+Krrish 3,1049560,0,0,Foreign / Action,2013-11-01 00:00:00
+Austenland,40662,0,0,Romantic Comedy,2013-08-16 00:00:00
+The Saratov Approach,137226,0,0,Thriller,2013-10-09 00:00:00
+2013 Oscar Nominated Short Films,371605,0,0,Unknown,2013-02-01 00:00:00
+Blackfish,75962,0,0,Documentary,2013-07-19 00:00:00
+The Iceman (2013),87946,0,0,Thriller,2013-05-03 00:00:00
+Fill the Void,59164,0,0,Foreign,2013-05-24 00:00:00
+Girl Rising,81640,0,0,Documentary,2013-03-07 00:00:00
+The Attack,27379,0,0,Foreign,2013-06-21 00:00:00
+Stoker,160547,10363220,12000000,Horror Thriller,2013-03-01 00:00:00
+Unfinished Song,25728,5338686,0,Comedy / Drama,2013-06-21 00:00:00
+Bhaag Milkha Bhaag,647112,0,0,Foreign,2013-07-12 00:00:00
+Love is All You Need,36746,8385225,0,Romantic Comedy,2013-05-03 00:00:00
+Stories We Tell,27053,0,0,Documentary,2013-05-10 00:00:00
+Race 2,884757,0,0,Foreign / Action,2013-01-25 00:00:00
+Bless Me Ultima,470109,0,0,Drama,2013-02-22 00:00:00
+Kon-Tiki,22168,21325477,0,Foreign,2013-04-26 00:00:00
+Disconnect,124000,0,0,Drama,2013-04-12 00:00:00
+Girl Most Likely,694447,0,0,Comedy,2013-07-19 00:00:00
+I'm So Excited,97328,10356000,0,Foreign,2013-06-28 00:00:00
+Wadjda (U.S. only),41253,0,0,Foreign,2013-09-13 00:00:00
+The Past,29270,9300000,0,Foreign,2013-12-20 00:00:00
+The Ultimate Life,659912,0,0,Drama,2013-09-06 00:00:00
+The Kings of Summer,58962,0,0,Comedy,2013-05-31 00:00:00
+The Invisible Woman,31948,0,0,Drama,2013-12-25 00:00:00
+Inequality for All,140888,0,0,Documentary,2013-09-27 00:00:00
+The Lords of Salem,642942,0,0,Horror,2013-04-19 00:00:00
+Romeo and Juliet (2013),520116,0,0,Romance,2013-10-11 00:00:00
+Still Mine,0,0,0,Drama,2013-05-03 00:00:00
+Kai Po Che,522765,0,0,Foreign,2013-02-22 00:00:00
+What Maisie Knew,21480,0,0,Drama,2013-05-03 00:00:00
+Thanks for Sharing,536591,0,0,Comedy / Drama,2013-09-20 00:00:00
+Phantom (2013),508000,0,0,Thriller,2013-03-01 00:00:00
+Kill Your Darlings,53452,0,0,Drama,2013-10-16 00:00:00
+Short Term 12,56206,0,0,Drama,2013-08-23 00:00:00
+Ginger & Rosa,42838,0,0,Drama,2013-03-15 00:00:00
+From Up on Poppy Hill,57585,60034949,0,Animation,2013-03-15 00:00:00
+Lore,31498,0,0,Foreign,2013-02-08 00:00:00
+Raanjhana,414211,0,0,Foreign,2013-06-21 00:00:00
+Alone Yet Not Alone,125775,0,7000000,Adventure,2013-09-27 00:00:00
+Generation Iron,245000,0,0,Documentary,2013-09-20 00:00:00
+Only God Forgives,313958,9558199,0,Drama,2013-07-19 00:00:00
+Satyagraha,412148,0,0,Foreign,2013-08-30 00:00:00
+Hannah Arendt,31270,0,0,Foreign,2013-05-29 00:00:00
+56 Up,22088,0,0,Documentary,2013-01-04 00:00:00
+Muscle Shoals,13901,0,0,Documentary,2013-09-27 00:00:00
+Besharam,364962,0,0,Foreign,2013-10-02 00:00:00
+The Berlin File,0,48300000,0,Foreign / Action,2013-02-15 00:00:00
+Parkland,310246,0,0,Drama,2013-10-04 00:00:00
+The Hunt,43045,0,0,Foreign,2013-07-12 00:00:00
+Walking the Camino:Six Ways to Santiago,0,0,0,Documentary,2013-09-06 00:00:00
+To The Wonder,116551,0,0,Romance,2013-04-12 00:00:00
+Salinger,86956,67042,0,Documentary,2013-09-06 00:00:00
+Lootera,314958,0,0,Foreign,2013-07-03 00:00:00
+Museum Hours,29400,0,0,Foreign,2013-06-28 00:00:00
+The Reluctant Fundamentalist,30920,0,0,Thriller,2013-04-26 00:00:00
+The Lost Medallion,143532,0,0,Family Adventure,2013-03-01 00:00:00
+Scatter My Ashes at Bergdorf's,39630,0,0,Documentary,2013-05-03 00:00:00
+The Face Reader,159720,54081705,0,Foreign,2013-10-04 00:00:00
+The Inevitable Defeat of Mister and Pete,254279,0,0,Drama,2013-10-11 00:00:00
+Act of Killing,27450,0,0,Documentary,2013-07-19 00:00:00
+New World (2013),129954,31212801,0,Foreign,2013-03-22 00:00:00
+Upstream Color,28649,0,0,Drama,2013-04-05 00:00:00
+Sound City,62842,0,0,Documentary,2013-02-01 00:00:00
+A Hijacking,39392,0,0,Foreign,2013-06-21 00:00:00
+Grand Masti,223222,0,0,Foreign,2013-09-13 00:00:00
+Phata Poster Nikla Hero,260188,0,0,Foreign,2013-09-20 00:00:00
+Ain't Them Bodies Saints,26419,634724,0,Western,2013-08-16 00:00:00
+In the House,31441,11489289,0,Foreign,2013-04-19 00:00:00
+Dirty Wars,63504,0,0,Documentary,2013-06-07 00:00:00
+The Armstrong Lie,28992,0,0,Documentary,2013-11-08 00:00:00
+At Any Price,16095,0,0,Adventure,2013-04-24 00:00:00
+Personal Tailor,112224,0,0,Foreign,2013-12-20 00:00:00
+Puella Magi Madoka Magica the Movie:Rebellion,189514,12572253,0,Animation,2013-12-06 00:00:00
+Hava Nagila (The Movie),8218,0,0,Documentary,2013-03-01 00:00:00
+Shootout at Wadala,212346,0,0,Foreign / Action,2013-05-03 00:00:00
+When Comedy Went to School,17001,0,0,Documentary,2013-07-31 00:00:00
+Lovelace,184536,1229000,0,Drama,2013-08-09 00:00:00
+The Angels' Share,18837,6687338,0,Comedy / Drama,2013-04-12 00:00:00
+Drinking Buddies,19505,0,0,Comedy / Drama,2013-08-23 00:00:00
+Koch,35196,0,0,Documentary,2013-02-01 00:00:00
+The Shining (2013 re-release),0,0,0,Horror,2013-10-07 00:00:00
+Gori Tere Pyaar Mein,199463,0,0,Foreign,2013-11-22 00:00:00
+Starbuck (U.S. only),15530,1322853,0,Comedy,2013-03-22 00:00:00
+Happy People:A Year in the Taiga,10481,0,0,Documentary,2013-01-25 00:00:00
+Diana,67754,21430912,0,Drama,2013-11-01 00:00:00
+Camp (2013),7785,0,0,Drama,2013-02-22 00:00:00
+Adore,119806,0,0,Drama,2013-09-06 00:00:00
+Not Today,96347,0,0,Drama,2013-04-12 00:00:00
+Linsanity,99462,0,0,Documentary,2013-10-04 00:00:00
+Go Goa Gone,170044,0,0,Foreign,2013-05-10 00:00:00
+Room 237,29693,0,0,Documentary,2013-03-29 00:00:00
+You Will Be My Son,15301,3609323,0,Foreign,2013-08-16 00:00:00
+The Anonymous People,0,0,0,Documentary,2013-08-16 00:00:00
+Blancanieves,25264,0,0,Foreign,2013-03-29 00:00:00
+Himmatwala,197770,0,0,Foreign / Action,2013-03-29 00:00:00
+Great Expectations (2013),88500,0,0,Romance,2013-11-08 00:00:00
+The Attacks of 26/11,159619,0,0,Foreign,2013-03-01 00:00:00
+The Summit,20904,0,0,Documentary,2013-10-04 00:00:00
+Like Someone in Love,21813,0,0,Foreign,2013-02-15 00:00:00
+A Place at the Table,92257,0,0,Documentary,2013-03-01 00:00:00
+InAPPropriate Comedy,156414,0,0,Comedy,2013-03-22 00:00:00
+Singh Saab The Great,138127,0,0,Foreign,2013-11-22 00:00:00
+ABCD (Any Body Can Dance),95236,0,0,Foreign,2013-02-08 00:00:00
+Haute Cuisine,14387,11166132,0,Foreign,2013-09-20 00:00:00
+2001:A Space Odyssey (2013 re-release),0,0,0,Sci-Fi Adventure,2013-01-02 00:00:00
+Casablanca (2013 re-release),0,0,0,Romance,2013-04-03 00:00:00
+Arthur Newman,112788,0,0,Romantic Comedy,2013-04-26 00:00:00
+Prince Avalanche,36694,0,0,Comedy / Drama,2013-08-09 00:00:00
+Ghanchakkar,143616,0,0,Foreign,2013-06-28 00:00:00
+Crystal Fairy,25052,0,0,Comedy Thriller,2013-07-12 00:00:00
+No Place on Earth,13813,0,0,Documentary,2013-04-05 00:00:00
+Cutie and the Boxer,21098,0,0,Documentary,2013-08-16 00:00:00
+Free Angela and All Political Prisoners,69306,0,0,Documentary,2013-04-05 00:00:00
+Midnight's Children,12200,0,0,Drama,2013-04-26 00:00:00
+Populaire,15690,5315819,0,Foreign,2013-09-06 00:00:00
+A.C.O.D.,19001,0,0,Comedy,2013-10-04 00:00:00
+Broken Circle Breakdown,7100,5300000,0,Foreign,2013-11-01 00:00:00
+Afternoon Delight,27352,0,0,Comedy / Drama,2013-08-30 00:00:00
+Somm,28050,0,0,Documentary,2013-06-21 00:00:00
+Cinco De Mayo:La Batalla,83586,0,0,Foreign,2013-05-03 00:00:00
+Escape from Tomorrow,63297,0,0,Fantasy Drama,2013-10-11 00:00:00
+Copperhead,55625,0,0,Historical Drama,2013-06-28 00:00:00
+R... Rajkumar,124669,0,0,Foreign,2013-12-06 00:00:00
+We Steal Secrets:The Story of Wikileaks,27689,0,0,Documentary,2013-05-24 00:00:00
+On the Job,56098,0,0,Foreign,2013-09-27 00:00:00
+Mother of George,22500,0,0,Drama,2013-09-13 00:00:00
+Free the Mind,12215,0,0,Documentary,2013-05-03 00:00:00
+LUV,83194,0,0,Drama,2013-01-18 00:00:00
+A Touch of Sin,19867,0,0,Foreign,2013-10-04 00:00:00
+Deceptive Practice:The Mysteries and Mentors of Ricky Jay,13802,0,0,Documentary,2013-04-17 00:00:00
+Snake and Mongoose,20254,0,0,Sports Drama,2013-08-09 00:00:00
+The Patience Stone,9361,0,0,Foreign,2013-08-14 00:00:00
+Rangeelay,73541,0,0,Foreign,2013-05-17 00:00:00
+American Promise,18300,0,0,Documentary,2013-10-18 00:00:00
+Narco Cultura,6093,0,0,Documentary,2013-11-22 00:00:00
+John Dies at the End,12467,0,0,Fantasy Comedy,2013-01-25 00:00:00
+Good Ol' Freda,6798,0,0,Documentary,2013-09-06 00:00:00
+Is the Man Who Is Tall Happy?,31800,0,0,Animation,2013-11-22 00:00:00
+Fists of Legend,49252,5253585,0,Foreign / Action,2013-04-12 00:00:00
+Drug War,5926,0,0,Foreign / Action,2013-07-26 00:00:00
+The Artist and the Model,16900,0,0,Foreign,2013-08-02 00:00:00
+A Band Called Death,34839,0,0,Documentary,2013-06-28 00:00:00
+Europa Report,22243,0,0,Sci-Fi Thriller,2013-08-02 00:00:00
+Fukrey,74110,0,0,Foreign,2013-06-14 00:00:00
+Beyond the Hills,14622,0,0,Foreign,2013-03-08 00:00:00
+Final:The Rapture,31900,0,0,Thriller,2013-09-13 00:00:00
+The Square (2013),16359,0,0,Documentary,2013-10-25 00:00:00
+The Punk Singer,24729,0,0,Documentary,2013-11-29 00:00:00
+Lost and Found in Armenia,49829,0,0,Comedy,2013-06-07 00:00:00
+Spark:A Burning Man Story,9366,0,0,Documentary,2013-08-16 00:00:00
+Storm Surfers 3D,7299,0,0,Documentary,2013-04-26 00:00:00
+Yossi,12287,0,0,Foreign,2013-01-25 00:00:00
+Ain't In It For My Health:A Film About Levon Helm,7937,0,0,Documentary,2013-04-19 00:00:00
+Goonies (2013 re-release),0,0,0,Family Adventure,2013-04-28 00:00:00
+Spinning Plates,20717,0,0,Documentary,2013-10-25 00:00:00
+Ek Thi Daayan,65857,0,0,Foreign,2013-04-19 00:00:00
+Bettie Page Reveals All,4846,0,0,Documentary,2013-11-22 00:00:00
+Augustine,13616,0,0,Foreign,2013-05-17 00:00:00
+Big Star:Nothing Can Hurt Me,15096,0,0,Documentary,2013-07-03 00:00:00
+Upside Down,28722,8001380,0,Fantasy,2013-03-15 00:00:00
+The English Teacher,6001,0,0,Comedy / Drama,2013-05-17 00:00:00
+Gimme the Loot,21065,0,0,Comedy / Drama,2013-03-22 00:00:00
+The Investigator,93690,0,0,Drama,2013-09-13 00:00:00
+Stevie Nicks - In Your Dreams,0,0,0,Documentary,2013-03-31 00:00:00
+Computer Chess,9683,0,0,Comedy,2013-07-17 00:00:00
+Therese,20050,1509595,0,Foreign,2013-08-23 00:00:00
+Capital,22400,2420081,0,Foreign,2013-10-25 00:00:00
+Blazing Saddles (2013 re-release),0,0,0,Western Comedy,2013-05-15 00:00:00
+Una Noche,17194,0,0,Foreign,2013-08-23 00:00:00
+Shadow Dancer,10672,319337,0,Drama / Thriller,2013-05-31 00:00:00
+The United States of Autism,3413,0,0,Documentary,2013-04-05 00:00:00
+One Track Heart:The Story of Krishna Das,11515,0,0,Documentary,2013-05-08 00:00:00
+The Silence,7992,132204,0,Foreign,2013-03-08 00:00:00
+Man of Tai Chi,61054,0,0,Action,2013-11-01 00:00:00
+Singin' in the Rain (2013 re-release),0,0,0,Musical,2013-04-04 00:00:00
+Blue Caprice,13400,0,0,Drama,2013-09-13 00:00:00
+Passion,33400,0,0,Drama,2013-08-30 00:00:00
+Kings Faith,27648,0,0,Drama,2013-04-26 00:00:00
+Somebody Up There Likes Me,34362,0,0,Comedy,2013-03-08 00:00:00
+Byzantium,16643,0,0,Thriller,2013-06-28 00:00:00
+Money for Nothing:Inside the Federal Reserve,0,0,0,Documentary,2013-09-06 00:00:00
+Settai,52386,0,0,Foreign,2013-04-05 00:00:00
+Young Detective Dee:Rise of the Sea Dragon,32795,72200000,0,Foreign / Action,2013-09-27 00:00:00
+The Rooftop,47259,0,0,Foreign,2013-07-19 00:00:00
+Something in the Air,13288,0,0,Foreign,2013-05-03 00:00:00
+I Am Divine,0,0,0,Documentary,2013-10-11 00:00:00
+We Are What We Are,13727,0,0,Horror Thriller,2013-09-27 00:00:00
+Stuck in Love,34967,0,0,Comedy / Drama,2013-07-05 00:00:00
+Winnie Mandela,61847,0,0,Drama,2013-09-06 00:00:00
+Ramaiya Vastavaiya,52514,0,0,Foreign,2013-07-19 00:00:00
+More Than Honey,5225,0,0,Documentary,2013-06-12 00:00:00
+Caesar Must Die,0,0,0,Foreign,2013-02-01 00:00:00
+Commitment,0,4467956,0,Foreign,2013-12-06 00:00:00
+Leviathan (2013),10000,0,0,Documentary,2013-03-01 00:00:00
+No One Lives,47800,0,0,Horror,2013-05-10 00:00:00
+Reality (2013),7072,2162338,0,Foreign,2013-03-15 00:00:00
+After Tiller,15500,0,0,Documentary,2013-09-20 00:00:00
+An Oversimplification of Her Beauty,10055,0,0,Drama,2013-04-26 00:00:00
+Seasons of Gray,31953,0,0,Drama,2013-10-18 00:00:00
+War Witch,8714,0,0,Foreign,2013-03-01 00:00:00
+Go For Sisters,6001,0,0,Drama / Thriller,2013-11-08 00:00:00
+Maidentrip,1622,0,0,Documentary,2013-12-20 00:00:00
+The Pervert's Guide to Ideology,9165,0,0,Documentary,2013-11-01 00:00:00
+Pandora's Promise,23419,0,0,Documentary,2013-06-12 00:00:00
+Let the Fire Burn,5226,0,0,Documentary,2013-10-02 00:00:00
+My Lucky Star,47006,0,0,Foreign,2013-09-20 00:00:00
+Becoming Traviata,5000,0,0,Documentary,2013-05-15 00:00:00
+Sightseers,7384,0,0,Thriller,2013-05-10 00:00:00
+Don't Stop Believin':Everyman's Journey,25573,0,0,Documentary,2013-03-08 00:00:00
+The Wicker Man - Final Cut,5493,0,0,Horror,2013-09-27 00:00:00
+It's a Disaster,15305,0,0,Comedy,2013-04-12 00:00:00
+How I Live Now,28547,0,0,Action Drama,2013-11-08 00:00:00
+Sweet Dreams (2013),0,0,0,Documentary,2013-11-01 00:00:00
+The Trials of Muhammad Ali,2980,0,0,Documentary,2013-08-23 00:00:00
+Aftershock,40179,0,0,Horror,2013-05-10 00:00:00
+Faust,10030,0,0,Foreign,2013-11-15 00:00:00
+Lost in Thailand,32206,197700000,0,Foreign,2013-02-08 00:00:00
+The Canyons,13351,0,0,Romantic Thriller,2013-08-02 00:00:00
+Terms and Conditions May Apply,4446,0,0,Documentary,2013-07-12 00:00:00
+Bajatey Raho,37801,0,0,Foreign,2013-07-26 00:00:00
+C.O.G.,32677,0,0,Comedy,2013-09-20 00:00:00
+Mission Park,26839,0,0,Thriller,2013-09-06 00:00:00
+Leonie,291,0,0,Drama,2013-03-15 00:00:00
+Going Attractions:The Definitive Story of the American Drive-in Movie,0,0,0,Documentary,2013-06-07 00:00:00
+Venus and Serena,10981,0,0,Documentary,2013-05-10 00:00:00
+God Loves Uganda,7300,0,0,Documentary,2013-10-11 00:00:00
+Le Joli Mai,10662,0,0,Documentary,2013-09-13 00:00:00
+Mademoiselle C,14284,0,0,Documentary,2013-09-11 00:00:00
+Un Flic (2013 re-release),10342,0,0,Foreign,2013-04-19 00:00:00
+GMO OMG,15100,0,0,Documentary,2013-09-13 00:00:00
+Table No. 21,31658,0,0,Foreign,2013-01-04 00:00:00
+Jewtopia,26371,0,0,Romantic Comedy,2013-09-20 00:00:00
+Wish You Were Here (2013),25937,0,0,Drama,2013-06-07 00:00:00
+Wrong (2013),20424,0,0,Comedy,2013-03-29 00:00:00
+Reaching for the Moon,14573,0,0,Drama,2013-11-08 00:00:00
+A Glimpse Inside the Mind of Charles Swan III,12000,0,0,Comedy,2013-02-08 00:00:00
+American Made Movie,1613,0,0,Documentary,2013-08-30 00:00:00
+Greedy Lying Bastards,45000,0,0,Documentary,2013-03-08 00:00:00
+My Brother The Devil,10305,0,0,Drama,2013-03-22 00:00:00
+Tiny Times 2,20652,47246149,0,Foreign,2013-08-16 00:00:00
+Contempt (2013 re-release),8322,0,0,Foreign,2013-09-06 00:00:00
+Andre Gregory:Before and After Dinner,7980,0,0,Documentary,2013-04-03 00:00:00
+Concussion,8313,0,0,Drama,2013-10-04 00:00:00
+Zaytoun,4100,0,0,Adventure,2013-09-20 00:00:00
+The We and the I,10774,0,0,Drama,2013-03-08 00:00:00
+Holla II,37444,0,0,Horror Comedy,2013-04-19 00:00:00
+Language of a Broken Heart,5861,0,0,Romantic Comedy,2013-03-08 00:00:00
+CBGB,3909,0,0,Music Drama,2013-10-04 00:00:00
+Killing Season,27713,0,0,Action,2013-07-12 00:00:00
+The Short Game,28434,0,0,Documentary,2013-09-20 00:00:00
+How to Make Money Selling Drugs,9202,0,0,Documentary,2013-06-26 00:00:00
+Post Tenebras Lux,4674,0,0,Foreign,2013-05-01 00:00:00
+Herb and Dorothy 50x50,6157,0,0,Documentary,2013-09-13 00:00:00
+The Wall (2013),2188,1118091,0,Foreign,2013-05-31 00:00:00
+Rising From Ashes,7298,0,0,Documentary,2013-08-02 00:00:00
+Berberian Sound Studio,6605,0,0,Horror Thriller,2013-06-14 00:00:00
+Russian Ark (2013 re-release),0,0,0,Foreign,2013-09-06 00:00:00
+Ip Man:The Final Fight,15514,0,0,Foreign / Action,2013-09-20 00:00:00
+Mumia:Long Distance Revolutionary,9283,0,0,Documentary,2013-02-01 00:00:00
+Big Sur,16835,0,0,Drama,2013-11-01 00:00:00
+Savannah,15599,0,0,Drama,2013-08-23 00:00:00
+Redemption (2013),19977,0,0,Action Thriller,2013-06-28 00:00:00
+The Servant (2013 re-release),7859,0,0,Drama,2013-07-26 00:00:00
+Touchy Feely,3447,0,0,Comedy / Drama,2013-09-06 00:00:00
+Far Out Isn't Far Enough:The Tomi Ungerer Story,3700,0,0,Documentary,2013-06-14 00:00:00
+Fritz Lang's 'M' (2013 re-release),6123,0,0,Crime,2013-03-15 00:00:00
+Camille Claudel 1915,5106,0,0,Foreign,2013-10-16 00:00:00
+Underdogs,18722,0,0,Sports Drama,2013-08-16 00:00:00
+Mauvais Sang (2013 re-release),8482,0,0,Foreign,2013-11-29 00:00:00
+Tai Chi Hero,12624,346834,0,Foreign / Action,2013-04-26 00:00:00
+The Girl (2013),11164,0,0,Drama,2013-03-08 00:00:00
+I Give It a Year,5436,28200000,0,Romantic Comedy,2013-08-09 00:00:00
+Bert Stern:Original Mad Man,4691,0,0,Documentary,2013-04-05 00:00:00
+Running From Crazy,6822,0,0,Documentary,2013-11-01 00:00:00
+Dislecksia:The Movie,2213,0,0,Documentary,2013-10-04 00:00:00
+At Berkeley,5069,0,0,Documentary,2013-11-08 00:00:00
+Beyond the Farthest Star,0,0,0,Drama,2013-10-18 00:00:00
+Evocateur:The Morton Downey Jr. Movie,3936,0,0,Documentary,2013-06-07 00:00:00
+Maniac (2013),5571,0,0,Horror Thriller,2013-06-21 00:00:00
+These Birds Walk,5454,0,0,Documentary,2013-11-01 00:00:00
+Long Shot:The Kevin Laue Story (2013),7006,0,0,Documentary,2013-10-25 00:00:00
+A Fierce Green Fire,0,0,0,Documentary,2013-02-22 00:00:00
+Dead Man's Burden,7620,0,0,Western,2013-05-03 00:00:00
+Little Fugitive (2013 re-release),9040,0,0,Family,2013-02-01 00:00:00
+Cousin Jules,5135,0,0,Documentary,2013-11-29 00:00:00
+Fire in the Blood,4856,0,0,Documentary,2013-09-06 00:00:00
+Struck By Lightning,12940,0,0,Comedy / Drama,2013-01-11 00:00:00
+Simon Killer,5054,0,0,Thriller,2013-04-05 00:00:00
+Broadway Idiot,5514,0,0,Documentary,2013-10-11 00:00:00
+Tiger Eyes,10874,0,0,Drama,2013-06-07 00:00:00
+Out in the Dark,14067,0,0,Foreign,2013-09-27 00:00:00
+The Sweeney,20321,6267511,0,Crime,2013-03-01 00:00:00
+The Power of Few,7614,0,0,Crime Drama,2013-02-15 00:00:00
+Graceland,13059,0,0,Foreign,2013-04-26 00:00:00
+Bastards,4432,0,0,Foreign,2013-10-23 00:00:00
+Le Petit Soldat (2013 re-release),6848,0,0,Foreign,2013-03-08 00:00:00
+The Citizen,368,0,0,Drama,2013-09-06 00:00:00
+Paradise:Love,6014,0,0,Foreign,2013-04-26 00:00:00
+The Last Days on Mars,4608,0,0,Sci-Fi Thriller,2013-12-06 00:00:00
+Harry Dean Stanton:Partly Fiction,6330,0,0,Documentary,2013-09-13 00:00:00
+Dear Mr. Watterson,6199,0,0,Documentary,2013-11-15 00:00:00
+Greenwich Village:Music That Defined a Generation,5530,0,0,Documentary,2013-01-18 00:00:00
+Tiny Times,12294,77693552,0,Foreign,2013-07-26 00:00:00
+Our Children,5500,0,0,Foreign,2013-08-02 00:00:00
+The Iran Job,0,0,0,Documentary,2013-06-07 00:00:00
+I Used to Be Darker,3533,0,0,Drama,2013-09-27 00:00:00
+Murder 11,8106,0,0,Horror Thriller,2013-10-02 00:00:00
+Pieta,6222,3601250,0,Foreign,2013-05-17 00:00:00
+V/H/S/2,9932,0,0,Horror,2013-07-12 00:00:00
+The ABC's of Death,10110,0,0,Horror,2013-03-08 00:00:00
+Viola,6109,0,0,Drama,2013-07-12 00:00:00
+Blue Exorcist The Movie,0,0,0,Animation,2013-08-17 00:00:00
+Violeta Went to Heaven,5588,1190077,0,Foreign,2013-03-29 00:00:00
+Tio Papi,16108,0,0,Family,2013-09-06 00:00:00
+The Look of Love,5105,0,0,Comedy / Drama,2013-07-05 00:00:00
+The Painting (2013),3626,0,0,Animation,2013-05-10 00:00:00
+The Ghosts In Our Machine,8756,0,0,Documentary,2013-11-08 00:00:00
+Our Nixon,6090,0,0,Documentary,2013-08-30 00:00:00
+Hunky Dory,7443,0,0,Music Drama,2013-03-22 00:00:00
+Terraferma,0,0,0,Foreign,2013-07-24 00:00:00
+Wedding Palace,19908,0,0,Comedy,2013-09-27 00:00:00
+Love and Honor (2013),2815,0,0,Romance,2013-03-22 00:00:00
+Bad Milo!,4503,0,0,Horror Comedy,2013-10-04 00:00:00
+Whensday,12497,0,0,Comedy,2013-08-09 00:00:00
+Smash & Grab:The Story of the Pink Panthers,4794,0,0,Documentary,2013-07-31 00:00:00
+You Ain't Seen Nothin' Yet,5343,487821,0,Foreign,2013-06-07 00:00:00
+Nostalghia,5233,0,0,Foreign,2013-05-31 00:00:00
+The Sorcerer and the White Snake,5530,2100000,0,Foreign / Action,2013-02-08 00:00:00
+A Single Shot,10020,0,0,Thriller,2013-09-20 00:00:00
+La Camioneta,0,0,0,Documentary,2013-05-31 00:00:00
+Let My People Go!,2236,0,0,Foreign,2013-01-11 00:00:00
+A Pig Across Paris (2013 re-issue),9997,0,0,Comedy,2013-05-24 00:00:00
+Twice Born,14947,0,0,Drama,2013-12-06 00:00:00
+Torn,4881,0,0,Drama,2013-10-18 00:00:00
+Casting By,5649,0,0,Documentary,2013-11-01 00:00:00
+Jamel Shabazz Street Photographer,7105,0,0,Documentary,2013-08-02 00:00:00
+Dealin' With Idiots,8508,0,0,Comedy,2013-07-12 00:00:00
+Mental,9804,3577981,0,Comedy,2013-03-29 00:00:00
+The History of Future Folk,5775,0,0,Comedy,2013-05-31 00:00:00
+Violet & Daisy,9982,0,0,Action / Adventure,2013-06-07 00:00:00
+Le Pont du Nord (2013 re-release),5333,0,0,Foreign,2013-03-22 00:00:00
+Night Across the Street,3248,0,0,Foreign,2013-02-08 00:00:00
+As I Lay Dying,7143,0,0,Drama,2013-10-11 00:00:00
+Design is One,4236,0,0,Documentary,2013-10-11 00:00:00
+Out of the Clear Blue Sky,2344,0,0,Documentary,2013-09-06 00:00:00
+I Declare War,8634,0,0,Action,2013-08-30 00:00:00
+Jayne Mansfield's Car,9320,0,0,Drama,2013-09-13 00:00:00
+Kiss of the Damned,2723,0,0,Drama,2013-05-03 00:00:00
+The Unbelievers,5925,0,0,Documentary,2013-11-29 00:00:00
+A Wedding Invitation,3183,0,0,Foreign,2013-05-24 00:00:00
+Justice Is Mind,5418,0,0,Drama,2013-08-18 00:00:00
+Il Futuro,2583,0,0,Foreign,2013-09-06 00:00:00
+The Prey,5889,0,0,Foreign,2013-06-06 00:00:00
+This is Martin Bonner,0,0,0,Drama,2013-06-21 00:00:00
+Dorfman in Love,6410,0,0,Romantic Comedy,2013-03-22 00:00:00
+The Monk,8418,794063,0,Foreign,2013-03-08 00:00:00
+Red Obsession,5060,0,0,Documentary,2013-09-06 00:00:00
+A Green Story,6768,0,0,Drama,2013-05-24 00:00:00
+BoyBand (2013),0,0,0,Comedy,2013-10-18 00:00:00
+The Selfish Giant,2589,0,0,Drama,2013-12-20 00:00:00
+Shahid,12153,0,0,Foreign,2013-10-18 00:00:00
+In the Fog,2327,0,0,Foreign,2013-06-14 00:00:00
+Charlie Countryman,7973,0,0,Drama,2013-11-15 00:00:00
+36 Saints,7373,0,0,Thriller,2013-09-06 00:00:00
+Just Like a Woman,0,0,0,Drama,2013-07-05 00:00:00
+So Young,5281,0,0,Foreign,2013-06-14 00:00:00
+Greetings from Tim Buckley,0,0,0,Drama,2013-05-03 00:00:00
+A Resurrection,7300,0,0,Horror Thriller,2013-03-22 00:00:00
+Made in Cleveland,3411,0,0,Comedy,2013-06-21 00:00:00
+American Meat,7659,0,0,Documentary,2013-04-12 00:00:00
+Caucus,0,0,0,Documentary,2013-10-25 00:00:00
+Midget Zombie Takeover,2755,0,0,Horror Comedy,2013-02-08 00:00:00
+Evil Intent,205,0,0,Thriller,2013-06-29 00:00:00
+Shanghai Calling,10400,0,0,Romantic Comedy,2013-02-15 00:00:00
+Elemental,0,0,0,Documentary,2013-05-17 00:00:00
+Liv & Ingmar,5451,0,0,Documentary,2013-12-13 00:00:00
+Shepard and Dark,1226,0,0,Documentary,2013-09-25 00:00:00
+The Informant,2947,0,0,Documentary,2013-09-13 00:00:00
+In the Name Of,2635,0,0,Foreign,2013-10-30 00:00:00
+InchAllah (U.S. only),3391,0,0,Drama,2013-08-16 00:00:00
+Birth of the Living Dead,1239,0,0,Documentary,2013-10-18 00:00:00
+Welcome to the Punch,2736,0,0,Thriller,2013-03-27 00:00:00
+Antoine and Antoinette (2013 re-issue),4147,0,0,Foreign,2013-09-25 00:00:00
+Northern Lights (2013 re-release),2256,0,0,Drama,2013-09-20 00:00:00
+If I Were You,3889,0,0,Comedy / Drama,2013-03-15 00:00:00
+Zero Charisma,0,0,0,Comedy,2013-10-11 00:00:00
+The End of Love,1955,0,0,Drama,2013-03-01 00:00:00
+200 Cartas,9338,0,0,Romantic Comedy,2013-06-14 00:00:00
+Better Mus' Come,6140,0,0,Crime Drama,2013-03-15 00:00:00
+11 Flowers,3516,0,0,Foreign,2013-02-22 00:00:00
+Ghost Team One,7345,0,0,Horror Comedy,2013-10-11 00:00:00
+Trouble Every Day (2013 re-release),2984,0,0,Foreign,2013-10-11 00:00:00
+Call Me Kuchu,3476,0,0,Documentary,2013-06-14 00:00:00
+Clandestine Childhood,8137,0,0,Foreign,2013-01-18 00:00:00
+Big Words,7371,0,0,Drama,2013-07-19 00:00:00
+White Elephant,5098,4379023,0,Foreign,2013-03-29 00:00:00
+Hell Baby,4980,0,0,Horror Comedy,2013-09-06 00:00:00
+The Institute,3017,0,0,Documentary,2013-10-04 00:00:00
+Hello Herman,5985,0,0,Drama,2013-06-07 00:00:00
+The Happy Sad,4560,0,0,Drama,2013-08-16 00:00:00
+Downloaded,2504,0,0,Documentary,2013-06-21 00:00:00
+A Teacher,4684,0,0,Drama,2013-09-06 00:00:00
+Aliyah,1627,0,0,Foreign,2013-06-14 00:00:00
+Argento's Dracula 3D,3085,0,0,Horror,2013-10-04 00:00:00
+What's In a Name?,0,0,0,Foreign,2013-12-13 00:00:00
+La Maison De La Radio,1410,0,0,Documentary,2013-09-04 00:00:00
+Pawn Shop Chronicles,4915,0,0,Action Comedy,2013-07-12 00:00:00
+Nothing Left to Fear,7886,0,0,Horror,2013-10-04 00:00:00
+And While We Were Here,7750,0,0,Romance,2013-09-13 00:00:00
+Girls Against Boys,6111,0,0,Thriller,2013-02-01 00:00:00
+Desperate Acts of Magic,2238,0,0,Comedy,2013-05-03 00:00:00
+A Perfect Man,388,0,0,Drama,2013-11-01 00:00:00
+The Brass Teapot,4468,0,0,Fantasy Comedy,2013-04-05 00:00:00
+Finding Mr. Right,3430,0,0,Foreign,2013-11-08 00:00:00
+Assaulted:Civil Rights Under Fire,4570,0,0,Documentary,2013-06-20 00:00:00
+Sal,5375,0,0,Drama,2013-11-01 00:00:00
+The Human Scale,0,0,0,Documentary,2013-10-18 00:00:00
+Paradise:Hope,2664,0,0,Foreign,2013-12-06 00:00:00
+Breakfast with Curtis,1601,0,0,Drama,2013-12-04 00:00:00
+Brief Reunion,3085,0,0,Thriller,2013-01-18 00:00:00
+Down the Shore,4808,0,0,Drama,2013-04-05 00:00:00
+Paradise:Faith,2179,0,0,Foreign,2013-08-23 00:00:00
+Some Velvet Morning,0,0,0,Drama,2013-12-13 00:00:00
+100 Bloody Acres,3419,0,0,Horror Comedy,2013-06-28 00:00:00
+Inescapable,1545,0,0,Thriller,2013-02-22 00:00:00
+Sweetwater,0,0,0,Western,2013-10-11 00:00:00
+Guitar Innovators:John Fahey & Nels Cline,1119,0,0,Documentary,2013-08-16 00:00:00
+Welcome to Pine Hill,3629,0,0,Drama,2013-03-01 00:00:00
+Rangrezz,4318,0,0,Foreign,2013-03-22 00:00:00
+The Last Time I Saw Macao,2838,0,0,Foreign,2013-09-13 00:00:00
+The Playroom,3900,0,0,Drama,2013-04-05 00:00:00
+A Bottle in the Gaza Sea,2531,305966,0,Foreign,2013-01-04 00:00:00
+Five Dances,5788,0,0,Drama,2013-10-04 00:00:00
+A Dark Truth,630,0,0,Action Thriller,2013-01-04 00:00:00
+People of a Feather,2413,0,0,Documentary,2013-11-08 00:00:00
+Knife Fight,0,0,0,Drama,2013-01-25 00:00:00
+The Guillotines,3296,0,0,Foreign,2013-06-14 00:00:00
+The Time Being,0,0,0,Drama,2013-07-26 00:00:00
+Bidder 70,2477,0,0,Documentary,2013-05-17 00:00:00
+Nuclear Nation,2268,0,0,Documentary,2013-12-11 00:00:00
+Herman's House,3552,0,0,Documentary,2013-04-19 00:00:00
+Supporting Characters,0,0,0,Comedy,2013-01-25 00:00:00
+Revelation Road 2,3722,0,0,Action,2013-07-12 00:00:00
+Ferlinghetti:The Rebirth of Wonder,1197,0,0,Documentary,2013-02-08 00:00:00
+Hotel Normandy,2552,0,0,Foreign,2013-09-27 00:00:00
+All is Bright,4556,0,0,Comedy / Drama,2013-10-04 00:00:00
+Here Comes the Devil,783,0,0,Foreign,2013-12-13 00:00:00
+Between Us,0,0,0,Comedy / Drama,2013-06-14 00:00:00
+The End of Time,1468,0,0,Documentary,2013-11-29 00:00:00
+A Case of You,0,0,0,Romantic Comedy,2013-11-06 00:00:00
+3 Geezers!,1372,0,0,Comedy,2013-05-22 00:00:00
+Pawn,2137,0,0,Crime Thriller,2013-04-19 00:00:00
+Contracted,3328,0,0,Horror Thriller,2013-11-22 00:00:00
+Weekend of a Champion,4100,0,0,Documentary,2013-11-22 00:00:00
+Silver Circle,1314,0,0,Animation,2013-03-22 00:00:00
+The Kitchen,0,0,0,Comedy,2013-03-08 00:00:00
+Morning,2876,0,0,Drama,2013-09-27 00:00:00
+Approved for Adoption,4015,0,0,Animation,2013-11-08 00:00:00
+Three Worlds,1791,0,0,Foreign,2013-06-21 00:00:00
+"High Tech, Low Life",1718,0,0,Documentary,2013-01-09 00:00:00
+The Condemned (2013),2511,0,0,Foreign,2013-03-01 00:00:00
+Mr. Nobody,1612,3543587,0,Drama,2013-11-01 00:00:00
+Tricked,1930,0,0,Foreign,2013-12-13 00:00:00
+The Stroller Strategy,1799,0,0,Foreign,2013-06-14 00:00:00
+Scenic Route,0,0,0,Drama / Thriller,2013-08-23 00:00:00
+The Happy Poet,1847,0,0,Comedy / Drama,2013-03-22 00:00:00
+Swerve,2725,0,0,Crime Thriller,2013-12-06 00:00:00
+Axe Giant:The Wrath of Paul Bunyan,775,0,0,Horror,2013-05-31 00:00:00
+As Cool As I Am,0,0,0,Comedy / Drama,2013-06-07 00:00:00
+Plush,2843,0,0,Drama / Thriller,2013-09-13 00:00:00
+Drew:The Man Behind the Poster,1764,0,0,Documentary,2013-08-14 00:00:00
+A Girl and a Gun,1731,0,0,Drama,2013-07-03 00:00:00
+Approaching Midnight,1119,0,0,Crime Drama,2013-08-30 00:00:00
+What Richard Did,0,0,0,Drama,2013-05-10 00:00:00
+The Lesser Blessed,0,0,0,Drama,2013-05-24 00:00:00
+Come Out and Play,1600,0,0,Horror,2013-03-22 00:00:00
+Sparrow's Dance,0,0,0,Drama,2013-08-23 00:00:00
+Last Flight of the Champion,1493,0,0,Animation,2013-08-30 00:00:00
+Cassadaga,1678,0,0,Horror,2013-10-11 00:00:00
+Almost in Love,1110,0,0,Romantic Comedy,2013-02-15 00:00:00
+The Last Day of August,1693,0,0,Drama,2013-10-04 00:00:00
+Men at Lunch,1530,0,0,Documentary,2013-09-20 00:00:00
+Lotus Eaters,1715,0,0,Drama,2013-04-05 00:00:00
+The Happy House,1756,0,0,Comedy,2013-05-03 00:00:00
+InSpectres,610,0,0,Comedy,2013-09-05 00:00:00
+Rubberneck,2075,0,0,Comedy,2013-02-22 00:00:00
+Red Flag,2075,0,0,Comedy,2013-02-22 00:00:00
+Best Man Down,1171,0,0,Comedy / Drama,2013-11-08 00:00:00
+Detention of the Dead,1332,0,0,Horror Comedy,2013-06-28 00:00:00
+You Don't Need Feet to Dance,1239,0,0,Documentary,2013-03-22 00:00:00
+Eddie the Sleepwalking Cannibal,1016,0,0,Horror Comedy,2013-04-05 00:00:00
+The Package (2013),1095,0,0,Action,2013-02-15 00:00:00
+Officer Down,1061,0,0,Crime Drama,2013-01-18 00:00:00
+A Zombie Invasion,0,0,0,Horror,2013-12-12 00:00:00
+Veer!,713,0,0,Comedy / Drama,2013-03-01 00:00:00
+Caught in the Web,361,0,0,Foreign,2013-11-27 00:00:00
+Java Heat,0,0,0,Action,2013-05-10 00:00:00
+Paris Countdown,0,0,0,Foreign,2013-11-08 00:00:00
+Absence,0,0,0,Thriller,2013-07-05 00:00:00
+Khumba,1029,27186346,0,Animation,2013-12-06 00:00:00
+Remnants,0,0,0,Sci-Fi,2013-11-14 00:00:00
+Billy and Buddy,0,15229656,0,Foreign,2013-11-08 00:00:00
+I Spit on Your Grave 2,441,0,0,Horror,2013-09-20 00:00:00
+Into the White,90,0,0,War Drama,2013-04-12 00:00:00
+Syrup,301,0,0,Comedy / Drama,2013-06-07 00:00:00
+Hammer of the Gods,164,0,0,Action,2013-07-05 00:00:00
+Triumph of the Wall,430,0,0,Documentary,2013-05-31 00:00:00
+Storage 24,72,0,0,Sci-Fi Horror,2013-01-18 00:00:00

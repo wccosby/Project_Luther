@@ -170,7 +170,7 @@ def get_movie_urls(list_url):
         url_list.pop(not_movie_index) # the first element is not a movie title
     return url_list
 
-movie_list_pages = ['http://www.boxofficemojo.com/yearly/chart/?yr=2016&p=.htm',
+movie_list_pages_2015_2016 = ['http://www.boxofficemojo.com/yearly/chart/?yr=2016&p=.htm',
                     'http://www.boxofficemojo.com/yearly/chart/?page=2&view=releasedate&view2=domestic&yr=2016&p=.htm',
                     'http://www.boxofficemojo.com/yearly/chart/?page=3&view=releasedate&view2=domestic&yr=2016&p=.htm',
                     'http://www.boxofficemojo.com/yearly/chart/?page=4&view=releasedate&view2=domestic&yr=2016&p=.htm',
@@ -182,13 +182,29 @@ movie_list_pages = ['http://www.boxofficemojo.com/yearly/chart/?yr=2016&p=.htm',
                     'http://www.boxofficemojo.com/yearly/chart/?page=6&view=releasedate&view2=domestic&yr=2015&p=.htm',
                     'http://www.boxofficemojo.com/yearly/chart/?page=7&view=releasedate&view2=domestic&yr=2015&p=.htm']
 
-movie_urls = get_movie_urls(movie_list_pages)
+movie_list_pages_2013_2014 = ['http://www.boxofficemojo.com/yearly/chart/?yr=2014&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=2&view=releasedate&view2=domestic&yr=2014&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=3&view=releasedate&view2=domestic&yr=2014&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=4&view=releasedate&view2=domestic&yr=2014&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=5&view=releasedate&view2=domestic&yr=2014&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=6&view=releasedate&view2=domestic&yr=2014&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=7&view=releasedate&view2=domestic&yr=2014&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=8&view=releasedate&view2=domestic&yr=2014&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?yr=2013&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=2&view=releasedate&view2=domestic&yr=2013&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=3&view=releasedate&view2=domestic&yr=2013&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=4&view=releasedate&view2=domestic&yr=2013&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=5&view=releasedate&view2=domestic&yr=2013&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=6&view=releasedate&view2=domestic&yr=2013&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=7&view=releasedate&view2=domestic&yr=2013&p=.htm']
+
+movie_urls = get_movie_urls(movie_list_pages_2013_2014)
 movie_data_list = parse_movie_page(movie_urls)
 
 # need to write to csv
 import csv
 print movie_data_list
-with open("movie_data.csv", "wb") as f:
+with open("movie_data_2013_2014.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(movie_data_list)
 
