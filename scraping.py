@@ -7,26 +7,6 @@ import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 import requests
 
-
-
-# movie_data = []
-#
-# # header = ['Year','Total Gross','Change','Tickets Sold','Change','# of movies','Total Screens',
-# #           'Avg. Ticket Price','Avg. Cost','#1 Movie']
-# movie_data = []
-#
-# # the first row is the title of the columns
-# for row in movie_table[2].findAll("tr"):
-#     movie_row = []
-#     for i,cell in enumerate(row.findAll("td")):
-# #         print cell
-#         movie_row.append(cell.find(text=True))
-#     movie_data.append(movie_row)
-#
-# header = movie_data.pop(0)
-# movies_df = pd.DataFrame(movie_data,columns = header)
-# # movies_df.dropna()
-
 ###
 ###
 ### format:
@@ -147,27 +127,37 @@ def parse_movie_page(url_list):
 
 
 def get_movie_urls(list_url):
-    movie_data = []
 
+
+    # movie_list = soup.find("table",{ "class" : "wikitable sortable plainrowheaders" })
+
+    print "Getting url response..."
+    response = requests.get(list_url)
+    # should probably check to make sure the response code is good to continue
+    print "got response, now getting text..."
+    #'''get the page and soup reference'''#
+    list_page = response.text
+    list_soup = BeautifulSoup(list_page)
+
+    url_list = []
     # header = ['Year','Total Gross','Change','Tickets Sold','Change','# of movies','Total Screens',
     #           'Avg. Ticket Price','Avg. Cost','#1 Movie']
-    movie_data = []
-
     # the first row is the title of the columns
-    for row in movie_table[2].findAll("tr"):
-        movie_row = []
-        for i,cell in enumerate(row.findAll("td")):
-    #         print cell
-            movie_row.append(cell.find(text=True))
-        movie_data.append(movie_row)
 
-    header = movie_data.pop(0)
-    movies_df = pd.DataFrame(movie_data,columns = header)
-    # movies_df.dropna()
+    list_table = list_soup.find("table",{"cellspacing":"1","cellpadding":"5"})
+    url_prefix ='http://boxofficemojo.com'
+    for row in list_table.find_all("tr"):
+        try:
+            url_suffix = row.find('a')['href']
+            print url_suffix
+            url_list.append(url_prefix + url_suffix)
+        except:
+            print "FUCKFUCKFUCUCKASDFLKJAEF"
+    url_list.pop(0)
+    return url_list
 
-
-
-
+found_url = get_movie_urls('http://www.boxofficemojo.com/yearly/chart/?yr=2016&p=.htm')
+print found_url
 
 
 
@@ -182,9 +172,9 @@ url_pool = ["http://www.boxofficemojo.com/movies/?id=deadpool2016.htm"]
 url_lim_opening = ['http://www.boxofficemojo.com/movies/?id=hello,mynameisdoris.htm']
 
 
-test_dict = parse_movie_page(url3)
-print "returned dictionary:"
-print
-for key, val in test_dict.iteritems():
-    print key,': ',val
-    print
+# test_dict = parse_movie_page(url3)
+# print "returned dictionary:"
+# print
+# for key, val in test_dict.iteritems():
+#     print key,': ',val
+#     print
