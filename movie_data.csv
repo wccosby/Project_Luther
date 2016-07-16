@@ -1,0 +1,1063 @@
+MOVIE_NAME,DOMESTIC_OPENING,FOREIGN_TOTAL,BUDGET,GENRE,RELEASE_DATE
+Finding Dory,135060273,221800000,0,Animation,2016-06-17 00:00:00
+Captain America:Civil War,179139142,744400000,250000000,Action / Adventure,2016-05-06 00:00:00
+Deadpool,132434639,418968273,58000000,Action,2016-02-12 00:00:00
+The Jungle Book (2016),103261464,575900000,175000000,Adventure,2016-04-15 00:00:00
+Zootopia,75063401,680600000,0,Animation,2016-03-04 00:00:00
+Batman v Superman:Dawn of Justice,166007347,542302437,250000000,Action / Adventure,2016-03-25 00:00:00
+X-Men:Apocalypse,65769562,378888139,178000000,Action / Adventure,2016-05-27 00:00:00
+The Secret Life of Pets,104352905,42765555,75000000,Animation,2016-07-08 00:00:00
+Kung Fu Panda 3,41282042,375479654,0,Animation,2016-01-29 00:00:00
+Central Intelligence,35535250,47749340,50000000,Comedy,2016-06-17 00:00:00
+The Angry Birds Movie,38155177,235453777,73000000,Animation,2016-05-20 00:00:00
+The Conjuring 2,40406314,192400000,40000000,Horror,2016-06-10 00:00:00
+Independence Day:Resurgence,41039944,215500729,165000000,Sci-Fi Adventure,2016-06-24 00:00:00
+The Legend of Tarzan,38527856,56000000,180000000,Action / Adventure,2016-07-01 00:00:00
+Ride Along 2,35243095,33383467,40000000,Action Comedy,2016-01-15 00:00:00
+Teenage Mutant Ninja Turtles:Out of the Shadows,35316382,143471916,135000000,Action / Adventure,2016-06-03 00:00:00
+Alice Through the Looking Glass,26858726,194700000,170000000,Family Adventure,2016-05-27 00:00:00
+10 Cloverfield Lane,24727437,36203423,0,Thriller,2016-03-11 00:00:00
+The Divergent Series:Allegiant,29027348,113056198,0,Action / Adventure,2016-03-18 00:00:00
+The Purge:Election Year,31515110,2424848,10000000,Thriller,2016-07-01 00:00:00
+The Boss,23586645,15558697,29000000,Comedy,2016-04-08 00:00:00
+Now You See Me 2,22383146,178493585,0,Thriller,2016-06-10 00:00:00
+London Has Fallen,21635601,133201324,60000000,Action,2016-03-04 00:00:00
+Miracles from Heaven,14812393,11858303,13000000,Drama,2016-03-16 00:00:00
+My Big Fat Greek Wedding 2,17861950,29233646,0,Comedy,2016-03-25 00:00:00
+Neighbors 2:Sorority Rising,21760405,49103644,0,Comedy,2016-05-20 00:00:00
+Me Before You,18723269,102800000,20000000,Romance,2016-06-03 00:00:00
+Barbershop:The Next Cut,20242415,1000000,0,Comedy,2016-04-15 00:00:00
+13 Hours:The Secret Soldiers of Benghazi,16194738,16558151,50000000,Drama,2016-01-15 00:00:00
+The Shallows,16800868,2305756,17000000,Horror,2016-06-24 00:00:00
+The Huntsman:Winter's War,19445035,116599148,115000000,Action / Adventure,2016-04-22 00:00:00
+How to Be Single,17878911,65300000,38000000,Romantic Comedy,2016-02-12 00:00:00
+Warcraft,24166110,383500000,160000000,Fantasy,2016-06-10 00:00:00
+The BFG,18775350,11900000,140000000,Adventure,2016-07-01 00:00:00
+Money Monster,14788157,48585547,27000000,Drama / Thriller,2016-05-13 00:00:00
+Risen,11801271,9189535,20000000,Action / Adventure,2016-02-19 00:00:00
+The Nice Guys,11203270,0,0,Comedy Thriller,2016-05-20 00:00:00
+The Boy (2016),10778392,28368811,10000000,Horror,2016-01-22 00:00:00
+Dirty Grandpa,11111875,58479915,0,Comedy,2016-01-22 00:00:00
+The 5th Wave,10326356,74989585,38000000,Sci-Fi Action,2016-01-22 00:00:00
+Mother's Day,8369184,0,25000000,Comedy,2016-04-29 00:00:00
+Gods of Egypt,14123903,114094035,140000000,Action / Adventure,2016-02-26 00:00:00
+"Hail, Caesar!",11355225,33149571,22000000,Comedy,2016-02-05 00:00:00
+Zoolander 2,13841146,27120307,0,Comedy,2016-02-12 00:00:00
+The Finest Hours,10288932,24529532,0,Thriller,2016-01-29 00:00:00
+The Forest,12741176,11014038,10000000,Horror,2016-01-08 00:00:00
+The Witch,8800230,15285240,0,Horror,2016-02-19 00:00:00
+Mike and Dave Need Wedding Dates,16628170,4372278,33000000,Comedy,2016-07-08 00:00:00
+Whiskey Tango Foxtrot,7450275,0,35000000,Comedy,2016-03-04 00:00:00
+God's Not Dead 2,7623662,0,0,Drama,2016-04-01 00:00:00
+Keanu,9453224,0,15000000,Comedy,2016-04-29 00:00:00
+Free State of Jones,7572206,0,50000000,Action Drama,2016-06-24 00:00:00
+Race (2016),7353922,0,0,Drama,2016-02-19 00:00:00
+The Choice,6050443,0,0,Romance,2016-02-05 00:00:00
+Eye in the Sky,4075359,0,0,Drama / Thriller,2016-03-11 00:00:00
+Norm of the North,6844137,0,0,Animation,2016-01-15 00:00:00
+Eddie the Eagle,6084682,30363411,23000000,Drama,2016-02-26 00:00:00
+Criminal (2016),5767278,0,0,Action,2016-04-15 00:00:00
+"Hello, My Name is Doris",2461808,0,0,Comedy,2016-03-11 00:00:00
+Love & Friendship,2273176,0,0,Comedy,2016-05-13 00:00:00
+Triple 9,6109085,0,0,Thriller,2016-02-26 00:00:00
+Fifty Shades of Black,5900528,9477859,0,Comedy,2016-01-29 00:00:00
+Pride and Prejudice and Zombies,5324240,5467037,28000000,Comedy,2016-02-05 00:00:00
+The Darkness,4950859,0,0,Horror,2016-05-13 00:00:00
+The Perfect Match,4294232,730792,0,Romantic Comedy,2016-03-11 00:00:00
+Popstar:Never Stop Never Stopping,4698715,0,0,Comedy,2016-06-03 00:00:00
+Hardcore Henry,5107604,5081752,0,Action Thriller,2016-04-08 00:00:00
+Meet the Blacks,4055940,0,0,Comedy,2016-04-01 00:00:00
+Ratchet & Clank,4869278,0,0,Animation,2016-04-29 00:00:00
+The Lobster (US Release),190252,0,0,Comedy / Drama,2016-05-13 00:00:00
+The Brothers Grimsby,3258327,18308092,0,Comedy,2016-03-11 00:00:00
+The Young Messiah,3294876,0,0,Historical Drama,2016-03-11 00:00:00
+Sultan,2371100,48017671,0,Drama,2016-07-06 00:00:00
+The Meddler,57022,0,0,Comedy,2016-04-22 00:00:00
+A Hologram for the King,1138578,0,0,Drama,2016-04-22 00:00:00
+Where to Invade Next,897034,0,0,Documentary,2016-02-12 00:00:00
+The Man Who Knew Infinity,80325,0,0,Drama,2016-04-29 00:00:00
+Midnight Special,190012,2500000,0,Sci-Fi,2016-03-18 00:00:00
+Swiss Army Man,1520204,0,0,Comedy,2016-06-24 00:00:00
+Everybody Wants Some!!,312355,0,0,Comedy,2016-03-30 00:00:00
+A Beautiful Planet,223983,223868,0,Documentary,2016-04-29 00:00:00
+The Mermaid (Mei ren yu),985052,550577543,0,Fantasy Drama,2016-02-19 00:00:00
+Green Room,499360,0,0,Thriller,2016-04-15 00:00:00
+Sing Street,63573,5144705,0,Musical,2016-04-15 00:00:00
+Compadres,1397434,0,0,Action,2016-04-22 00:00:00
+The Other Side of the Door,1211210,11181375,0,Horror,2016-03-04 00:00:00
+Maggie's Plan,63308,0,0,Comedy,2016-05-20 00:00:00
+2016 Oscar Nominated Short Films,559502,0,0,Unknown,2016-01-29 00:00:00
+Ip Man 3,784839,154165316,0,Action,2016-01-22 00:00:00
+Miles Ahead,114530,0,0,Drama,2016-04-01 00:00:00
+Kapoor & Sons - Since 1921,986992,12789411,0,Comedy,2016-03-18 00:00:00
+Our Kind of Traitor,984698,0,0,Drama,2016-07-01 00:00:00
+A Aa,1213057,0,0,Comedy / Drama,2016-06-01 00:00:00
+A Bigger Splash,114419,0,0,Crime Drama,2016-05-04 00:00:00
+Demolition,1100042,0,0,Drama,2016-04-08 00:00:00
+Busco Novio Para Mi Mujer,902457,0,0,Comedy,2016-02-19 00:00:00
+Fan,1382871,0,0,Comedy / Drama,2016-04-15 00:00:00
+I Saw the Light,729461,0,0,Drama,2016-03-25 00:00:00
+Neerja,626528,15871616,0,Drama,2016-02-19 00:00:00
+Weiner,84173,0,0,Documentary,2016-05-20 00:00:00
+Jane Got a Gun,835572,0,0,Western,2016-01-29 00:00:00
+The Infiltrator,0,0,0,Drama / Thriller,2016-07-13 00:00:00
+The Little Prince,116927,96232098,0,Animation,2016-02-12 00:00:00
+Embrace of the Serpent,50955,0,0,Drama,2016-02-17 00:00:00
+Housefull 3,683620,0,0,Romantic Comedy,2016-06-03 00:00:00
+The Neon Demon,589014,0,0,Horror Thriller,2016-06-24 00:00:00
+Genius,98274,0,0,Drama,2016-06-10 00:00:00
+Lazer Team,108586,0,0,Sci-Fi Comedy,2016-01-27 00:00:00
+Wazir,586028,0,0,Thriller,2016-01-08 00:00:00
+Papa:Hemingway in Cuba,475224,0,0,Drama,2016-04-29 00:00:00
+Dough,50871,0,0,Comedy / Drama,2016-02-12 00:00:00
+Elvis & Nixon,466447,0,0,Drama,2016-04-22 00:00:00
+Hunt for the Wilderpeople,78439,0,0,Adventure Comedy,2016-06-24 00:00:00
+Gentleman,537490,0,0,Drama / Thriller,2016-06-17 00:00:00
+Ki & Ka,539521,0,0,Romantic Comedy,2016-04-01 00:00:00
+Dark Horse (2016),13838,0,0,Documentary,2016-05-06 00:00:00
+Chongqing Hot Pot,201960,0,0,Thriller,2016-04-01 00:00:00
+The Wailing (Goksung),77892,0,0,Drama / Thriller,2016-05-20 00:00:00
+The Monkey King 2 in 3D,166391,192967176,0,Action / Adventure,2016-02-05 00:00:00
+Born to be Blue (US Release),46184,0,0,Drama,2016-03-25 00:00:00
+The Music of Strangers,24614,0,0,Documentary,2016-06-10 00:00:00
+Remember (US Release),20489,0,0,Drama / Thriller,2016-03-11 00:00:00
+The Bronze,386328,0,0,Comedy,2016-03-18 00:00:00
+City of Gold,62959,0,0,Documentary,2016-03-11 00:00:00
+Range 15,1044,0,0,Horror Comedy,2016-06-15 00:00:00
+Saturday's Warrior,96041,0,0,Musical,2016-04-01 00:00:00
+Knight of Cups,60551,0,0,Drama,2016-03-04 00:00:00
+Fitoor,347164,0,0,Romance,2016-02-12 00:00:00
+The First Monday in May,99242,0,0,Documentary,2016-04-15 00:00:00
+Unsullied,179112,0,0,Action Horror,2016-04-22 00:00:00
+Marguerite,19924,0,0,Drama,2016-03-11 00:00:00
+The Boy and the Beast,274247,0,0,Animation,2016-03-04 00:00:00
+Detective Chinatown (Tang ren jie tan an),280281,125368683,0,Foreign,2016-01-15 00:00:00
+Only Yesterday (2016 re-release),14970,0,0,Animation,2016-01-01 00:00:00
+Baaghi,237215,0,0,Action Comedy,2016-04-29 00:00:00
+The Lobster (Canada Release),0,0,0,Comedy / Drama,2016-03-25 00:00:00
+Tickled,21898,0,0,Documentary,2016-06-17 00:00:00
+Te3n,258066,0,0,Crime Thriller,2016-06-10 00:00:00
+High-Rise,79887,0,0,Action Drama,2016-05-13 00:00:00
+AmeriGeddon,125571,0,0,Action,2016-05-13 00:00:00
+Wiener-Dog,24311,0,0,Comedy,2016-06-24 00:00:00
+Francofonia,22083,0,0,Documentary,2016-04-01 00:00:00
+April and the Extraordinary World,11413,0,0,Animation,2016-03-25 00:00:00
+My Golden Days,26847,0,0,Drama,2016-03-18 00:00:00
+The Family Fang,14506,0,0,Comedy,2016-04-29 00:00:00
+Cold War 2,157385,0,0,Action Thriller,2016-07-08 00:00:00
+Minimalism:A Documentary About the Important Things,0,0,0,Documentary,2016-05-24 00:00:00
+Dheepan,20249,0,0,Crime Drama,2016-05-06 00:00:00
+The Innocents,30896,0,0,Drama,2016-07-01 00:00:00
+The Invitation,67877,0,0,Horror Thriller,2016-04-08 00:00:00
+Jimmy Vestvood:Amerikan Hero,60860,0,0,Comedy,2016-05-13 00:00:00
+Ho Mann Jahaan,77548,0,0,Musical,2016-01-01 00:00:00
+Kaptaan,109993,0,0,Comedy / Drama,2016-05-20 00:00:00
+El Clan,12519,20180768,0,Crime Thriller,2016-03-18 00:00:00
+The Masked Saint,123839,0,0,Drama,2016-01-08 00:00:00
+Viva,48995,0,0,Drama,2016-04-29 00:00:00
+The Wave,60321,0,0,Action Drama,2016-03-04 00:00:00
+Vaxxed:From Cover-Up to Catastrophe,28339,0,0,Documentary,2016-04-01 00:00:00
+Louder than Bombs,24259,0,0,Drama,2016-04-08 00:00:00
+Beauty and the Beast (2016 re-issue),8264,0,0,Fantasy,2016-02-12 00:00:00
+Born to be Blue,14069,0,0,Drama,2016-03-04 00:00:00
+De Palma,30355,0,0,Documentary,2016-06-10 00:00:00
+Touched with Fire,16816,0,0,Drama,2016-02-12 00:00:00
+Krisha,9880,0,0,Drama,2016-03-18 00:00:00
+Sunset Song,12995,0,0,Drama,2016-05-13 00:00:00
+Psycho-Pass:The Movie,0,0,0,Animation,2016-03-15 00:00:00
+Eat That Question:Frank Zappa in His Own Words,16695,0,0,Documentary,2016-06-24 00:00:00
+Tumbledown,7331,0,0,Comedy / Drama,2016-02-05 00:00:00
+The Witness,14523,0,0,Documentary,2016-06-03 00:00:00
+Captain Fantastic,93824,0,0,Drama,2016-07-08 00:00:00
+The Fits,10602,0,0,Drama,2016-06-03 00:00:00
+Chimes at Midnight (2016 re-release),20480,0,0,Comedy / Drama,2016-01-01 00:00:00
+Spirits' Homecoming,10012,0,0,Drama,2016-03-11 00:00:00
+A War,9095,0,0,Drama,2016-02-12 00:00:00
+Eva Hesse,12780,0,0,Documentary,2016-04-27 00:00:00
+Hockney,13683,0,0,Documentary,2016-04-22 00:00:00
+Three,58196,0,0,Action Thriller,2016-06-24 00:00:00
+Caged No More,69372,0,0,Drama / Thriller,2016-01-22 00:00:00
+The Measure of a Man,10011,0,0,Drama,2016-04-15 00:00:00
+Requiem for the American Dream,0,0,0,Documentary,2016-01-29 00:00:00
+Aferim!,15892,0,0,Comedy / Drama,2016-01-22 00:00:00
+Dictator,30593,0,0,Action,2016-01-13 00:00:00
+Puerto Ricans in Paris,26674,0,0,Comedy,2016-06-10 00:00:00
+Tale of Tales,8871,0,0,Fantasy,2016-04-22 00:00:00
+Our Last Tango,6550,0,0,Foreign,2016-04-15 00:00:00
+"New York, New York (2016)",42239,0,0,Drama,2016-04-15 00:00:00
+No One's Life Is Easy:So I Married an Anti-Fan,58767,0,0,Comedy,2016-07-01 00:00:00
+Los Sures,26088,0,0,Documentary,2016-04-15 00:00:00
+Mountains May Depart,5550,0,0,Drama,2016-02-12 00:00:00
+Vita Activa:The Spirit of Hannah Arendt,13244,0,0,Documentary,2016-04-06 00:00:00
+Fireworks Wednesday,6132,0,0,Drama,2016-03-18 00:00:00
+Les cowboys,13178,0,0,Drama,2016-06-24 00:00:00
+Colliding Dreams,16438,0,0,Documentary,2016-03-04 00:00:00
+Sweet Bean,4630,0,0,Drama,2016-03-18 00:00:00
+Saala Khadoos,76931,0,0,Sports Drama,2016-01-29 00:00:00
+Sweet 20,24715,0,0,Comedy,2016-03-11 00:00:00
+Zero Days,49110,0,0,Documentary,2016-07-08 00:00:00
+The Congressman,14260,0,0,Comedy / Drama,2016-04-29 00:00:00
+The Dark Horse,8152,0,0,Drama,2016-04-01 00:00:00
+Phantom Detective,7804,0,0,Action Comedy,2016-05-11 00:00:00
+Ran (2016 re-issue),11462,0,0,Drama,2016-02-26 00:00:00
+Trapped (2016),17626,0,0,Documentary,2016-03-04 00:00:00
+Creative Control,6964,0,0,Drama,2016-03-11 00:00:00
+"Life, Animated",21883,0,0,Documentary,2016-07-01 00:00:00
+Too Late,7000,0,0,Drama,2016-03-18 00:00:00
+Time Renegades,6068,0,0,Fantasy,2016-04-15 00:00:00
+Raiders!:The Story of the Greatest Fan Film Ever Made,26059,0,0,Documentary,2016-06-17 00:00:00
+The Kind Words,8571,0,0,Comedy / Drama,2016-06-24 00:00:00
+Sold,5070,0,0,Drama,2016-04-01 00:00:00
+DONGJU:The Portrait of a Poet,17724,0,0,Drama,2016-04-01 00:00:00
+Wedding Doll,2771,0,0,Drama,2016-04-15 00:00:00
+L'attesa,5686,0,0,Drama,2016-04-29 00:00:00
+Regression,33915,17616062,0,Thriller,2016-02-05 00:00:00
+Clown,26920,0,0,Horror Thriller,2016-06-17 00:00:00
+Diary of a Chambermaid,10053,0,0,Drama,2016-06-10 00:00:00
+High Strung (2016),40708,0,0,Music Drama,2016-04-08 00:00:00
+The Club,6514,0,0,Drama,2016-02-05 00:00:00
+The Last Man on the Moon,30880,0,0,Documentary,2016-02-26 00:00:00
+The Fallen Idol (2016 re-issue),12136,0,0,Drama,2016-05-27 00:00:00
+Cemetery of Splendor,7780,0,0,Drama,2016-03-04 00:00:00
+King Georges,15031,0,0,Documentary,2016-02-26 00:00:00
+King Georges,15031,0,0,Documentary,2016-02-26 00:00:00
+In the Shadow of Women,10431,0,0,Drama,2016-01-15 00:00:00
+Pele:Birth of a Legend,7226,0,0,Sports Drama,2016-05-13 00:00:00
+The Treasure,13624,0,0,Comedy,2016-01-08 00:00:00
+Ma ma,8874,1090163,0,Drama,2016-05-20 00:00:00
+A Melody to Remember,0,0,0,War Drama,2016-01-29 00:00:00
+Phantom of the Theatre,21001,0,0,Fantasy,2016-05-06 00:00:00
+Mastizaade,29878,0,0,Comedy,2016-01-29 00:00:00
+The Homeless Billionaire,19771,0,0,Romantic Comedy,2016-06-17 00:00:00
+Catching the Sun,0,0,0,Documentary,2016-04-01 00:00:00
+Our Little Sister,25118,0,0,Drama,2016-07-08 00:00:00
+"My Love, Don't Cross that River",6340,0,0,Documentary,2016-06-17 00:00:00
+Trust Fund,18023,0,0,Drama,2016-01-08 00:00:00
+,0,0,0,NONE,
+The Unknowns,0,0,0,Documentary,2016-05-30 00:00:00
+Until Forever,12445,0,0,Drama,2016-02-12 00:00:00
+Band of Outsiders (2016 re-issue),13252,0,0,Drama,2016-05-06 00:00:00
+Songs My Brothers Taught Me,3430,0,0,Drama,2016-03-02 00:00:00
+Mr. Right,25369,0,0,Action Comedy,2016-04-08 00:00:00
+Eisenstein in Guanajuato,9823,0,0,Romantic Comedy,2016-02-05 00:00:00
+Presenting Princess Shaw,4814,0,0,Documentary,2016-05-27 00:00:00
+Monster Hunt,21074,385252051,0,Action Fantasy,2016-01-22 00:00:00
+"Rio, I Love You",0,0,0,Drama,2016-04-15 00:00:00
+Being Charlie,11872,0,0,Comedy,2016-05-06 00:00:00
+Under the Sun (2016),15454,0,0,Documentary,2016-07-06 00:00:00
+Men & Chicken,2654,4591767,0,Comedy,2016-04-22 00:00:00
+The Dog Wedding,12132,0,0,Romantic Comedy,2016-03-11 00:00:00
+Troublemakers:The Story of Land Art,5424,9109,0,Documentary,2016-01-08 00:00:00
+No Home Movie,0,0,0,Documentary,2016-02-18 00:00:00
+Time to Choose,12233,0,0,Documentary,2016-06-03 00:00:00
+From Afar,5136,0,0,Drama,2016-06-08 00:00:00
+Valley of Love,9849,0,0,Drama,2016-03-25 00:00:00
+"Rabin, the Last Day",7940,0,0,Drama,2016-01-29 00:00:00
+Take Me to the River (2016),1509,0,0,Drama,2016-03-18 00:00:00
+Therapy for a Vampire,3361,0,0,Horror Comedy,2016-06-10 00:00:00
+Blackway,16458,0,0,Thriller,2016-06-10 00:00:00
+Nuts!,0,0,0,Documentary,2016-06-22 00:00:00
+Anesthesia,6747,0,0,Drama / Thriller,2016-01-08 00:00:00
+Papa (Luo shan ji dao dan ji hua),14644,0,0,Comedy / Drama,2016-03-18 00:00:00
+Unlocking the Cage,3708,0,0,Documentary,2016-05-25 00:00:00
+Standing Tall (La tete haute),7488,0,0,Drama,2016-04-01 00:00:00
+The New Year's Eve of Old Lee,15519,0,0,Comedy,2016-02-12 00:00:00
+Neon Bull,6413,0,0,Drama,2016-04-08 00:00:00
+Chevalier,5968,0,0,Drama,2016-05-27 00:00:00
+A Monster with a Thousand Heads,3900,0,0,Drama / Thriller,2016-05-11 00:00:00
+Lolo,4242,0,0,Romantic Comedy,2016-03-11 00:00:00
+Germans & Jews,5024,0,0,Documentary,2016-06-10 00:00:00
+Southbound,6250,0,0,Horror Thriller,2016-02-05 00:00:00
+Project Itoh - Harmony,760,0,0,Animation,2016-05-17 00:00:00
+Norman Lear:Just Another Version of You,16912,0,0,Documentary,2016-07-08 00:00:00
+Be Here Now:The Andy Whitfield Story,13577,0,0,Documentary,2016-04-08 00:00:00
+Sanam Teri Kasam,22121,0,0,Romance,2016-02-05 00:00:00
+Term Life,13040,0,0,Crime Drama,2016-04-29 00:00:00
+Already Tomorrow in Hong Kong,14966,0,0,Romantic Comedy,2016-02-12 00:00:00
+Almost Holy,4195,0,0,Documentary,2016-05-20 00:00:00
+Paths of the Soul,2780,0,0,Drama,2016-05-13 00:00:00
+Restored Me,0,0,0,Drama,2016-06-06 00:00:00
+Time Changer (2016 re-release),2320,0,0,Sci-Fi Adventure,2016-02-12 00:00:00
+Band of Robbers,14827,0,0,Adventure Comedy,2016-01-15 00:00:00
+"Kill Me, Deadly",11600,0,0,Comedy,2016-04-01 00:00:00
+Art Bastard,19600,0,0,Documentary,2016-06-03 00:00:00
+Revelation:Dawn of Global Government,14975,0,0,Documentary,2016-04-15 00:00:00
+Ktown Cowboys,12523,0,0,Comedy / Drama,2016-03-18 00:00:00
+Seoul Searching,8966,0,0,Comedy,2016-06-17 00:00:00
+Holy Hell,9238,0,0,Documentary,2016-05-27 00:00:00
+I Knew Her Well,9312,0,0,Drama,2016-02-05 00:00:00
+Last Cab to Darwin,620,0,0,Comedy / Drama,2016-06-10 00:00:00
+"Right Now, Wrong Then",5291,0,0,Drama,2016-06-24 00:00:00
+Streit's:Matzo and the American Dream,12065,0,0,Documentary,2016-04-20 00:00:00
+Gurukulam,0,0,0,Documentary,2016-06-03 00:00:00
+Colonia,0,0,0,Thriller,2016-04-15 00:00:00
+Cosmos,3807,0,0,Drama,2016-06-17 00:00:00
+Be Somebody,14129,0,0,Comedy,2016-06-10 00:00:00
+Of Mind and Music,932,0,0,Drama,2016-02-12 00:00:00
+Remember You,0,0,0,Romantic Thriller,2016-01-15 00:00:00
+Lamb (2016),3150,0,0,Drama,2016-01-08 00:00:00
+Argentina,2274,0,0,Documentary,2016-06-17 00:00:00
+Kamikaze '89,5613,0,0,Sci-Fi,2016-06-03 00:00:00
+Yosemite,4461,0,0,Drama,2016-01-01 00:00:00
+A Space Program,10247,0,0,Documentary,2016-03-18 00:00:00
+Late Spring (2016 re-release),6456,0,0,Drama,2016-03-04 00:00:00
+Tikkun,3595,0,0,Drama,2016-06-10 00:00:00
+Adderall Diaries,5517,0,0,Drama / Thriller,2016-04-15 00:00:00
+City of Women (2016 re-issue),6244,0,0,Comedy / Drama,2016-02-19 00:00:00
+The Ones Below,5191,0,0,Thriller,2016-05-27 00:00:00
+Elstree 1976,3270,0,0,Documentary,2016-05-06 00:00:00
+Kill Zone 2,11998,0,0,Action / Adventure,2016-05-13 00:00:00
+River of Grass,2942,0,0,Drama,2016-03-11 00:00:00
+Jeruzalem,11287,0,0,Horror,2016-01-22 00:00:00
+Serial Killer 1,0,0,0,Crime Drama,2016-05-13 00:00:00
+Approaching the Unknown,6476,0,0,Sci-Fi Thriller,2016-06-03 00:00:00
+The Last King,4599,0,0,Action / Adventure,2016-06-17 00:00:00
+Providence,6193,0,0,Romance,2016-02-12 00:00:00
+We Are Twisted F***ing Sister!,5804,0,0,Documentary,2016-02-19 00:00:00
+Mojave,3303,0,0,Thriller,2016-01-22 00:00:00
+Golden Kingdom,554,0,0,Drama,2016-06-17 00:00:00
+I Don't Belong Anywhere:The Cinema of Chantal Akerman,389,0,0,Documentary,2016-03-28 00:00:00
+The President,0,0,0,Drama,2016-06-03 00:00:00
+They Will Have to Kill Us First,4106,0,0,Documentary,2016-03-04 00:00:00
+Viktoria,2468,0,0,Drama,2016-04-29 00:00:00
+The Preppie Connection,5576,0,0,Crime Drama,2016-03-18 00:00:00
+The Brainwashing of My Dad,0,0,0,Documentary,2016-03-18 00:00:00
+Boom Bust Boom,0,0,0,Documentary,2016-03-11 00:00:00
+Mad Tiger,1119,0,0,Documentary,2016-03-20 00:00:00
+The Romans,3256,0,0,Drama,2016-05-27 00:00:00
+Talent Has Hunger,3709,0,0,Documentary,2016-03-11 00:00:00
+Fritz Lang's Destiny (2016 re-release),2334,0,0,Fantasy,2016-05-20 00:00:00
+Bourek,2692,0,0,Comedy,2016-04-29 00:00:00
+The Other Side,1246,0,0,Documentary,2016-05-20 00:00:00
+The Dying of the Light,996,0,0,Documentary,2016-04-07 00:00:00
+The Channel,4214,0,0,Horror Thriller,2016-04-08 00:00:00
+Welcome to Happiness,0,0,0,Fantasy Comedy,2016-05-19 00:00:00
+Star Crossed,2826,0,0,Drama,2016-05-13 00:00:00
+A Perfect Day,0,1697431,0,Drama,2016-01-15 00:00:00
+Call Her Applebroog,2559,0,0,Documentary,2016-06-10 00:00:00
+Roseanne for President!,3340,0,0,Documentary,2016-07-01 00:00:00
+Marinoni:The Fire in the Frame,488,0,0,Documentary,2016-04-01 00:00:00
+Sworn Virgin,830,0,0,Foreign,2016-04-22 00:00:00
+A Bit of Bad Luck,2480,0,0,Comedy / Drama,2016-05-13 00:00:00
+Automatic Hate,2346,0,0,Comedy / Drama,2016-03-11 00:00:00
+Search Party,3073,0,0,Comedy,2016-05-13 00:00:00
+Synchronicity,2859,0,0,Sci-Fi Thriller,2016-01-22 00:00:00
+Indian Point,3186,0,0,Documentary,2016-07-08 00:00:00
+Hot Water,1512,0,0,Documentary,2016-03-11 00:00:00
+Burning Bodhi,1474,0,0,Drama,2016-03-18 00:00:00
+In Harmony,809,0,0,Drama,2016-04-15 00:00:00
+The Professor:Tai Chi's Journey West,1744,0,0,Documentary,2016-05-06 00:00:00
+White Lies,1740,0,0,Drama,2016-03-04 00:00:00
+Mekong Hotel,999,0,0,Foreign,2016-03-04 00:00:00
+From the East,564,0,0,Documentary,2016-04-17 00:00:00
+Memoria,47,0,0,Drama,2016-04-08 00:00:00
+Men Go To Battle,2087,0,0,Drama,2016-07-08 00:00:00
+The Vigilante Diaries,1650,0,0,Action,2016-06-24 00:00:00
+,0,0,0,NONE,
+Miss India America,687,0,0,Comedy / Drama,2016-03-24 00:00:00
+Hyena Road,1430,0,0,War Drama,2016-03-11 00:00:00
+The Silence of Mark Rothko,268,0,0,Documentary,2016-04-21 00:00:00
+Breaking a Monster,1302,0,0,Documentary,2016-06-24 00:00:00
+Yalom's Cure,684,0,0,Documentary,2016-03-11 00:00:00
+Next Time I'll Aim for the Heart,310,0,0,Crime Drama,2016-04-01 00:00:00
+Satanic,205,0,0,Horror,2016-07-01 00:00:00
+Star Wars:The Force Awakens,247966675,1131516000,245000000,Sci-Fi Fantasy,2015-12-18 00:00:00
+Jurassic World,208806270,1018130012,150000000,Sci-Fi Horror,2015-06-12 00:00:00
+Avengers:Age of Ultron,191271109,946408000,250000000,Action / Adventure,2015-05-01 00:00:00
+Inside Out,90440272,500966000,175000000,Animation,2015-06-19 00:00:00
+Furious 7,147187040,1163038891,190000000,Action,2015-04-03 00:00:00
+Minions,115718405,823352627,74000000,Animation,2015-07-10 00:00:00
+The Hunger Games:Mockingjay - Part 2,102665981,371704359,160000000,Action / Adventure,2015-11-20 00:00:00
+The Martian,54308575,401728227,108000000,Sci-Fi,2015-10-02 00:00:00
+Cinderella (2015),67877361,342363000,95000000,Fantasy,2015-03-13 00:00:00
+Spectre,70403148,680600000,245000000,Action,2015-11-06 00:00:00
+Mission:Impossible - Rogue Nation,55520089,487287762,150000000,Action,2015-07-31 00:00:00
+Pitch Perfect 2,69216890,103209964,29000000,Comedy,2015-05-15 00:00:00
+The Revenant,40301400,349312609,135000000,Action / Adventure,2015-12-25 00:00:00
+Ant-Man,57225526,339243000,130000000,Action / Adventure,2015-07-17 00:00:00
+Home (2015),52107731,208644097,135000000,Animation,2015-03-27 00:00:00
+Hotel Transylvania 2,48464322,303526848,80000000,Animation,2015-09-25 00:00:00
+Fifty Shades of Grey,85171450,404838898,40000000,Romance,2015-02-13 00:00:00
+The SpongeBob Movie:Sponge Out of Water,55365012,160442506,74000000,Animation,2015-02-06 00:00:00
+Straight Outta Compton,60200180,40437206,28000000,Drama,2015-08-14 00:00:00
+San Andreas,54588173,318800000,110000000,Action,2015-05-29 00:00:00
+Mad Max:Fury Road,45428128,224800000,150000000,Sci-Fi Action,2015-05-15 00:00:00
+Daddy's Home,38740203,90003255,0,Comedy,2015-12-25 00:00:00
+The Divergent Series:Insurgent,52263680,167097257,110000000,Action / Adventure,2015-03-20 00:00:00
+The Peanuts Movie,44213073,116054702,99000000,Animation,2015-11-06 00:00:00
+Kingsman:The Secret Service,36206331,286089822,81000000,Action / Adventure,2015-02-13 00:00:00
+The Good Dinosaur,39155217,208839027,0,Animation,2015-11-25 00:00:00
+Spy,29085719,124840507,65000000,Comedy,2015-06-05 00:00:00
+Trainwreck,30097040,30583093,35000000,Comedy,2015-07-17 00:00:00
+Creed,29632823,63800000,35000000,Drama,2015-11-25 00:00:00
+Tomorrowland,33028165,115718000,190000000,Sci-Fi,2015-05-22 00:00:00
+Get Hard,33803253,21400000,40000000,Comedy,2015-03-27 00:00:00
+Terminator:Genisys,27018486,350842581,155000000,Action,2015-07-01 00:00:00
+Taken 3,39201657,237222717,48000000,Action,2015-01-09 00:00:00
+Sisters,13922855,17966408,30000000,Comedy,2015-12-18 00:00:00
+Alvin and the Chipmunks:The Road Chip,14287159,148911649,0,Family Comedy,2015-12-18 00:00:00
+Maze Runner:The Scorch Trials,30316510,230627911,61000000,Action / Adventure,2015-09-18 00:00:00
+Ted 2,33507870,135215348,68000000,Comedy,2015-06-26 00:00:00
+Goosebumps,23618556,70090436,58000000,Horror Comedy,2015-10-16 00:00:00
+Pixels,24011616,166127224,88000000,Action Comedy,2015-07-24 00:00:00
+Paddington,18966676,183317852,55000000,Family,2015-01-16 00:00:00
+The Intern,17728313,118800000,35000000,Comedy,2015-09-25 00:00:00
+Bridge of Spies,15371203,93164594,40000000,Thriller,2015-10-16 00:00:00
+Paul Blart:Mall Cop 2,23762435,36550035,30000000,Comedy,2015-04-17 00:00:00
+The Big Short,11236553,63086636,28000000,Drama,2015-12-11 00:00:00
+War Room,11351389,0,3000000,Drama,2015-08-28 00:00:00
+Magic Mike XXL,12857184,56500000,0,Comedy / Drama,2015-07-01 00:00:00
+The Visit,25427560,33243957,5000000,Horror,2015-09-11 00:00:00
+The Wedding Ringer,20649306,15339669,23000000,Comedy,2015-01-16 00:00:00
+Black Mass,22635037,37200000,53000000,Crime Drama,2015-09-18 00:00:00
+Vacation,14681108,46000000,31000000,Comedy,2015-07-29 00:00:00
+The Perfect Guy,25888154,3245738,12000000,Thriller,2015-09-11 00:00:00
+Joy,17015168,44682827,60000000,Comedy / Drama,2015-12-25 00:00:00
+Fantastic Four,25685737,111860048,120000000,Action / Adventure,2015-08-07 00:00:00
+The Hateful Eight,20317321,101642701,44000000,Western,2015-12-25 00:00:00
+Focus (2015),18685137,105200000,0,Comedy,2015-02-27 00:00:00
+Southpaw,16701294,39548874,30000000,Drama,2015-07-24 00:00:00
+Insidious Chapter 3,22692741,60765331,10000000,Horror,2015-06-05 00:00:00
+Poltergeist (2015),22620386,48012869,35000000,Horror,2015-05-22 00:00:00
+Jupiter Ascending,18372372,136600000,176000000,Sci-Fi,2015-02-06 00:00:00
+Sicario,12549329,37973463,30000000,Action Drama,2015-09-18 00:00:00
+The Man From U.N.C.L.E.,13421036,64400000,75000000,Action,2015-08-14 00:00:00
+Spotlight,4703261,43290697,0,Drama,2015-11-06 00:00:00
+"McFarland, USA",11020798,1227649,0,Sports Drama,2015-02-20 00:00:00
+The Gift (2015),11854273,15191388,5000000,Thriller,2015-08-07 00:00:00
+Everest (2015),20464930,159945314,55000000,Thriller,2015-09-18 00:00:00
+The Night Before,9880536,9348624,25000000,Comedy,2015-11-20 00:00:00
+Krampus,16293325,18823232,15000000,Horror Comedy,2015-12-04 00:00:00
+Max (2015),12155254,1311000,20000000,Family,2015-06-26 00:00:00
+The Age of Adaline,13203458,23033500,0,Drama,2015-04-24 00:00:00
+Brooklyn,4133948,23753398,0,Drama,2015-11-04 00:00:00
+The Longest Ride,13019686,25498698,34000000,Romance,2015-04-10 00:00:00
+The Boy Next Door,14910105,17002475,4000000,Thriller,2015-01-23 00:00:00
+Pan,15315435,93300000,150000000,Fantasy,2015-10-09 00:00:00
+Hot Pursuit,13942258,17100000,35000000,Comedy,2015-05-08 00:00:00
+Concussion (2015),10513749,14081098,35000000,Drama,2015-12-25 00:00:00
+The DUFF,10809149,9498291,0,Comedy,2015-02-20 00:00:00
+Woman in Gold,7574676,28311980,11000000,Drama,2015-04-01 00:00:00
+The Second Best Exotic Marigold Hotel,8540370,52900000,10000000,Comedy / Drama,2015-03-06 00:00:00
+Unfriended,15845115,31574553,0,Horror,2015-04-17 00:00:00
+Entourage,10283250,16900000,30000000,Comedy,2015-06-03 00:00:00
+Paper Towns,12650140,53511996,12000000,Drama,2015-07-24 00:00:00
+Chappie,13346782,70500000,49000000,Sci-Fi Action,2015-03-06 00:00:00
+Crimson Peak,13143310,43589502,55000000,Horror,2015-10-16 00:00:00
+A Walk in the Woods,8246267,6486806,0,Comedy,2015-09-02 00:00:00
+Point Break (2015),9800252,104936230,105000000,Action,2015-12-25 00:00:00
+Sinister 2,10542116,25141063,10000000,Horror,2015-08-21 00:00:00
+The Last Witch Hunter,10812861,113028990,90000000,Action Fantasy,2015-10-23 00:00:00
+No Escape,8111264,27130000,0,Action,2015-08-26 00:00:00
+Ricki and the Flash,6610961,14503184,18000000,Comedy / Drama,2015-08-07 00:00:00
+The Woman in Black 2:Angel of Death,15027415,22352982,0,Horror,2015-01-02 00:00:00
+Run All Night,11012305,45200000,50000000,Action,2015-03-13 00:00:00
+Love the Coopers,8317545,16124181,17000000,Comedy,2015-11-13 00:00:00
+The Lazarus Effect,10203437,12550307,0,Horror,2015-02-27 00:00:00
+Ex Machina,5586764,11426456,15000000,Sci-Fi Thriller,2015-04-10 00:00:00
+In the Heart of the Sea,11053366,68900000,100000000,Drama,2015-12-11 00:00:00
+The Gallows,9808463,20200000,0,Horror,2015-07-10 00:00:00
+Hitman:Agent 47,8326530,59880206,35000000,Action / Adventure,2015-08-21 00:00:00
+Project Almanac,8310252,10865000,12000000,Sci-Fi,2015-01-30 00:00:00
+Black or White,6213362,0,9000000,Drama,2015-01-30 00:00:00
+Aloha,9670235,5182904,37000000,Comedy / Drama,2015-05-29 00:00:00
+The Secret in their Eyes (2015),6652996,12009572,0,Thriller,2015-11-20 00:00:00
+Shaun the Sheep Movie,4038962,86655302,0,Animation,2015-08-05 00:00:00
+Still Alice,2363000,25130281,5000000,Drama,2015-01-16 00:00:00
+Paranormal Activity:The Ghost Dimension,8070493,59799429,10000000,Horror,2015-10-23 00:00:00
+Steve Jobs,7627257,16675215,30000000,Drama,2015-10-09 00:00:00
+Mr. Holmes,5187040,11617557,0,Crime Drama,2015-07-17 00:00:00
+Dope,6100010,480311,7000000,Comedy / Drama,2015-06-19 00:00:00
+Seventh Son,7217640,96955348,95000000,Fantasy,2015-02-06 00:00:00
+Monkey Kingdom,4577861,711000,0,Documentary,2015-04-17 00:00:00
+The Transporter Refueled,7355622,56600000,0,Action,2015-09-04 00:00:00
+Room,1453861,20724104,0,Drama,2015-10-16 00:00:00
+It Follows,3971141,0,0,Horror,2015-03-13 00:00:00
+American Ultra,5454284,12698539,28000000,Action Comedy,2015-08-21 00:00:00
+Woodlawn,4002226,0,0,Drama,2015-10-16 00:00:00
+Burnt,5002521,22954797,20000000,Comedy,2015-10-30 00:00:00
+Do You Believe?,3591282,0,0,Drama,2015-03-20 00:00:00
+Carol,1711559,27560644,0,Drama,2015-11-20 00:00:00
+Love & Mercy,3874594,16090745,0,Music Drama,2015-06-05 00:00:00
+Strange Magic,5504441,1173870,0,Animation,2015-01-23 00:00:00
+Hot Tub Time Machine 2,5963324,767000,14000000,Comedy,2015-02-20 00:00:00
+Self/Less,5403460,18243535,26000000,Sci-Fi Thriller,2015-07-10 00:00:00
+Far from the Madding Crowd,2452219,17993477,0,Drama,2015-05-01 00:00:00
+The 33,5787266,12675001,0,Drama,2015-11-13 00:00:00
+The Danish Girl,713692,53077505,0,Drama,2015-11-27 00:00:00
+The Gunman,5028702,13512388,40000000,Thriller,2015-03-20 00:00:00
+Unfinished Business,4772613,4211752,35000000,Comedy,2015-03-06 00:00:00
+The Walk,5279476,51044440,35000000,Adventure,2015-09-30 00:00:00
+The Lady in the Van,0,31366512,0,Drama,2015-12-04 00:00:00
+Un Gallo con Muchos Huevos,5448836,0,0,Animation,2015-09-04 00:00:00
+Amy,222500,0,0,Documentary,2015-07-03 00:00:00
+Bajrangi Bhaijaan,2621282,0,0,Drama,2015-07-17 00:00:00
+Dragon Ball Z:Resurrection 'F',1817937,53759827,0,Animation,2015-08-04 00:00:00
+Blackhat,3901815,11646077,70000000,Thriller,2015-01-16 00:00:00
+Trumbo (2015),1687574,377920,0,Drama,2015-11-06 00:00:00
+Mortdecai,4200586,39579561,60000000,Action Comedy,2015-01-23 00:00:00
+While We're Young,1666072,9699824,0,Comedy / Drama,2015-03-27 00:00:00
+I'll See You In My Dreams,52091,0,0,Comedy / Drama,2015-05-15 00:00:00
+The Green Inferno,3520626,0,5000000,Horror,2015-09-25 00:00:00
+Our Brand Is Crisis (2015),3238433,0,28000000,Comedy / Drama,2015-10-30 00:00:00
+Grandma (2015),1616641,106928,0,Comedy,2015-08-21 00:00:00
+Me and Earl and the Dying Girl,1443299,2316333,8000000,Drama,2015-06-12 00:00:00
+Baahubali:The Beginning,3575000,0,0,Action / Adventure,2015-07-09 00:00:00
+Bajirao Mastani,1744975,0,0,Drama,2015-12-18 00:00:00
+Little Boy,2750356,0,0,Drama,2015-04-24 00:00:00
+The Loft,2747342,4074106,0,Thriller,2015-01-30 00:00:00
+Victor Frankenstein,2469341,28452222,0,Drama,2015-11-25 00:00:00
+Danny Collins,1551617,0,10000000,Comedy / Drama,2015-03-20 00:00:00
+Dilwale,1920402,0,0,Action Comedy,2015-12-17 00:00:00
+90 Minutes in Heaven,2035273,0,5000000,Drama,2015-09-11 00:00:00
+True Story,1950214,0,0,Drama,2015-04-17 00:00:00
+Suffragette,76244,11300000,0,Drama,2015-10-23 00:00:00
+Prem Ratan Dhan Payo,2425585,48192185,0,Musical,2015-11-12 00:00:00
+45 Years,65775,0,0,Drama,2015-12-23 00:00:00
+The Water Diviner,1220335,11340000,0,War Drama,2015-04-24 00:00:00
+Irrational Man,1011346,23360724,0,Comedy,2015-07-17 00:00:00
+Anomalisa,135222,0,8000000,Animation,2015-12-30 00:00:00
+Scouts Guide to the Zombie Apocalypse,1841007,11157720,15000000,Horror Comedy,2015-10-30 00:00:00
+A La Mala,1402118,0,0,Foreign,2015-02-27 00:00:00
+Spare Parts,1335768,0,0,Family,2015-01-16 00:00:00
+We Are Your Friends,1767308,7530673,0,Drama,2015-08-28 00:00:00
+What We Do in the Shadows,88940,2794000,0,Comedy,2015-02-13 00:00:00
+Learning to Drive,66015,0,0,Comedy,2015-08-21 00:00:00
+Phoenix (2015),30296,0,0,Foreign,2015-07-24 00:00:00
+Wild Tales,85100,23900000,0,Foreign,2015-02-20 00:00:00
+Dil Dhadakne Do,1326267,0,0,Drama,2015-06-05 00:00:00
+Ladrones,1411031,0,0,Comedy,2015-10-09 00:00:00
+Tanu Weds Manu Returns,1006476,0,0,Romantic Comedy,2015-05-22 00:00:00
+Rock The Kasbah,1470592,0,0,Comedy / Drama,2015-10-23 00:00:00
+The End of the Tour,123238,0,0,Drama,2015-07-31 00:00:00
+Youth,78085,0,0,Drama,2015-12-04 00:00:00
+He Named Me Malala,61808,97068,0,Documentary,2015-10-02 00:00:00
+Chi-Raq,1198453,0,0,Comedy / Drama,2015-12-04 00:00:00
+Captive (2015),1393243,218207,0,Thriller,2015-09-18 00:00:00
+Truth,942167,0,0,Drama,2015-10-16 00:00:00
+Mistress America,93206,0,0,Comedy,2015-08-14 00:00:00
+Pawn Sacrifice,1207124,2908516,0,Drama,2015-09-16 00:00:00
+2015 Oscar Nominated Short Films,416850,0,0,Unknown,2015-01-30 00:00:00
+Meru,91279,0,0,Documentary,2015-08-14 00:00:00
+WARx2,30931,0,0,Documentary,2015-09-18 00:00:00
+My All American,1365000,0,0,Drama,2015-11-13 00:00:00
+Jem and the Holograms,1375320,149044,5000000,Musical,2015-10-23 00:00:00
+Tamasha,1006059,0,0,Comedy / Drama,2015-11-25 00:00:00
+Cake,916179,0,0,Drama,2015-01-23 00:00:00
+Old Fashioned,38965,0,0,Romance,2015-02-06 00:00:00
+Assassination (2015),287700,0,0,Drama / Thriller,2015-08-07 00:00:00
+Game of Thrones (IMAX),1464932,0,0,Fantasy,2015-01-30 00:00:00
+Legend,86836,41100000,0,Crime Drama,2015-11-20 00:00:00
+Clouds of Sils Maria,61810,0,0,Drama,2015-04-10 00:00:00
+Testament of Youth,53000,0,0,Drama,2015-06-05 00:00:00
+Piku,941490,0,0,Comedy,2015-05-08 00:00:00
+The Vatican Tapes,832271,0,0,Horror,2015-07-24 00:00:00
+Son of Saul,37930,0,0,Drama,2015-12-18 00:00:00
+Meet the Patels,72180,0,0,Comedy,2015-09-11 00:00:00
+Back to the Future Day,0,3200000,0,Action Comedy,2015-10-21 00:00:00
+The Letters,700683,0,0,Drama,2015-12-04 00:00:00
+The Diary of a Teenage Girl,445487,0,0,Drama,2015-08-07 00:00:00
+I (2015),771312,0,0,Foreign,2015-01-13 00:00:00
+Infinitely Polar Bear,47000,0,0,Comedy / Drama,2015-06-19 00:00:00
+Mr. Six,332117,137775895,0,Action,2015-12-24 00:00:00
+99 Homes,680078,0,8000000,Thriller,2015-09-25 00:00:00
+Welcome Back,714235,0,0,Action Thriller,2015-09-04 00:00:00
+The Cokeville Miracle,159468,0,0,Drama,2015-06-05 00:00:00
+The Salt of the Earth,44900,0,0,Documentary,2015-03-27 00:00:00
+Iris (2015),57254,0,0,Documentary,2015-04-29 00:00:00
+Lost in Hong Kong,537736,254981631,0,Comedy,2015-09-25 00:00:00
+The Wolfpack,43920,0,0,Documentary,2015-06-12 00:00:00
+Goodbye Mr. Loser,363949,226829302,0,Comedy,2015-10-09 00:00:00
+'71,55761,355000,0,War Drama,2015-02-27 00:00:00
+Mojin:The Lost Legend,279974,258124638,37000000,Action / Adventure,2015-12-18 00:00:00
+Beyond the Mask,18801,0,0,Action Drama,2015-04-06 00:00:00
+Child 44,621812,11726763,0,Drama,2015-04-17 00:00:00
+Veteran,371754,0,0,Action Comedy,2015-09-18 00:00:00
+Goodnight Mommy,63641,0,0,Horror Thriller,2015-09-11 00:00:00
+Black Sea,37675,0,0,Thriller,2015-01-23 00:00:00
+Miss You Already,552506,0,0,Drama,2015-11-06 00:00:00
+Where Hope Grows,457287,0,0,Drama,2015-05-15 00:00:00
+Macbeth (2015),69833,15211360,0,Drama,2015-12-04 00:00:00
+The Overnight,53022,0,0,Comedy,2015-06-19 00:00:00
+Timbuktu,45110,0,0,Foreign,2015-01-28 00:00:00
+Dior and I,45772,0,0,Documentary,2015-04-10 00:00:00
+5 Flights Up,238491,0,0,Drama,2015-05-08 00:00:00
+Big Stone Gap,362422,0,0,Romantic Comedy,2015-10-09 00:00:00
+Faith of Our Fathers,438000,0,0,Drama,2015-07-01 00:00:00
+Gett:The Trial of Viviane Amsalem,24210,0,0,Foreign,2015-02-13 00:00:00
+The 100-Year Old Man Who Climbed Out the Window and Disappeared,0,50186000,0,Foreign,2015-05-01 00:00:00
+Patterns of Evidence:The Exodus,0,0,0,Documentary,2015-01-19 00:00:00
+Boruto:Naruto the Movie,380419,0,0,Animation,2015-10-10 00:00:00
+Singh is Bling,487040,0,0,Action Comedy,2015-10-02 00:00:00
+Best of Enemies,50378,0,0,Documentary,2015-07-31 00:00:00
+ABCD (Any Body Can Dance) 2,444195,0,0,Musical,2015-06-19 00:00:00
+Mustang,20321,0,0,Drama,2015-11-20 00:00:00
+Sleeping with Other People,89102,2394685,0,Comedy,2015-09-11 00:00:00
+The Wrecking Crew,56858,0,0,Drama,2015-03-13 00:00:00
+Labyrinth of Lies,22101,0,0,Foreign,2015-09-30 00:00:00
+Seymour:An Introduction,26587,0,0,Documentary,2015-03-13 00:00:00
+Once I Was a Beehive,48409,0,0,Comedy / Drama,2015-08-14 00:00:00
+Cartel Land,15581,421721,0,Documentary,2015-07-03 00:00:00
+Tangerine,60683,0,0,Comedy / Drama,2015-07-10 00:00:00
+The Himalayas,13387,49843280,0,Drama,2015-12-18 00:00:00
+Red Army,20100,0,0,Documentary,2015-01-23 00:00:00
+The D Train,447661,101629,0,Comedy,2015-05-08 00:00:00
+The Stanford Prison Experiment,37514,0,0,Thriller,2015-07-17 00:00:00
+The Assassin,47892,0,0,Action Drama,2015-10-16 00:00:00
+"Kumiko, The Treasure Hunter",34114,0,0,Adventure Comedy,2015-03-18 00:00:00
+Brothers:Blood Against Blood,357404,17244164,0,Action Drama,2015-08-14 00:00:00
+Welcome to Me,34920,0,0,Comedy / Drama,2015-05-01 00:00:00
+Detective Byomkesh Bakshy,338637,0,0,Thriller,2015-04-03 00:00:00
+Freeheld,37983,0,0,Drama,2015-10-02 00:00:00
+When Marnie Was There,27388,0,0,Animation,2015-05-22 00:00:00
+Jimmy's Hall,19881,2606000,0,Historical Drama,2015-07-03 00:00:00
+A Little Chaos,181791,9526450,0,Drama,2015-06-26 00:00:00
+Remember,27006,802051,0,Drama / Thriller,2015-10-16 00:00:00
+By the Sea,96250,2796467,10000000,Drama,2015-11-13 00:00:00
+Gabbar is Back,279429,0,0,Foreign,2015-05-01 00:00:00
+The Last - Naruto the Movie,179370,0,0,Animation,2015-02-20 00:00:00
+Shaandaar,384685,7762198,0,Romantic Comedy,2015-10-22 00:00:00
+Black Panthers:Vanguard of the Revolution,20215,67216,0,Documentary,2015-09-02 00:00:00
+Deli Man,37321,0,0,Documentary,2015-02-27 00:00:00
+Peggy Guggenheim Art Addict,22258,0,0,Documentary,2015-11-06 00:00:00
+Steve Jobs:The Man in the Machine,140064,0,0,Documentary,2015-09-04 00:00:00
+Phantom (2015),266756,0,0,Action Drama,2015-08-28 00:00:00
+Somewhere Only We Know,304934,0,0,Foreign,2015-02-13 00:00:00
+Brotherly Love,246902,0,0,Drama,2015-04-24 00:00:00
+About Elly,13180,0,0,Drama,2015-04-08 00:00:00
+Let's Get Married,180929,0,0,Foreign,2015-04-03 00:00:00
+Bombay Velvet,390774,0,0,Drama,2015-05-15 00:00:00
+Attack on Titan:Part 1,0,0,0,Animation,2015-09-30 00:00:00
+The Third Man (2015 re-release),24832,0,0,Drama / Thriller,2015-06-26 00:00:00
+Felix and Meira,15000,0,0,Foreign,2015-04-17 00:00:00
+Rosenwald,7902,0,0,Documentary,2015-08-14 00:00:00
+Saint Laurent,36000,0,0,Foreign,2015-05-08 00:00:00
+Listen to Me Marlon,30068,0,0,Documentary,2015-07-29 00:00:00
+Heart of a Dog,13893,0,0,Documentary,2015-10-21 00:00:00
+The Witness (Wo shi zheng ren),194736,0,0,Drama,2015-10-30 00:00:00
+Janis:Little Girl Blue,21861,1220224,0,Documentary,2015-11-27 00:00:00
+Unbranded,141416,0,0,Documentary,2015-09-25 00:00:00
+Badlapur,227759,0,0,Foreign,2015-02-20 00:00:00
+The Hunting Ground,22464,0,0,Documentary,2015-02-27 00:00:00
+The Apu Trilogy,16064,0,0,Drama,2015-05-08 00:00:00
+Freetown,118553,0,0,Action,2015-04-08 00:00:00
+Coming Home (2015),26361,46400000,0,Foreign,2015-09-09 00:00:00
+The Second Mother,24086,0,0,Foreign,2015-08-28 00:00:00
+Kahlil Gibran's The Prophet (Gathr),0,0,0,Animation,2015-10-01 00:00:00
+Katti Batti,239816,0,0,Romantic Comedy,2015-09-18 00:00:00
+Kahlil Gibran's The Prophet,27435,0,0,Animation,2015-08-07 00:00:00
+Effie Gray,161728,0,0,Drama,2015-04-03 00:00:00
+Maps to the Stars,143422,987624,0,Drama,2015-02-27 00:00:00
+Noble,231319,0,0,Drama,2015-05-08 00:00:00
+Talvar,144713,0,0,Crime Thriller,2015-10-02 00:00:00
+Northern Limit Line,108255,0,0,War Drama,2015-07-17 00:00:00
+Ballet 422,27653,0,0,Documentary,2015-02-06 00:00:00
+Shamitabh,241720,0,0,Foreign,2015-02-06 00:00:00
+Jafar Panahi's Taxi,22531,0,0,Drama,2015-10-02 00:00:00
+Good Kill,17750,0,0,Drama,2015-05-15 00:00:00
+David and Goliath,154901,0,0,Thriller,2015-04-03 00:00:00
+Running Man (2015),186926,0,0,Foreign,2015-01-30 00:00:00
+Merchants of Doubt,20300,0,0,Documentary,2015-03-06 00:00:00
+Attack on Titan:Part 2,12861,0,0,Action Fantasy,2015-10-20 00:00:00
+NH10,149546,0,0,Foreign,2015-03-13 00:00:00
+The Man in 3B,109043,0,0,Drama,2015-11-06 00:00:00
+Above and Beyond,6448,0,0,Documentary,2015-01-30 00:00:00
+Go Away Mr. Tumor,50036,21500000,0,Comedy,2015-08-14 00:00:00
+Theeb,9181,0,0,Adventure,2015-11-06 00:00:00
+White God,16139,0,0,Foreign,2015-03-27 00:00:00
+A Borrowed Identity,10308,0,0,Drama,2015-06-26 00:00:00
+In the Name of my Daughter,14294,0,0,Foreign,2015-05-15 00:00:00
+Hitchcock/Truffaut,28178,0,0,Documentary,2015-12-02 00:00:00
+Love (2015),29301,0,3000000,Drama,2015-10-30 00:00:00
+Carter High,87274,0,0,Drama,2015-10-30 00:00:00
+Tevar,171026,0,0,Foreign,2015-01-09 00:00:00
+Hamari Adhuri Kahani,131263,4190000,0,Drama,2015-06-12 00:00:00
+20 Once Again,92827,0,0,Foreign,2015-01-16 00:00:00
+Slow West,67003,0,0,Action Thriller,2015-05-20 00:00:00
+The Taking of Tiger Mountain,50621,0,0,Foreign / Action,2015-01-02 00:00:00
+A Royal Night Out,100847,0,0,Drama,2015-12-04 00:00:00
+A Pigeon Sat on a Branch Reflecting on Existence,25313,0,0,Comedy / Drama,2015-06-03 00:00:00
+Pyaar Ka Punchnama 2,107536,0,0,Comedy,2015-10-16 00:00:00
+Chocolate City,98829,0,0,Drama,2015-05-22 00:00:00
+Fall in Love Like a Star,120074,0,0,Romance,2015-12-04 00:00:00
+Wolf Totem,0,125588448,0,Adventure,2015-09-11 00:00:00
+Dark Places,0,0,0,Drama / Thriller,2015-08-07 00:00:00
+Heneral Luna,15485,0,0,Action,2015-10-30 00:00:00
+Escobar:Paradise Lost,106869,3562536,0,Romantic Thriller,2015-06-26 00:00:00
+Gemma Bovery,19095,0,0,Comedy,2015-05-29 00:00:00
+The Connection,10335,0,0,Foreign,2015-05-15 00:00:00
+Love and Lost (Shi Gu),86048,0,0,Foreign,2015-03-20 00:00:00
+Stonewall (2015),112834,0,0,Drama,2015-09-25 00:00:00
+Maggie,131175,0,0,Drama / Thriller,2015-05-08 00:00:00
+Detective K:Secret of the Lost Island,57663,0,0,Foreign,2015-03-06 00:00:00
+The Priests,0,0,0,Crime,2015-11-26 00:00:00
+Lambert & Stamp,13500,0,0,Documentary,2015-04-03 00:00:00
+An Honest Liar,13821,0,0,Documentary,2015-03-06 00:00:00
+Serena,100090,4899231,0,Drama,2015-03-27 00:00:00
+The Young & Prodigious T.S. Spivet,33658,9321225,0,Adventure,2015-07-31 00:00:00
+The Farewell Party,7616,0,0,Foreign,2015-05-22 00:00:00
+All Things Must Pass,19001,0,0,Documentary,2015-10-16 00:00:00
+A Brilliant Young Mind,31408,0,0,Comedy / Drama,2015-09-11 00:00:00
+Time Out of Mind,18934,0,0,Drama,2015-09-09 00:00:00
+Snow Girl and the Dark Crystal,73817,0,0,Foreign,2015-02-27 00:00:00
+3 Hearts,11794,0,0,Foreign,2015-03-13 00:00:00
+C'Est Si Bon,0,0,0,Foreign,2015-02-13 00:00:00
+The Last Women Standing,73344,0,0,Romantic Comedy,2015-11-11 00:00:00
+5 to 7,18006,0,0,Romance,2015-04-03 00:00:00
+After The Ball,31718,0,0,Romantic Comedy,2015-02-27 00:00:00
+Human Capital,0,0,0,Foreign,2015-01-09 00:00:00
+Hell and Back,104374,0,0,Animation,2015-10-02 00:00:00
+Experimenter,8682,0,0,Drama,2015-10-16 00:00:00
+Desert Dancer,40763,0,0,Drama,2015-04-10 00:00:00
+"Buen Dia, Ramon",51105,4469655,0,Foreign,2015-01-30 00:00:00
+Backstreet Boys:Show 'Em What You're Made Of,153068,0,0,Documentary,2015-01-30 00:00:00
+Samba,24588,0,0,Foreign,2015-07-24 00:00:00
+The Tribe,11094,0,0,Foreign,2015-06-17 00:00:00
+Forever Young (2015),70047,0,0,Romance,2015-07-10 00:00:00
+The New Girlfriend,39035,0,0,Drama,2015-09-18 00:00:00
+The Last 5 Years,42042,0,0,Musical,2015-02-13 00:00:00
+Tangerines,5180,0,0,Foreign,2015-04-17 00:00:00
+Yellow Day (2015),26260,0,0,Family,2015-12-11 00:00:00
+Manglehorn,11227,0,0,Drama,2015-06-19 00:00:00
+Ingrid Bergman:In Her Own Words,8355,0,0,Documentary,2015-11-13 00:00:00
+Twenty (2015),0,0,0,Foreign,2015-04-17 00:00:00
+La Sapienza,0,0,0,Drama,2015-03-20 00:00:00
+Cop Car,26146,0,0,Thriller,2015-08-07 00:00:00
+Don't Think I've Forgotten:Cambodia's Lost Rock and Roll,19206,0,0,Documentary,2015-04-22 00:00:00
+Devil and Angel (E Gun Tian Shi),44855,98468884,0,Comedy,2015-12-31 00:00:00
+Mississippi Grind,12434,0,0,Drama,2015-09-25 00:00:00
+Kung Fu Killer,58664,10002000,0,Foreign / Action,2015-04-24 00:00:00
+Boy and the World,10077,0,0,Animation,2015-12-11 00:00:00
+A Journey Through Time with Anthony,55292,0,0,Drama,2015-11-18 00:00:00
+Boulevard,7000,0,0,Drama,2015-07-10 00:00:00
+A Ballerina's Tale,9388,0,0,Documentary,2015-10-14 00:00:00
+Z for Zachariah,56902,0,0,Drama,2015-08-28 00:00:00
+In Jackson Heights,15150,0,0,Documentary,2015-11-04 00:00:00
+Do I Sound Gay?,10461,0,0,Documentary,2015-07-10 00:00:00
+Digging for Fire,25000,0,0,Drama,2015-08-21 00:00:00
+Love Live! The School Idol Movie,115840,0,0,Animation,2015-09-11 00:00:00
+Road Hard,105943,0,0,Comedy,2015-03-06 00:00:00
+She's Funny That Way,0,0,0,Comedy,2015-08-21 00:00:00
+1915,30448,0,0,Drama,2015-04-17 00:00:00
+Memories of the Sword,50240,0,0,Action,2015-08-28 00:00:00
+Roar!,15064,0,0,Drama,2015-04-15 00:00:00
+The Look of Silence,6616,0,0,Documentary,2015-07-17 00:00:00
+Adult Beginners,36657,0,0,Comedy / Drama,2015-04-24 00:00:00
+The Beauty Inside,50536,0,0,Drama,2015-09-11 00:00:00
+The Chronicles of Evil,0,0,0,Crime Thriller,2015-05-15 00:00:00
+Results,17782,0,0,Comedy,2015-05-29 00:00:00
+Every Secret Thing,97020,0,0,Drama,2015-05-15 00:00:00
+A LEGO Brickumentary,43285,0,0,Documentary,2015-07-31 00:00:00
+Man From Reno,15158,0,0,Thriller,2015-03-27 00:00:00
+James White,12007,0,0,Drama,2015-11-13 00:00:00
+Ghost in the Shell:The New Movie,0,0,0,Animation,2015-11-10 00:00:00
+Black Souls (Anime Nere),6286,0,0,Crime Drama,2015-04-10 00:00:00
+A Poem Is a Naked Person (2015 re-issue),5526,0,0,Documentary,2015-07-01 00:00:00
+Saving Mr. Wu,0,0,0,Action Thriller,2015-10-02 00:00:00
+The Tales of Hoffmann (2015 re-issue),23340,0,0,Musical,2015-03-13 00:00:00
+Christmas Eve,45260,0,0,Comedy,2015-12-04 00:00:00
+Queen of Earth,11360,0,0,Drama / Thriller,2015-08-26 00:00:00
+Legends from the Sky,18168,0,0,Sci-Fi,2015-01-30 00:00:00
+Beasts of No Nation,51003,0,0,Drama,2015-10-16 00:00:00
+Hero (2015),58445,0,0,Action Drama,2015-09-11 00:00:00
+Sunshine Superman,8991,0,0,Documentary,2015-05-22 00:00:00
+Tab Hunter Confidential,9945,0,0,Documentary,2015-10-16 00:00:00
+Trace Amounts,0,0,0,Documentary,2015-01-02 00:00:00
+Heaven Knows What,16862,0,0,Drama,2015-05-29 00:00:00
+Nasty Baby,8023,0,0,Drama,2015-10-23 00:00:00
+Blackbird,45834,0,0,Drama,2015-04-24 00:00:00
+Batkid Begins,19437,0,0,Documentary,2015-06-26 00:00:00
+Dragon Blade,30346,121471635,0,Action / Adventure,2015-09-04 00:00:00
+The Wonders,0,0,0,Drama,2015-10-30 00:00:00
+Freaks of Nature,42713,0,0,Comedy,2015-10-30 00:00:00
+Predestination,44028,0,0,Sci-Fi Action,2015-01-09 00:00:00
+I Am Big Bird,10000,0,0,Documentary,2015-05-06 00:00:00
+The Messenger (2015),0,0,0,Documentary,2015-12-04 00:00:00
+Turbo Kid,31428,0,0,Action,2015-08-28 00:00:00
+People Places Things,31262,0,0,Comedy,2015-08-14 00:00:00
+Eden,18987,0,0,Foreign,2015-06-19 00:00:00
+The Duke of Burgundy,11902,0,0,Thriller,2015-01-23 00:00:00
+The Office,34144,0,0,Musical,2015-09-18 00:00:00
+Drunk Stoned Brilliant Dead:The Story of the National Lampoon,5254,0,0,Documentary,2015-09-25 00:00:00
+Flowers,6572,0,0,Drama,2015-10-30 00:00:00
+Only You,5711738,0,0,Romantic Comedy,1994-10-07 00:00:00
+Dark Star:H.R. Giger's World,8349,0,0,Documentary,2015-05-15 00:00:00
+Girlhood (2015),7667,0,0,Foreign,2015-01-30 00:00:00
+Jauja,8314,0,0,Foreign,2015-03-20 00:00:00
+Gueros,0,0,0,Comedy,2015-05-20 00:00:00
+Cooties,33031,0,0,Action Comedy,2015-09-18 00:00:00
+I Smile Back,15758,0,0,Drama,2015-10-23 00:00:00
+Rififi (2015 re-release),17396,0,0,Crime Drama,2015-09-02 00:00:00
+Entertainment,5132,0,0,Drama,2015-11-13 00:00:00
+The Search for General Tso,9336,0,0,Documentary,2015-01-02 00:00:00
+The Ark of Mr. Chow,22583,0,0,Comedy,2015-06-19 00:00:00
+Beloved Sisters,19704,2153000,0,Foreign,2015-01-09 00:00:00
+Aloft,2116,0,0,Drama,2015-05-22 00:00:00
+The Quay Brothers in 35mm,16995,0,0,Animation,2015-08-19 00:00:00
+We Come As Friends,0,0,0,Documentary,2015-08-14 00:00:00
+The Yes Men Are Revolting,12462,0,0,Documentary,2015-06-12 00:00:00
+The Advocate:A Missing Body,19770,0,0,Crime,2015-10-23 00:00:00
+Heist (2015),28688,0,0,Action Thriller,2015-11-13 00:00:00
+Spring (2015),19675,0,0,Horror Thriller,2015-03-20 00:00:00
+Difret,6777,0,0,Drama,2015-10-23 00:00:00
+Red Herring,27804,0,0,Crime Drama,2015-10-30 00:00:00
+The Seven Five,14785,0,0,Documentary,2015-05-08 00:00:00
+BY MAJOR STUDIO,0,0,0,NONE,
+Appropriate Behavior,19114,0,0,Comedy,2015-01-16 00:00:00
+Shanghai,26604,9199466,0,Period Drama,2015-10-02 00:00:00
+Beyond the Reach,30287,0,0,Drama,2015-04-17 00:00:00
+Lost River,20828,0,0,Drama,2015-04-10 00:00:00
+Mr. X,30097,5016392,0,Foreign,2015-04-17 00:00:00
+The Salvation,4651,0,0,Western,2015-02-27 00:00:00
+River of Fundament,9938,0,0,Drama,2015-12-04 00:00:00
+Madame Bovary (1991),236113,0,0,Foreign,1991-12-27 00:00:00
+Charlie's Country,5340,0,0,Foreign,2015-06-05 00:00:00
+Breathe,5063,0,0,Drama,2015-09-11 00:00:00
+Pearl Button,0,0,0,Documentary,2015-10-23 00:00:00
+Nowitzki,20049,0,0,Documentary,2015-07-10 00:00:00
+Queen and Country,5954,0,0,Drama,2015-02-18 00:00:00
+Censored Voices,6153,0,0,Documentary,2015-11-20 00:00:00
+The New Rijksmuseum,2631,0,0,Documentary,2015-06-19 00:00:00
+The Phone,3824,0,0,Action Thriller,2015-11-06 00:00:00
+What Our Fathers Did:A Nazi Legacy,8132,0,0,Documentary,2015-11-06 00:00:00
+,0,0,0,NONE,
+Lila & Eve,21806,0,0,Drama / Thriller,2015-07-17 00:00:00
+Match,6000,0,0,Drama,2015-01-14 00:00:00
+Before We Go,18630,0,0,Comedy / Drama,2015-09-04 00:00:00
+The Mafia Only Kills in Summer,0,0,0,Foreign,2015-03-06 00:00:00
+Grey Gardens (2015 re-release),13845,0,0,Documentary,2015-03-06 00:00:00
+Knock Knock,18623,0,0,Horror Thriller,2015-10-09 00:00:00
+Kindergarten Teacher,0,0,0,Drama,2015-07-31 00:00:00
+Welcome to Leith,3707,0,0,Documentary,2015-09-09 00:00:00
+Finders Keepers (2015),5740,0,0,Documentary,2015-09-25 00:00:00
+Wild City,17181,0,0,Action / Crime,2015-07-31 00:00:00
+The Forbidden Room,0,0,0,Comedy / Drama,2015-10-07 00:00:00
+Pierrot le fou (2015 re-issue),7922,0,0,Drama,2015-12-18 00:00:00
+The Winding Stream,3660,0,0,Documentary,2015-12-16 00:00:00
+Song One,20200,0,0,Drama,2015-01-23 00:00:00
+Love Forecast,11600,0,0,Foreign,2015-01-23 00:00:00
+Amira & Sam,15535,0,0,Romantic Comedy,2015-01-30 00:00:00
+"Out 1, noli me tangere",12537,0,0,Drama,2015-11-06 00:00:00
+Don Verdean,12907,0,0,Comedy,2015-12-11 00:00:00
+"3 1/2 Minutes, 10 Bullets",2238,0,0,Documentary,2015-06-19 00:00:00
+Runoff,9515,0,0,Drama,2015-06-26 00:00:00
+Paul Taylor:Creative Domain,8150,0,0,Documentary,2015-09-11 00:00:00
+Paulette,8882,0,0,Crime Comedy,2015-08-14 00:00:00
+Rebels of the Neon God,0,0,0,Foreign,2015-04-10 00:00:00
+Americons,14404,0,0,Thriller,2015-01-23 00:00:00
+Hard to Be a God,0,0,0,Foreign,2015-01-30 00:00:00
+The Nightmare,13363,0,0,Documentary,2015-06-05 00:00:00
+"Like Sunday, Like Rain",1082,0,0,Music Drama,2015-03-06 00:00:00
+7 Chinese Brothers,0,0,0,Comedy,2015-08-28 00:00:00
+Bikes vs Cars,0,0,0,Documentary,2015-12-04 00:00:00
+The Cut,5327,0,0,Drama,2015-09-18 00:00:00
+Sembene!,0,0,0,Documentary,2015-11-13 00:00:00
+The Keeping Room,4328,0,0,Drama,2015-09-25 00:00:00
+Tap World,8714,0,0,Documentary,2015-07-10 00:00:00
+Peace Officer,0,0,0,Documentary,2015-09-16 00:00:00
+The Army of Shadows (2015 re-release),8112,0,0,Drama,2015-08-26 00:00:00
+Rediscover Sautet,0,0,0,Unknown,2015-06-12 00:00:00
+Love At First Fight,3187,0,0,Foreign,2015-05-22 00:00:00
+R100,7263,0,0,Foreign,2015-01-23 00:00:00
+Olvidados (Forgotten),2791,0,0,Drama,2015-09-18 00:00:00
+Big Game,16909,0,0,Action Thriller,2015-06-26 00:00:00
+Kill Me Three Times,15477,0,0,Action Thriller,2015-04-10 00:00:00
+Unexpected,0,0,0,Comedy / Drama,2015-07-24 00:00:00
+Can't Stand Losing You:Surviving the Police,5656,0,0,Documentary,2015-03-20 00:00:00
+"Hippocrates, Diary of a French Doctor",0,0,0,Drama,2015-06-19 00:00:00
+"Hippocrates, Diary of a French Doctor",0,0,0,Drama,2015-06-19 00:00:00
+Salut D'Amour,6514,0,0,Foreign,2015-04-10 00:00:00
+Metropolitan (2015 re-release),7554,0,0,Comedy / Drama,2015-08-07 00:00:00
+Slow Learners,948,0,0,Comedy,2015-08-19 00:00:00
+Princess Cut,0,0,0,Romance,2015-07-28 00:00:00
+Animals (2015),14471,0,0,Drama,2015-05-15 00:00:00
+Noma - My Perfect Storm,2987,0,0,Documentary,2015-12-18 00:00:00
+Consumed,0,0,0,Drama / Thriller,2015-11-10 00:00:00
+Boy Meets Girl (2015),5306,0,0,Romantic Comedy,2015-02-06 00:00:00
+"Love, Rosie",14893,4419000,0,Romantic Comedy,2015-02-06 00:00:00
+Futuro Beach,3324,0,0,Foreign,2015-02-27 00:00:00
+Friends and Romans,0,0,0,Comedy,2015-10-23 00:00:00
+Forbidden Games (1952),4316,0,0,Foreign,2015-04-24 00:00:00
+Wild Canaries,2683,0,0,Comedy,2015-02-25 00:00:00
+Misery Loves Comedy,5300,0,0,Documentary,2015-04-24 00:00:00
+Going Away,7714,0,0,Drama,2015-10-02 00:00:00
+A Hard Day,0,0,0,Action / Crime,2015-07-17 00:00:00
+The Challenger,12246,0,0,Action Drama,2015-09-11 00:00:00
+Ardor,13726,0,0,Drama,2015-07-17 00:00:00
+Gabo:The Creation of Gabriel Garcia Marquez,1432,0,0,Documentary,2015-10-01 00:00:00
+The Little Death,3118,0,0,Comedy,2015-06-26 00:00:00
+Gangnam 1970,18022,0,0,Foreign / Action,2015-02-06 00:00:00
+The Other One,11718,0,0,Drama,2015-06-26 00:00:00
+Mediterranea,5846,0,0,Drama,2015-11-20 00:00:00
+Trash,10230,4791538,0,Adventure Comedy,2015-10-09 00:00:00
+Strangerland,17472,0,0,Drama / Thriller,2015-07-10 00:00:00
+Great Museum,0,0,0,Documentary,2015-07-03 00:00:00
+Eastern Boys,5726,0,0,Foreign,2015-02-27 00:00:00
+Extraction,10948,0,0,Thriller,2015-12-18 00:00:00
+Eva,10395,0,0,Foreign,2015-03-13 00:00:00
+This Changes Everything,9770,0,0,Documentary,2015-10-03 00:00:00
+The World of Kanako,6834,0,0,Thriller,2015-12-04 00:00:00
+Who Took Johnny,7666,0,0,Documentary,2015-04-24 00:00:00
+Life in a Walk,0,0,0,Documentary,2015-09-02 00:00:00
+The Human Centipede 3 (Final Sequence),0,0,0,Horror,2015-05-22 00:00:00
+Can You Dig This,0,0,0,Documentary,2015-11-27 00:00:00
+Full Moon in Paris,5040,0,0,Foreign,2015-04-17 00:00:00
+Number One Fan,1023,0,0,Foreign,2015-09-04 00:00:00
+Cheatin',0,0,0,Animation,2015-04-03 00:00:00
+Zombeavers,8163,0,0,Horror Comedy,2015-03-20 00:00:00
+Gloria (2015),7930,0,0,Foreign,2015-07-17 00:00:00
+10 Days in a Madhouse,4773,0,0,Drama,2015-11-11 00:00:00
+Buzzard,8031,0,0,Comedy,2015-03-06 00:00:00
+The Hallow,1559,0,0,Horror,2015-11-06 00:00:00
+Backcountry,1005,0,0,Drama / Thriller,2015-03-20 00:00:00
+Amour Fou,0,0,0,Foreign,2015-03-18 00:00:00
+Eli,7098,0,0,Comedy,2015-06-19 00:00:00
+Yakuza Apocalypse,0,0,0,Action Comedy,2015-10-09 00:00:00
+"10,000 Km",8941,0,0,Comedy / Drama,2015-07-10 00:00:00
+The Armor of Light,0,0,0,Documentary,2015-10-30 00:00:00
+Arabian Nights:Volume 1 - The Restless One,0,0,0,Drama,2015-12-04 00:00:00
+Wa-shoku:Beyond Sushi,5582,0,0,Documentary,2015-04-10 00:00:00
+Murder in the Park,1310,0,0,Documentary,2015-06-26 00:00:00
+Little England,5775,0,0,Drama,2015-05-17 00:00:00
+Of Horses and Men,9565,0,0,Foreign,2015-03-06 00:00:00
+Dreams Rewired,0,0,0,Documentary,2015-11-12 00:00:00
+Emptying the Skies,4818,0,0,Documentary,2015-04-22 00:00:00
+Marie's Story,0,0,0,Foreign,2015-05-01 00:00:00
+Kidnapping of Michel Houellebecq,0,0,0,Comedy Thriller,2015-03-25 00:00:00
+The Devil's Violinist,8013,0,0,Music Drama,2015-01-30 00:00:00
+1001 Grams,0,0,0,Drama,2015-05-08 00:00:00
+Just Before I Go,8129,0,0,Comedy,2015-04-24 00:00:00
+Digging Up the Marrow,0,0,0,Fantasy Drama,2015-02-12 00:00:00
+Mala Mala,2569,0,0,Documentary,2015-07-01 00:00:00
+Empire of Lust,2230,0,0,Foreign,2015-03-06 00:00:00
+The Forecaster,0,0,0,Documentary,2015-03-27 00:00:00
+Little Accidents,8649,0,0,Drama,2015-01-16 00:00:00
+The Mind of Mark DeFriest,0,0,0,Documentary,2015-03-06 00:00:00
+Still Life (2015),0,0,0,Comedy / Drama,2015-01-16 00:00:00
+"One Cut, One Life",4127,0,0,Documentary,2015-05-13 00:00:00
+Cupcakes,2570,0,0,Foreign,2015-03-27 00:00:00
+The Lesson,0,0,0,Foreign,2015-03-04 00:00:00
+Station to Station,9000,0,0,Documentary,2015-08-21 00:00:00
+An Eye for Beauty,0,0,0,Drama,2015-08-28 00:00:00
+Butterfly Girl,4326,0,0,Documentary,2015-04-03 00:00:00
+Northern Soul,6786,0,0,Music Drama,2015-10-02 00:00:00
+B-Side,6544,0,0,Romance,2015-07-10 00:00:00
+The Pardon,1418,0,0,Crime Drama,2015-06-26 00:00:00
+BY MAJOR STUDIO,0,0,0,NONE,
+Dawn of the Crescent Moon,6411,0,0,Sci-Fi Thriller,2015-07-24 00:00:00
+Meet Me in Montenegro,5010,0,0,Comedy / Drama,2015-07-10 00:00:00
+Farewell to Hollywood,572,0,0,Documentary,2015-02-25 00:00:00
+Counting,4904,0,0,Documentary,2015-07-31 00:00:00
+The Girl in the Book,5249,0,0,Drama,2015-12-11 00:00:00
+A Fool (Yi ge shao zi),5741,0,0,Comedy / Drama,2015-11-27 00:00:00
+Jellyfish Eyes,1927,0,0,Fantasy,2015-07-15 00:00:00
+Every Thing Will be Fine,1428,0,0,Drama,2015-12-04 00:00:00
+Steak (R)evolution,0,0,0,Documentary,2015-07-17 00:00:00
+Straight Outta Tompkins,4011,0,0,Drama,2015-03-06 00:00:00
+Gone Doggy Gone,5625,0,0,Comedy,2015-06-26 00:00:00
+One Small Hitch,5328,0,0,Romantic Comedy,2015-02-06 00:00:00
+Kilo Two Bravo,0,0,0,Drama,2015-11-13 00:00:00
+The Great Man,2482,0,0,Drama,2015-08-14 00:00:00
+The Riot Club,2188,2140000,0,Drama / Thriller,2015-03-27 00:00:00
+Area 51,7556,0,0,Horror,2015-05-15 00:00:00
+On the Way to School,0,0,0,Documentary,2015-02-06 00:00:00
+Rubble Kings,0,0,0,Documentary,2015-06-19 00:00:00
+The Film Critic,839,0,0,Foreign,2015-05-15 00:00:00
+The Dinner,805,0,0,Drama,2015-08-07 00:00:00
+Antarctic Edge,3131,0,0,Documentary,2015-04-17 00:00:00
+Li'l Quinquin,3204,0,0,Foreign,2015-01-02 00:00:00
+Hungry Hearts,1869,0,0,Drama,2015-06-05 00:00:00
+The Sisterhood of Night,5264,0,0,Drama,2015-04-10 00:00:00
+Steve McQueen:The Man & Le Mans,4079,0,0,Documentary,2015-11-13 00:00:00
+Capture the Flag,6690,8300000,0,Animation,2015-12-04 00:00:00
+Horse Money,3409,0,0,Drama,2015-07-24 00:00:00
+The Suicide Theory,5229,0,0,Drama,2015-07-10 00:00:00
+Arabian Nights:Volume 2 - The Desolate One,0,0,0,Drama,2015-12-11 00:00:00
+Alleluia,2712,0,0,Thriller,2015-07-17 00:00:00
+The Night of the Shooting Stars (Re-issue),4414,0,0,Drama,2015-08-12 00:00:00
+Barely Lethal,0,0,0,Action / Adventure,2015-04-30 00:00:00
+Marquise of O,0,0,0,Foreign,2015-03-27 00:00:00
+"Sex, Death and Bowling",50,0,0,Comedy / Drama,2015-10-30 00:00:00
+Gabriel,2124,0,0,Drama / Thriller,2015-06-19 00:00:00
+Medeas,3025,0,0,Drama,2015-01-16 00:00:00
+Top Spin,2177,0,0,Documentary,2015-08-21 00:00:00
+Shout Gladi Gladi,5046,0,0,Documentary,2015-10-02 00:00:00
+Black November,0,0,0,Drama,2015-01-09 00:00:00
+The Wanted 18,4973,0,0,Documentary,2015-06-19 00:00:00
+Tu Dors Nicole,0,0,0,Comedy / Drama,2015-05-29 00:00:00
+This Isn't Funny,690,0,0,Comedy / Drama,2015-11-06 00:00:00
+Chic!,587,0,0,Comedy,2015-05-01 00:00:00
+Our Man in Tehran,1640,0,0,Documentary,2015-05-15 00:00:00
+The Living,74,0,0,Thriller,2015-04-03 00:00:00
+Far from Men,0,0,0,Foreign,2015-05-01 00:00:00
+She's Lost Control,900,0,0,Drama,2015-03-20 00:00:00
+From Mayerling to Sarajevo (2015 re-issue),5247,0,0,Foreign,2015-03-27 00:00:00
+The Dead Lands,1327,0,0,Action,2015-04-17 00:00:00
+The Princess of France,0,0,0,Drama,2015-06-26 00:00:00
+Death Valley,4344,0,0,Thriller,2015-10-16 00:00:00
+On War,2210,0,0,Comedy / Drama,2015-11-20 00:00:00
+A Reason,1690,0,0,Drama,2015-08-28 00:00:00
+SBK The-Movie,2650,0,0,Comedy,2015-04-03 00:00:00
+Gerontophilia,1927,0,0,Comedy / Drama,2015-05-01 00:00:00
+Guidance,0,0,0,Comedy,2015-08-21 00:00:00
+Miss Hill:Making Dance Matter,2560,0,0,Documentary,2015-01-23 00:00:00
+Jenny's Wedding,2254,0,0,Comedy,2015-07-31 00:00:00
+Against the Sun,3023,0,0,Adventure,2015-01-23 00:00:00
+Ashby,4631,0,0,Comedy / Drama,2015-09-25 00:00:00
+Seeds of Time,0,0,0,Documentary,2015-05-22 00:00:00
+Arabian Nights:Volume 3 - The Enchanted One,0,0,0,Foreign,2015-12-18 00:00:00
+The Summer of Sangaile,453,0,0,Drama,2015-11-20 00:00:00
+"Farewell, Herr Schwarz",0,0,0,Documentary,2015-01-09 00:00:00
+Club Life,0,0,0,Drama,2015-05-29 00:00:00
+Back to the Jurassic,0,0,0,Animation,2015-06-12 00:00:00
+Days of Grace,2213,0,0,Foreign,2015-05-01 00:00:00
+Set Fire to the Stars,1132,0,0,Drama,2015-06-12 00:00:00
+La Navaja de Don Juan,2330,0,0,Comedy,2015-10-09 00:00:00
+Three Night Stand,2538,0,0,Comedy,2015-01-16 00:00:00
+Salvation Army,2433,0,0,Foreign,2015-01-23 00:00:00
+Unfreedom,0,0,0,Crime Drama,2015-05-29 00:00:00
+The Free Speech Apocalypse,0,0,0,Documentary,2015-11-05 00:00:00
+In the Basement,748,0,0,Documentary,2015-11-06 00:00:00
+,0,0,0,NONE,
+That Sugar Film,3500,0,0,Documentary,2015-07-31 00:00:00
+Hyena,0,0,0,Drama,2015-05-01 00:00:00
+Mi America,3330,0,0,Crime Drama,2015-10-16 00:00:00
+Know How,2414,0,0,Drama,2015-05-15 00:00:00
+Drunk Wedding,3301,0,0,Comedy,2015-05-22 00:00:00
+Windsor Drive,2160,0,0,Thriller,2015-08-28 00:00:00
+blackhats (2015),2482,0,0,Thriller,2015-10-23 00:00:00
+Xenia,358,0,0,Drama,2015-10-09 00:00:00
+The Iron Ministry,896,0,0,Documentary,2015-08-21 00:00:00
+Moana With Sound (2015 re-issue),2274,0,0,Documentary,2015-11-13 00:00:00
+Julia (2015),2110,0,0,Thriller,2015-10-23 00:00:00
+Chocolat (2015 re-release),2710,0,0,Drama,2015-09-18 00:00:00
+Body,2457,0,0,Drama / Thriller,2015-12-11 00:00:00
+Hayride 2,1668,0,0,Horror,2015-03-06 00:00:00
+L.A. Slasher,2421,0,0,Comedy,2015-06-26 00:00:00
+Anita Ho,2250,0,0,Drama,2015-02-27 00:00:00
+The Lady in the Car with Glasses and a Gun,297,0,0,Thriller,2015-12-18 00:00:00
+Me You and Five Bucks,862,0,0,Comedy,2015-09-25 00:00:00
+Sneakerheadz,1903,0,0,Documentary,2015-08-07 00:00:00
+The Other Man:F.W. de Klerk and the End of Apartheid in South Africa,1153,0,0,Documentary,2015-02-06 00:00:00
+Dark Forest,1739,0,0,Horror,2015-08-21 00:00:00
+The Looking Glass,107,0,0,Drama,2015-10-23 00:00:00
+Drown,860,0,0,Drama,2015-08-28 00:00:00
+Cut Snake,55,0,0,Thriller,2015-10-07 00:00:00
+Forever (2015),0,0,0,Drama,2015-09-11 00:00:00
+Stations of the Cross,688,0,0,Drama,2015-07-10 00:00:00
+Making Rounds,1056,0,0,Documentary,2015-10-30 00:00:00
+Along the Roadside,0,0,0,Comedy,2015-03-27 00:00:00
+3 Nights in the Desert,234,0,0,Drama,2015-02-06 00:00:00
+Skin Trade,162,0,0,Action,2015-05-08 00:00:00
+El Nino,245,0,0,Drama,2015-04-17 00:00:00
+Childless,732,0,0,Drama,2015-05-15 00:00:00
+They are We,590,0,0,Documentary,2015-06-26 00:00:00
+Thanks to My Friends,587,0,0,Comedy,2015-12-11 00:00:00
+Big Muddy,147,0,0,Crime,2015-01-23 00:00:00
+REC 4:Apocalypse,708,0,0,Foreign / Horror,2015-01-02 00:00:00
+It's All So Quiet (Boven is het stil),362,0,0,Foreign,2015-01-09 00:00:00
+Tough Being Loved By Jerks,0,0,0,Foreign,2015-03-13 00:00:00
+United Passions,607,0,0,Sports Drama,2015-06-05 00:00:00
+The Chambermaid,0,0,0,Drama,2015-05-29 00:00:00
+Lou! Journal infime,88,0,0,Comedy,2015-04-24 00:00:00
+Paranoid Girls,54,0,0,Comedy,2015-11-13 00:00:00
