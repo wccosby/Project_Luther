@@ -54,3 +54,21 @@ We'll work in groups for brainstorming and design, and code sharing will be high
 This project will really give you the freedom to challenge yourself, no matter your skill level. Find your boundaries, meet them, and push them a little further.
 
 We are very excited to see what you will learn and do for Project Luther!
+
+
+# Movies to manually enter into data because of string unicode issues
+* Legend of Tarzan
+* The Revenant
+* The Diary of a Teenage Girl
+* Nasty Baby
+* The Giver
+* Birdman
+* Metallica Through the Never
+* The East
+* Disconnect
+* What Maisie Knew
+* Straw Dogs (2011)
+* Biutiful
+* Melancholia
+* Predators
+* Mother and Child

@@ -13,7 +13,7 @@ def scrape_people(url_list):
     actor_data = [['MOVIE_NAME','ACTOR']]
     producer_data = [['MOVIE_NAME','PRODUCER']]
     composer_data = [['MOVIE_NAME','COMPOSER']]
-    for url in url_list:
+    for i,url in enumerate(url_list):
         # print "Getting url response..."
         response = requests.get(url)
         # should probably check to make sure the response code is good to continue
@@ -42,9 +42,9 @@ def scrape_people(url_list):
             try:
                 directors = movie_soup.findAll('a',href=re.compile("Director&id"))
                 for person in directors:
-                    director_data.append([movie_name,person.get_text(strip=True)])
+                    director_data.append([movie_name,str(person.get_text(strip=True))])
             except:
-                print "Couldn't find a director for: ", movie_name
+                print "something went wrong for: ", movie_name
 
             '''
             Writers
@@ -52,9 +52,9 @@ def scrape_people(url_list):
             try:
                 writers = movie_soup.findAll('a',href=re.compile("Writer&id"))
                 for person in writers:
-                    writer_data.append([movie_name,person.get_text(strip=True)])
+                    writer_data.append([movie_name,str(person.get_text(strip=True))])
             except:
-                print "Couldn't find a writer for: ", movie_name
+                print "something went wrong for: ", movie_name
 
 
             '''
@@ -63,9 +63,9 @@ def scrape_people(url_list):
             try:
                 actors = movie_soup.findAll('a',href=re.compile("Actor&id"))
                 for person in actors:
-                    actor_data.append([movie_name,person.get_text(strip=True)])
+                    actor_data.append([movie_name,str(person.get_text(strip=True))])
             except:
-                print "Couldn't find actor for: ", movie_name
+                print "something went wrong for: ", movie_name
 
             '''
             Producers
@@ -73,9 +73,9 @@ def scrape_people(url_list):
             try:
                 producers = movie_soup.findAll('a',href=re.compile("Producer&id"))
                 for person in producers:
-                    producer_data.append([movie_name,person.get_text(strip=True)])
+                    producer_data.append([movie_name,str(person.get_text(strip=True))])
             except:
-                print "Couldn't find a writer for: ", movie_name
+                print "something went wrong for: ", movie_name
 
 
             '''
@@ -84,9 +84,12 @@ def scrape_people(url_list):
             try:
                 composers = movie_soup.findAll('a',href=re.compile("Composer&id"))
                 for person in composers:
-                    producer_data.append([movie_name,person.get_text(strip=True)])
+                    producer_data.append([movie_name,str(person.get_text(strip=True))])
             except:
-                print "Couldn't find a writer for: ", movie_name
+                print "something went wrong for: ", movie_name
+
+            if (i%500 == 0):
+                print "Finished scraping ", i, " movies. Last movie: ", movie_name
     return director_data,writer_data,actor_data,producer_data,composer_data
 
 
