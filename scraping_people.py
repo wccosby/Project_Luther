@@ -9,7 +9,7 @@ import requests
 
 def scrape_people(url_list):
     director_data = [['MOVIE_NAME','DIRECTOR']]
-    writer_data = [['MOVIE_NAME','Writer']]
+    writer_data = [['MOVIE_NAME','WRITER']]
     actor_data = [['MOVIE_NAME','ACTOR']]
     producer_data = [['MOVIE_NAME','PRODUCER']]
     composer_data = [['MOVIE_NAME','COMPOSER']]
@@ -52,7 +52,7 @@ def scrape_people(url_list):
             try:
                 writers = movie_soup.findAll('a',href=re.compile("Writer&id"))
                 for person in writers:
-                    writers_data.append([movie_name,person.get_text(strip=True)])
+                    writer_data.append([movie_name,person.get_text(strip=True)])
             except:
                 print "Couldn't find a writer for: ", movie_name
 
