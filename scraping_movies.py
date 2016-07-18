@@ -22,6 +22,13 @@ def parse_movie_page(url_list):
     # list of lists where each sub-list represents a row, 1st row is the column headers
     movie_data = [['MOVIE_NAME','DOMESTIC_OPENING','FOREIGN_TOTAL','BUDGET','GENRE','RELEASE_DATE']]
 
+    director_data = [['MOVIE_NAME','DIRECTOR']]
+    writer_data = [['MOVIE_NAME','Writer']]
+    actor_data = [['MOVIE_NAME','ACTOR']]
+    producer_data = [['MOVIE_NAME','PRODUCER']]
+    composer_data = [['MOVIE_NAME','COMPOSER']]
+
+
     for url in url_list:
         # print "Getting url response..."
         response = requests.get(url)
@@ -40,6 +47,64 @@ def parse_movie_page(url_list):
             except:
                 # SKIP DAT SHIIIIIIIIIITTTTTT
                 continue
+
+            '''
+            Scraping for actor/writer/director/producer/composer information
+            '''
+
+            '''
+            Director
+            '''
+            try:
+                directors = movie_soup.findAll('a',href=re.compile("Director&id"))
+                for person in directors:
+                    director_data.append([movie_name,person.get_text(strip=True)])
+            except:
+                print "Couldn't find a director for: ", movie_name
+
+            '''
+            Writers
+            '''
+            try:
+                writers = movie_soup.findAll('a',href=re.compile("Writer&id"))
+                for person in writers:
+                    writers_data.append([movie_name,person.get_text(strip=True)])
+            except:
+                print "Couldn't find a writer for: ", movie_name
+
+
+            '''
+            Actors
+            '''
+            try:
+                actors = movie_soup.findAll('a',href=re.compile("Actor&id"))
+                for person in actors:
+                    actor_data.append([movie_name,person.get_text(strip=True)])
+            except:
+                print "Couldn't find actor for: ", movie_name
+
+            '''
+            Producers
+            '''
+            try:
+                producers = movie_soup.findAll('a',href=re.compile("Producer&id"))
+                for person in producers:
+                    producer_data.append([movie_name,person.get_text(strip=True)])
+            except:
+                print "Couldn't find a writer for: ", movie_name
+
+
+            '''
+            Composers
+            '''
+            try:
+                composers = movie_soup.findAll('a',href=re.compile("Composer&id"))
+                for person in composers:
+                    producer_data.append([movie_name,person.get_text(strip=True)])
+            except:
+                print "Couldn't find a writer for: ", movie_name
+
+
 
             '''
             DOMESTIC OPENING WEEKEND
@@ -137,7 +202,7 @@ def parse_movie_page(url_list):
         print "Finished parsing ", movie_name
         movie_data.append([movie_name,domestic_opening,foreign_total,budget,genre_string,datetime_obj])
 
-    return movie_data
+    return movie_data, director_data, writer_data, actor_data, producer_data, composer_data
 
 
 '''
@@ -198,39 +263,33 @@ movie_list_pages_2013_2014 = ['http://www.boxofficemojo.com/yearly/chart/?yr=201
                             'http://www.boxofficemojo.com/yearly/chart/?page=6&view=releasedate&view2=domestic&yr=2013&p=.htm',
                             'http://www.boxofficemojo.com/yearly/chart/?page=7&view=releasedate&view2=domestic&yr=2013&p=.htm']
 
-movie_urls = get_movie_urls(movie_list_pages_2013_2014)
+movie_list_pages_2010_2012 = ['http://www.boxofficemojo.com/yearly/chart/?yr=2012&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=2&view=releasedate&view2=domestic&yr=2012&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=3&view=releasedate&view2=domestic&yr=2012&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=4&view=releasedate&view2=domestic&yr=2012&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=5&view=releasedate&view2=domestic&yr=2012&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=6&view=releasedate&view2=domestic&yr=2012&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=7&view=releasedate&view2=domestic&yr=2012&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?yr=2011&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=2&view=releasedate&view2=domestic&yr=2011&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=3&view=releasedate&view2=domestic&yr=2011&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=4&view=releasedate&view2=domestic&yr=2011&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=5&view=releasedate&view2=domestic&yr=2011&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=6&view=releasedate&view2=domestic&yr=2011&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=7&view=releasedate&view2=domestic&yr=2011&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?yr=2010&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=2&view=releasedate&view2=domestic&yr=2010&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=3&view=releasedate&view2=domestic&yr=2010&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=4&view=releasedate&view2=domestic&yr=2010&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=5&view=releasedate&view2=domestic&yr=2010&p=.htm',
+                            'http://www.boxofficemojo.com/yearly/chart/?page=6&view=releasedate&view2=domestic&yr=2010&p=.htm',]
+
+movie_urls = get_movie_urls(movie_list_pages_2010_2012)
 movie_data_list = parse_movie_page(movie_urls)
 
 # need to write to csv
 import csv
 print movie_data_list
-with open("movie_data_2013_2014.csv", "wb") as f:
+with open("movie_data_2010_2012.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(movie_data_list)
-
-
-
-
-
-
-
-
-
-
-# url2 = ['http://www.boxofficemojo.com/movies/?id=pixar2015.htm',
-#        "http://www.boxofficemojo.com/movies/?id=marvel2016.htm"]
-# url3 = ['http://www.boxofficemojo.com/movies/?id=pixar2015.htm',
-#        "http://www.boxofficemojo.com/movies/?id=marvel2016.htm",
-#        "http://www.boxofficemojo.com/movies/?id=deadpool2016.htm",
-#        'http://www.boxofficemojo.com/movies/?id=hello,mynameisdoris.htm']
-# url_pool = ["http://www.boxofficemojo.com/movies/?id=deadpool2016.htm"]
-#
-# url_lim_opening = ['http://www.boxofficemojo.com/movies/?id=hello,mynameisdoris.htm']
-#
-
-# test_dict = parse_movie_page(url3)
-# print "returned dictionary:"
-# print
-# for key, val in test_dict.iteritems():
-#     print key,': ',val
-#     print

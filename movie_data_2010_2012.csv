@@ -1,0 +1,1805 @@
+MOVIE_NAME,DOMESTIC_OPENING,FOREIGN_TOTAL,BUDGET,GENRE,RELEASE_DATE
+Marvel's The Avengers,207438708,896200000,220000000,Action / Adventure,2012-05-04 00:00:00
+The Dark Knight Rises,160887295,636800000,250000000,Action Thriller,2012-07-20 00:00:00
+The Hunger Games,152535747,286384032,78000000,Action / Adventure,2012-03-23 00:00:00
+Skyfall,88364714,804200736,200000000,Action,2012-11-09 00:00:00
+The Hobbit:An Unexpected Journey,84617303,718100000,0,Fantasy,2012-12-14 00:00:00
+The Twilight Saga:Breaking Dawn Part 2,141067634,537422083,120000000,Romance,2012-11-16 00:00:00
+The Amazing Spider-Man,62004688,495900000,230000000,Action / Adventure,2012-07-03 00:00:00
+Brave,66323594,301700000,185000000,Animation,2012-06-22 00:00:00
+Ted,54415205,330552828,50000000,Comedy,2012-06-29 00:00:00
+Madagascar 3:Europe's Most Wanted,60316738,530529792,145000000,Animation,2012-06-08 00:00:00
+Dr. Seuss' The Lorax,70217070,134809816,70000000,Animation,2012-03-02 00:00:00
+Wreck-It Ralph,49038712,281800000,165000000,Animation,2012-11-02 00:00:00
+Lincoln,21993714,93085477,65000000,Historical Drama,2012-11-09 00:00:00
+MIB 3,54592779,445005922,225000000,Sci-Fi Comedy,2012-05-25 00:00:00
+Django Unchained,30122888,262562804,100000000,Western,2012-12-25 00:00:00
+Ice Age:Continental Drift,46629259,715922939,95000000,Animation,2012-07-13 00:00:00
+Snow White and the Huntsman,56217700,241260448,170000000,Adventure,2012-06-01 00:00:00
+Les Miserables (2012),27281735,293000000,61000000,Musical,2012-12-25 00:00:00
+Hotel Transylvania,42522194,210062555,85000000,Animation,2012-09-28 00:00:00
+Taken 2,49514769,236287019,45000000,Action,2012-10-05 00:00:00
+21 Jump Street,36302612,63137661,42000000,Action Comedy,2012-03-16 00:00:00
+Argo,19458109,96300000,0,Drama / Thriller,2012-10-12 00:00:00
+Silver Linings Playbook,4522317,104319495,21000000,Comedy,2012-11-16 00:00:00
+Prometheus,51050101,276877385,130000000,Sci-Fi Action,2012-06-08 00:00:00
+Safe House,40172720,81702771,85000000,Action Thriller,2012-02-10 00:00:00
+The Vow,41202458,71100540,30000000,Drama,2012-02-10 00:00:00
+Life of Pi,22451514,484029542,120000000,Adventure,2012-11-21 00:00:00
+Magic Mike,39127170,53500000,7000000,Comedy / Drama,2012-06-29 00:00:00
+The Bourne Legacy,38142825,162940880,125000000,Action,2012-08-10 00:00:00
+Journey 2:The Mysterious Island,27335363,231400000,79000000,Adventure,2012-02-10 00:00:00
+Rise of the Guardians,23773465,203528912,145000000,Animation,2012-11-21 00:00:00
+Zero Dark Thirty,24856086,37100000,40000000,Thriller,2012-12-19 00:00:00
+Flight,24900566,68000000,31000000,Drama,2012-11-02 00:00:00
+Think Like a Man,33636303,4523302,12000000,Comedy,2012-04-20 00:00:00
+The Campaign,26588460,18000000,0,Comedy,2012-08-10 00:00:00
+The Expendables 2,28591370,220400000,100000000,Action,2012-08-17 00:00:00
+Wrath of the Titans,33457188,221600000,150000000,Fantasy,2012-03-30 00:00:00
+Jack Reacher,15210156,138269859,60000000,Crime Drama,2012-12-21 00:00:00
+Dark Shadows,29685274,165800000,150000000,Horror Comedy,2012-05-11 00:00:00
+Parental Guidance,14554053,42504936,25000000,Comedy,2012-12-25 00:00:00
+John Carter,30180188,211061000,250000000,Sci-Fi Adventure,2012-03-09 00:00:00
+Act of Valor,24476632,11259919,12000000,Thriller,2012-02-24 00:00:00
+This Is 40,11579175,20514281,35000000,Comedy,2012-12-21 00:00:00
+Contraband,24349815,29734212,25000000,Thriller,2012-01-13 00:00:00
+Looper,20801552,110020614,30000000,Sci-Fi Action,2012-09-28 00:00:00
+Tyler Perry's Madea's Witness Protection,25390575,1246000,20000000,Comedy,2012-06-29 00:00:00
+Battleship,25534825,237602860,209000000,Action,2012-05-18 00:00:00
+Pitch Perfect,19996263,50349333,17000000,Comedy,2012-09-28 00:00:00
+Mirror Mirror,18132085,118083355,85000000,Fantasy,2012-03-30 00:00:00
+Chronicle (2012),22004098,62060922,12000000,Sci-Fi Action,2012-02-03 00:00:00
+Hope Springs,14650121,50745040,0,Comedy / Drama,2012-08-08 00:00:00
+Underworld Awakening,25306725,97791632,70000000,Action Horror,2012-01-20 00:00:00
+The Lucky One,22518358,38900000,0,Romance,2012-04-20 00:00:00
+The Dictator,17435092,119729311,65000000,Comedy,2012-05-16 00:00:00
+Total Recall (2012),25577758,139589199,125000000,Sci-Fi Action,2012-08-03 00:00:00
+Titanic 3D,17285453,285666656,18000000,Romance,2012-04-04 00:00:00
+American Reunion,21514080,177978063,50000000,Comedy,2012-04-06 00:00:00
+ParaNorman,14087050,51136348,60000000,Animation,2012-08-17 00:00:00
+This Means War,17405930,101730488,65000000,Action,2012-02-17 00:00:00
+Project X,21051363,48000000,0,Comedy,2012-03-02 00:00:00
+The Woman in Black,20874072,73397446,0,Horror Thriller,2012-02-03 00:00:00
+Paranormal Activity 4,29003866,88917657,5000000,Horror,2012-10-19 00:00:00
+The Devil Inside,33732515,48496546,0,Horror,2012-01-06 00:00:00
+The Odd Life of Timothy Green,10822903,4157767,0,Fantasy,2012-08-15 00:00:00
+Ghost Rider:Spirit of Vengeance,22115334,80789928,57000000,Action Horror,2012-02-17 00:00:00
+The Grey,19665101,25698095,25000000,Action Drama,2012-01-27 00:00:00
+Red Tails,18782154,489000,58000000,Action / Adventure,2012-01-20 00:00:00
+The Possession,17732480,36315921,14000000,Horror,2012-08-31 00:00:00
+Diary of a Wimpy Kid:Dog Days,14623599,28103514,22000000,Comedy,2012-08-03 00:00:00
+Sinister,18007634,29625536,3000000,Horror,2012-10-12 00:00:00
+Beauty and the Beast (3D),17751905,14410056,0,Animation,2012-01-13 00:00:00
+Savages (2012),16016910,35584084,45000000,Thriller,2012-07-06 00:00:00
+The Best Exotic Marigold Hotel,7120254,90424115,10000000,Comedy / Drama,2012-05-04 00:00:00
+Moonrise Kingdom,5449833,22750700,16000000,Drama,2012-05-25 00:00:00
+Here Comes the Boom,11816596,27809854,0,Comedy,2012-10-12 00:00:00
+Red Dawn (2012),14276668,0,65000000,Action,2012-11-21 00:00:00
+The Three Stooges,17010125,10481077,30000000,Comedy,2012-04-13 00:00:00
+Star Wars:Episode I - The Phantom Menace (in 3D),22469932,59283211,0,Sci-Fi Fantasy,2012-02-10 00:00:00
+Resident Evil:Retribution,21052227,197813724,65000000,Action Horror,2012-09-14 00:00:00
+The Cabin in the Woods,14743614,24412803,0,Horror Comedy,2012-04-13 00:00:00
+What to Expect When You're Expecting,10547068,43231799,40000000,Romantic Comedy,2012-05-18 00:00:00
+Finding Nemo (3D),16687773,31000000,0,Animation,2012-09-14 00:00:00
+End of Watch,13152683,7123013,7000000,Crime Drama,2012-09-21 00:00:00
+Rock of Ages,14437269,20900000,75000000,Musical,2012-06-15 00:00:00
+Abraham Lincoln:Vampire Hunter,16306974,78952441,69000000,Horror Thriller,2012-06-22 00:00:00
+Lawless,10001982,16276453,0,Crime Drama,2012-08-29 00:00:00
+The Guilt Trip,5290629,4729511,40000000,Comedy,2012-12-19 00:00:00
+That's My Boy,13453714,20788004,70000000,Comedy,2012-06-15 00:00:00
+Trouble with the Curve,12162040,13200000,0,Drama,2012-09-21 00:00:00
+The Watch,12750297,32914862,68000000,Comedy,2012-07-27 00:00:00
+Frankenweenie,11412213,46200000,39000000,Animation,2012-10-05 00:00:00
+Step Up Revolution,11731708,105396069,33000000,Music Drama,2012-07-27 00:00:00
+Tyler Perry's Good Deeds,15583924,553000,0,Drama,2012-02-24 00:00:00
+"Monsters, Inc. (3D)",4774686,3400000,0,Animation,2012-12-19 00:00:00
+2016 Obama's America,6541043,0,0,Documentary,2012-07-13 00:00:00
+House at the End of The Street,12287234,12675215,10000000,Thriller,2012-09-21 00:00:00
+The Pirates! Band of Misfits,11137734,92002915,55000000,Animation,2012-04-27 00:00:00
+Joyful Noise,11225190,226000,0,Comedy / Drama,2012-01-13 00:00:00
+Chimpanzee,10673748,5851000,0,Documentary,2012-04-20 00:00:00
+The Five-Year Engagement,10610060,25074223,30000000,Comedy,2012-04-27 00:00:00
+Cloud Atlas,9612247,103374596,0,Sci-Fi,2012-10-26 00:00:00
+One For the Money,11515790,10479194,40000000,Action Comedy,2012-01-27 00:00:00
+Alex Cross,11396768,8700000,35000000,Crime Thriller,2012-10-19 00:00:00
+Katy Perry:Part of Me,7138266,7400885,12000000,Documentary,2012-07-05 00:00:00
+Sparkle (2012),11643342,240000,14000000,Music Drama,2012-08-17 00:00:00
+Premium Rush,6030164,10808153,35000000,Action Thriller,2012-08-24 00:00:00
+Big Miracle,7760205,4561915,40000000,Drama,2012-02-03 00:00:00
+The Secret World of Arrietty,6446395,126368084,0,Animation,2012-02-17 00:00:00
+The Impossible,2674935,161254241,0,Drama,2012-12-21 00:00:00
+Haywire,8425370,14430210,23000000,Action,2012-01-20 00:00:00
+Man on a Ledge,8001932,27601189,42000000,Thriller,2012-01-27 00:00:00
+A Thousand Words,6176280,3594150,40000000,Comedy / Drama,2012-03-09 00:00:00
+Chernobyl Diaries,7955307,19038008,0,Horror,2012-05-25 00:00:00
+The Perks of Being a Wallflower,2378423,15641179,0,Drama,2012-09-21 00:00:00
+Silent Hill:Revelation 3D,8023036,34773639,20000000,Horror,2012-10-26 00:00:00
+Wanderlust,6526650,4162198,0,Comedy,2012-02-24 00:00:00
+Safe (2012),7892539,23204106,0,Action,2012-04-27 00:00:00
+To Rome with Love,3472986,56559014,0,Comedy,2012-06-22 00:00:00
+The Master,5127403,11880786,0,Drama,2012-09-14 00:00:00
+The Raven,7289642,13649479,26000000,Thriller,2012-04-27 00:00:00
+The Man with the Iron Fists,7910980,4087155,15000000,Action / Adventure,2012-11-02 00:00:00
+Killing Them Softly,6812900,22904409,15000000,Crime Thriller,2012-11-30 00:00:00
+Seven Psychopaths,4174915,4398212,15000000,Action Comedy,2012-10-12 00:00:00
+To the Arctic (IMAX),270228,9108451,0,IMAX,2012-04-20 00:00:00
+Lockout,6231836,17877166,20000000,Sci-Fi Action,2012-04-13 00:00:00
+Hit and Run,4526222,704054,2000000,Action Comedy,2012-08-22 00:00:00
+Dredd,6278491,22211811,50000000,Action / Adventure,2012-09-21 00:00:00
+Playing for Keeps,5750288,0,0,Romantic Comedy,2012-12-07 00:00:00
+Anna Karenina,320690,56112783,0,Drama,2012-11-16 00:00:00
+Beasts of the Southern Wild,169702,8312000,0,Drama,2012-06-27 00:00:00
+Silent House,6661234,346889,0,Horror,2012-03-09 00:00:00
+Cirque Du Soleil:Worlds Away,2162993,21640239,0,Concert,2012-12-21 00:00:00
+People Like Us,4255423,0,16000000,Drama,2012-06-29 00:00:00
+Gone,4770360,6417984,0,Thriller,2012-02-24 00:00:00
+The Words,4750894,1736623,6000000,Drama,2012-09-07 00:00:00
+The Intouchables (U.S.-only),103507,416389690,0,Foreign,2012-05-25 00:00:00
+Fun Size,4101017,2007824,14000000,Comedy,2012-10-26 00:00:00
+Bernie,85805,0,0,Comedy / Drama,2012-04-27 00:00:00
+Salmon Fishing in the Yemen,225894,25516670,0,Drama,2012-03-09 00:00:00
+Arbitrage,2002165,27565482,0,Drama,2012-09-14 00:00:00
+Promised Land (2012),4223826,540890,0,Drama,2012-12-28 00:00:00
+Friends with Kids,3473644,5768000,0,Comedy,2012-03-09 00:00:00
+Seeking a Friend for the End of the World,3822803,2557551,10000000,Comedy / Drama,2012-06-22 00:00:00
+The Collection,3104269,0,0,Horror Thriller,2012-11-30 00:00:00
+Amour,68266,13100000,0,Foreign,2012-12-19 00:00:00
+Hyde Park on Hudson,81362,2511458,0,Drama,2012-12-07 00:00:00
+Hitchcock,287715,17561864,0,Drama,2012-11-23 00:00:00
+Chasing Mavericks,2268274,630,20000000,Sports Drama,2012-10-26 00:00:00
+The Sessions,113467,3135887,0,Drama,2012-10-19 00:00:00
+Casa De Mi Padre,2287239,2132184,0,Comedy,2012-03-16 00:00:00
+For Greater Glory,1885608,3950000,0,Foreign,2012-06-01 00:00:00
+Won't Back Down,2603370,0,0,Drama,2012-09-28 00:00:00
+October Baby (2012),1697130,0,0,Drama,2012-03-23 00:00:00
+The Apparition,2841488,4690673,17000000,Thriller,2012-08-24 00:00:00
+"Jeff, Who Lives at Home",855709,148154,0,Comedy,2012-03-16 00:00:00
+Goon,1232860,2315435,0,Sports Comedy,2012-02-24 00:00:00
+The Raid:Redemption,1175239,0,0,Foreign / Action,2012-03-23 00:00:00
+Safety Not Guaranteed,97762,0,0,Sci-Fi Comedy,2012-06-08 00:00:00
+Bully (PG-13),535433,0,0,Documentary,2012-04-13 00:00:00
+The Cold Light of Day,1831588,13100000,0,Action Thriller,2012-09-07 00:00:00
+Searching for Sugar Man,27459,0,0,Documentary,2012-07-27 00:00:00
+Nitro Circus the Movie 3D,1183701,525861,0,Sports Comedy,2012-08-08 00:00:00
+Atlas Shrugged:Part II,1751572,0,0,Drama,2012-10-12 00:00:00
+Last Ounce of Courage,1585994,0,0,Drama,2012-09-14 00:00:00
+Robot & Frank,35539,0,0,Sci-Fi Comedy,2012-08-17 00:00:00
+Raiders of the Lost Ark (IMAX),1673731,0,0,Period Adventure,2012-09-07 00:00:00
+Celeste and Jesse Forever,107785,0,0,Comedy / Drama,2012-08-03 00:00:00
+Jab Tak Hai Jaan,1283585,0,0,Foreign,2012-11-13 00:00:00
+Albert Nobbs,696088,2620132,0,Drama,2012-01-27 00:00:00
+Talaash,1638706,0,0,Foreign,2012-11-30 00:00:00
+Barfi!,1061713,0,0,Foreign,2012-09-14 00:00:00
+Samsara,76222,0,0,Documentary,2012-08-24 00:00:00
+Girl in Progress,1384078,1990476,0,Comedy / Drama,2012-05-11 00:00:00
+Jiro Dreams of Sushi,42035,0,0,Foreign,2012-03-09 00:00:00
+Ruby Sparks,140822,6588157,0,Romantic Comedy,2012-07-25 00:00:00
+Dabangg 2,1019213,0,0,Foreign,2012-12-21 00:00:00
+The Queen of Versailles,51326,0,0,Documentary,2012-07-20 00:00:00
+Ek Tha Tiger,1139340,0,0,Foreign,2012-08-15 00:00:00
+Sleepwalk with Me,68801,0,0,Comedy,2012-08-24 00:00:00
+Rust and Bone,27154,23700000,0,Foreign,2012-11-23 00:00:00
+Monsieur Lazhar (U.S.-only),112190,4572398,0,Foreign,2012-04-13 00:00:00
+Footnote,47528,0,0,Foreign,2012-03-09 00:00:00
+Killer Joe,37900,1677307,0,Comedy / Drama,2012-07-27 00:00:00
+Agneepath,1140464,0,0,Foreign,2012-01-26 00:00:00
+English Vinglish,745414,0,0,Foreign,2012-10-05 00:00:00
+Crooked Arrows,257364,0,0,Sports Drama,2012-05-18 00:00:00
+Hysteria,35656,7700000,0,Period Comedy,2012-05-18 00:00:00
+Housefull 2,847132,0,0,Foreign,2012-04-06 00:00:00
+2012 Oscar Nominated Short Films,412304,0,0,Unknown,2012-02-10 00:00:00
+Your Sister's Sister,109221,0,0,Comedy / Drama,2012-06-15 00:00:00
+Singin' In the Rain (2012 re-release),0,0,0,Musical,2012-07-12 00:00:00
+Farewell My Queen,72100,3699234,0,Foreign,2012-07-13 00:00:00
+A Late Quartet,75279,0,0,Drama,2012-11-02 00:00:00
+A Royal Affair,38212,6047932,0,Foreign,2012-11-09 00:00:00
+The Dark Knight (2012 re-release),0,0,0,Action / Adventure,2012-07-19 00:00:00
+Batman Begins (2012 re-release),0,0,0,Action / Adventure,2012-07-19 00:00:00
+Kid With a Bike,45933,1034775,0,Foreign,2012-03-16 00:00:00
+Marley,262004,0,0,Documentary,2012-04-20 00:00:00
+Chasing Ice,0,0,0,Documentary,2012-11-09 00:00:00
+Air Racers 3D,0,0,0,Documentary,2012-04-06 00:00:00
+The Other Son,125691,0,0,Foreign,2012-10-26 00:00:00
+"For a Good Time, Call...",143935,0,0,Comedy,2012-08-31 00:00:00
+Take This Waltz,137019,0,0,Drama,2012-06-29 00:00:00
+Cocktail (2012),647956,0,0,Foreign,2012-07-13 00:00:00
+Bol Bachchan,561996,27559004,0,Foreign,2012-07-06 00:00:00
+Woman Thou Art Loosed!:On the 7th Day,641542,0,0,Thriller,2012-04-13 00:00:00
+Headhunters,43013,14499697,0,Thriller,2012-04-27 00:00:00
+Ek Main Aur Ekk Tu,637100,0,0,Foreign,2012-02-10 00:00:00
+Casablanca (2012 re-release),0,0,0,Romance,2012-03-21 00:00:00
+The Deep Blue Sea,123841,0,0,Romance,2012-03-23 00:00:00
+Oogieloves In The BIG Balloon Adventure,443901,0,20000000,Family,2012-08-29 00:00:00
+In Darkness,27413,4535270,0,Foreign,2012-02-10 00:00:00
+Diana Vreeland:The Eye Has to Travel,63700,0,0,Documentary,2012-09-21 00:00:00
+First Position,48024,0,0,Documentary,2012-05-04 00:00:00
+Barbara,63410,3115348,0,Foreign,2012-12-21 00:00:00
+Damsels in Distress,58589,0,0,Comedy,2012-04-06 00:00:00
+Unconditional,525192,0,0,Drama,2012-09-21 00:00:00
+Burn,0,0,0,Documentary,2012-07-24 00:00:00
+Rampart,60446,0,0,Crime Drama,2012-02-10 00:00:00
+Masquerade (2012),0,79839675,0,Foreign,2012-09-21 00:00:00
+The Imposter,22379,1100960,0,Documentary,2012-07-13 00:00:00
+Bill W.,0,0,0,Documentary,2012-05-18 00:00:00
+Darling Companion,39962,0,0,Comedy,2012-04-20 00:00:00
+Thin Ice,183527,0,0,Crime Drama,2012-02-17 00:00:00
+Teri Meri Kahaani,405926,0,0,Foreign,2012-06-22 00:00:00
+Meerkats,0,482021,0,Documentary,2012-05-26 00:00:00
+Rowdy Rathore,381784,28565090,0,Foreign,2012-06-01 00:00:00
+Son of Sardaar,341552,0,0,Foreign,2012-11-13 00:00:00
+Cosmopolis,70339,5300000,0,Drama,2012-08-17 00:00:00
+Coriolanus,61136,315407,0,Period Drama,2012-01-20 00:00:00
+On the Road,39550,8040022,0,Drama,2012-12-21 00:00:00
+Agent Vinod,427043,0,0,Foreign / Action,2012-03-23 00:00:00
+The Paperboy,102706,660582,0,Thriller,2012-10-05 00:00:00
+The Thieves,136993,82833860,0,Foreign / Action,2012-10-12 00:00:00
+Student of the Year,326508,0,0,Foreign,2012-10-19 00:00:00
+The Polar Express (2012 re-issue),73514,0,0,Animation,2012-11-21 00:00:00
+Holy Motors,18866,0,0,Foreign,2012-10-17 00:00:00
+2 Days in New York,23942,1020582,0,Comedy,2012-08-10 00:00:00
+Not Fade Away,19182,0,20000000,Drama,2012-12-21 00:00:00
+Heroine,389901,7438185,0,Foreign,2012-09-21 00:00:00
+Blue Like Jazz,261190,0,0,Comedy,2012-04-13 00:00:00
+"Peace, Love and Misunderstanding",105960,0,0,Comedy / Drama,2012-06-08 00:00:00
+Thunderstruck,0,0,0,Family,2012-08-24 00:00:00
+W.E.,47074,284984,0,Historical Drama,2012-02-03 00:00:00
+Undefeated (2012),33165,0,0,Documentary,2012-02-17 00:00:00
+Vicky Donor,169209,0,0,Foreign,2012-04-20 00:00:00
+We Have a Pope,31368,15609760,0,Foreign,2012-04-06 00:00:00
+Being Flynn,43990,0,0,Comedy / Drama,2012-03-02 00:00:00
+Ai Weiwei:Never Sorry,41104,0,0,Documentary,2012-07-27 00:00:00
+Where Do We Go Now?,15382,0,0,Foreign,2012-05-11 00:00:00
+Shut Up and Play the Hits,0,0,0,Concert,2012-07-18 00:00:00
+Delicacy,0,9197620,0,Foreign,2012-03-16 00:00:00
+The Flat,19916,0,0,Foreign,2012-10-19 00:00:00
+Bachelorette,181494,11500000,0,Comedy,2012-09-07 00:00:00
+Ferrari Ki Sawaari,240792,0,0,Foreign,2012-06-15 00:00:00
+Seeking Justice,249912,11944052,0,Action Thriller,2012-03-16 00:00:00
+Sound of My Voice,36134,0,0,Drama,2012-04-27 00:00:00
+Detropia,17414,0,0,Documentary,2012-09-07 00:00:00
+The Well-Digger's Daughter,10273,12240056,0,Foreign,2012-07-20 00:00:00
+Khiladi 786,228967,0,0,Foreign,2012-12-07 00:00:00
+Smashed,26943,0,0,Comedy / Drama,2012-10-12 00:00:00
+Piranha 3DD,182237,8117216,0,Horror,2012-06-01 00:00:00
+The Oranges,198461,0,0,Comedy / Drama,2012-10-05 00:00:00
+The Lady,0,3404191,0,Drama,2012-04-13 00:00:00
+Branded,240589,3400557,0,Action,2012-09-07 00:00:00
+Chico & Rita,20654,1883933,0,Foreign,2012-02-10 00:00:00
+A Werewolf Boy,0,41336378,0,Foreign,2012-11-30 00:00:00
+Red Hook Summer,40070,0,0,Drama,2012-08-10 00:00:00
+Liberal Arts,27435,0,0,Comedy / Drama,2012-09-14 00:00:00
+The Central Park Five,30570,0,0,Documentary,2012-11-23 00:00:00
+Compliance,16427,0,0,Drama / Thriller,2012-08-17 00:00:00
+The Salt of Life,19176,1175248,0,Foreign,2012-03-02 00:00:00
+Back to 1942,105702,0,0,Foreign,2012-11-30 00:00:00
+The Flowers of War,48448,0,0,Historical Drama,2012-01-20 00:00:00
+West of Memphis,13360,0,0,Documentary,2012-12-25 00:00:00
+A Cat in Paris,34554,0,0,Animation,2012-06-01 00:00:00
+Love (2012),83178,0,0,Foreign,2012-02-17 00:00:00
+Stolen (2012),183125,1802239,0,Action Thriller,2012-09-14 00:00:00
+Something From Nothing:The Art of Rap,150337,0,0,Documentary,2012-06-15 00:00:00
+Bully (2012),116472,182203,0,Documentary,2012-03-30 00:00:00
+Love in the Buff,91233,0,0,Foreign,2012-03-30 00:00:00
+Boy (2012),21244,8365324,0,Comedy / Drama,2012-03-02 00:00:00
+Chicken with Plums,11301,1174417,0,Foreign,2012-08-17 00:00:00
+Lola Versus,31815,0,0,Comedy,2012-06-08 00:00:00
+Keep the Lights On,55574,0,0,Drama,2012-09-07 00:00:00
+The Waiting Room,7086,0,0,Documentary,2012-09-26 00:00:00
+My Uncle Rafael,109747,0,0,Comedy,2012-09-21 00:00:00
+Gerhard Richter Painting,13537,0,0,Foreign,2012-03-14 00:00:00
+Trishna,29140,0,0,Drama,2012-07-13 00:00:00
+Middle of Nowhere (2012),67909,0,0,Drama,2012-10-12 00:00:00
+Elena,9035,0,0,Foreign,2012-05-16 00:00:00
+Tezz,148133,0,0,Foreign,2012-04-27 00:00:00
+The Viral Factor,63235,0,0,Foreign,2012-01-20 00:00:00
+Brooklyn Castle,18761,0,0,Documentary,2012-10-19 00:00:00
+Neil Young Journeys,12025,0,0,Documentary,2012-06-29 00:00:00
+Thaandavam,129044,0,0,Foreign / Action,2012-09-28 00:00:00
+Tai Chi Zero,85094,0,0,Foreign / Action,2012-10-19 00:00:00
+Polisse,16568,20162761,0,Foreign / Action,2012-05-18 00:00:00
+Somewhere Between,7799,0,0,Documentary,2012-08-24 00:00:00
+The House I Live In,16453,0,0,Documentary,2012-10-05 00:00:00
+The Awakening (2012),95933,0,0,Horror Thriller,2012-08-17 00:00:00
+Little White Lies,25654,48325382,0,Foreign,2012-08-24 00:00:00
+Easy Money (2012),24684,8164015,0,Foreign,2012-07-11 00:00:00
+Vettai,87921,0,0,Foreign / Action,2012-01-13 00:00:00
+Touchback,66998,0,0,Sports Drama,2012-04-13 00:00:00
+10 Years,22707,0,0,Comedy / Drama,2012-09-14 00:00:00
+Tim & Eric's Billion Dollar Movie,87475,0,0,Comedy,2012-03-02 00:00:00
+Any Day Now,40489,0,0,Drama,2012-12-14 00:00:00
+A Simple Life,43372,2610633,0,Foreign,2012-04-13 00:00:00
+Puella Magi Madoka Magica the Movie,62340,5635890,0,Animation,2012-10-19 00:00:00
+Lost Woods,58240,0,0,Sci-Fi Thriller,2012-03-02 00:00:00
+Fullmetal Alchemist:The Sacred Star of Milos,119300,0,0,Foreign,2012-01-20 00:00:00
+Tere Naal Love Ho Gaya,94583,0,0,Foreign,2012-02-24 00:00:00
+Monumental:In Search of America's National Treasure,28340,0,0,Documentary,2012-03-30 00:00:00
+The Hunter (2012),19032,0,0,Drama,2012-04-06 00:00:00
+Grand Illusion (2012 re-release),7526,0,0,Foreign,2012-05-11 00:00:00
+Battlefield America,113882,0,0,Music Drama,2012-06-01 00:00:00
+Flying Swords of Dragon Gate,95452,0,0,Foreign / Action,2012-08-31 00:00:00
+Joker,105366,0,0,Foreign,2012-08-31 00:00:00
+Dark Horse,13551,0,0,Drama,2012-06-08 00:00:00
+The Big Picture (2012),13760,0,0,Foreign,2012-10-12 00:00:00
+Crazy Horse,7963,0,0,Documentary,2012-01-18 00:00:00
+Elles,24286,753958,0,Foreign,2012-04-27 00:00:00
+Deadtime,30240,0,0,Horror Thriller,2012-05-11 00:00:00
+Shirin Farhad Ki Toh Nikal Padi,119743,0,0,Foreign,2012-08-24 00:00:00
+Sister (2012),15401,399891,0,Foreign,2012-10-05 00:00:00
+Unforgivable,27857,1151700,0,Foreign,2012-06-29 00:00:00
+Once Upon a Time in Anatolia,10952,1023441,0,Foreign,2012-01-04 00:00:00
+Bullhead,32267,0,0,Foreign,2012-02-17 00:00:00
+Chakravyuh,97896,0,0,Foreign,2012-10-24 00:00:00
+Hecho En Mexico,76123,0,0,Foreign,2012-11-30 00:00:00
+Simon and the Oaks,9964,2443359,0,Foreign,2012-10-12 00:00:00
+Deadly Renovations,42588,0,0,Horror,2012-06-08 00:00:00
+I Wish,10919,1397577,0,Foreign,2012-05-11 00:00:00
+From Beneath,47628,0,0,Horror,2012-08-10 00:00:00
+This Must Be the Place,7754,11647000,0,Comedy / Drama,2012-11-02 00:00:00
+Luv Shuv Tey Chicken Khurana,95364,0,0,Foreign,2012-11-02 00:00:00
+High School,82832,0,0,Comedy,2012-06-01 00:00:00
+Beloved (2012),25825,1537608,0,Foreign,2012-08-17 00:00:00
+Slaughter Creek,49392,0,0,Drama,2012-09-14 00:00:00
+Warriors of the Rainbow:Seediq Bale,57183,0,23000000,Foreign / Action,2012-04-27 00:00:00
+The Other Dream Team,19821,0,0,Documentary,2012-09-28 00:00:00
+Kumare,9601,0,0,Documentary,2012-06-20 00:00:00
+How to Survive a Plague,28250,0,0,Documentary,2012-09-21 00:00:00
+The Loneliest Planet,15689,0,0,Thriller,2012-10-26 00:00:00
+Forgiveness of Blood,26724,0,0,Foreign,2012-02-24 00:00:00
+Escape Fire,30953,0,0,Documentary,2012-10-05 00:00:00
+"Turn Me On, Dammit!",10145,0,0,Foreign,2012-03-30 00:00:00
+God Bless America,27308,0,0,Comedy,2012-05-11 00:00:00
+Iron Sky,0,8012949,0,Sci-Fi Comedy,2012-07-25 00:00:00
+Cowgirls n' Angels,54675,0,0,Family,2012-05-25 00:00:00
+Bel Ami,38018,8182799,0,Period Drama,2012-06-08 00:00:00
+Bullet Vanishes,43444,0,0,Foreign / Action,2012-08-31 00:00:00
+Beware of Mr. Baker,12195,0,0,Documentary,2012-11-28 00:00:00
+The Woman in the Fifth,33011,0,0,Thriller,2012-06-15 00:00:00
+Burn (2012),1970,0,0,Documentary,2012-11-09 00:00:00
+Follow Me:The Yoni Netanyahu Story,7882,0,0,Documentary,2012-05-04 00:00:00
+Wild Horse Wild Ride,3610,0,0,Documentary,2012-08-24 00:00:00
+The Obama Effect,83896,0,0,Comedy,2012-07-13 00:00:00
+The Perfect Family,14300,0,0,Comedy,2012-05-04 00:00:00
+5 Broken Cameras,6674,0,0,Foreign,2012-05-30 00:00:00
+Hello I Must Be Going,23904,0,0,Comedy / Drama,2012-09-07 00:00:00
+Butter,70931,70688,0,Comedy,2012-10-05 00:00:00
+The Magic of Belle Isle,10367,0,0,Comedy / Drama,2012-07-06 00:00:00
+"Oslo, August 31st",9564,0,0,Foreign,2012-05-25 00:00:00
+Wuthering Heights (2012),8956,0,0,Drama,2012-10-05 00:00:00
+Mugamoodi,55501,0,0,Foreign / Action,2012-08-31 00:00:00
+V/H/S,36402,0,0,Horror,2012-10-05 00:00:00
+360,12186,1563588,0,Drama,2012-08-03 00:00:00
+Hardflip,49879,0,0,Action Drama,2012-06-01 00:00:00
+Goodbye First Love,21077,0,0,Foreign,2012-04-20 00:00:00
+The Road (2012),56692,0,0,Foreign / Horror,2012-05-11 00:00:00
+Starlet,15662,0,0,Drama,2012-11-09 00:00:00
+Marina Abramovic:The Artist is Present,11041,0,0,Documentary,2012-06-13 00:00:00
+The Eye of the Storm,25785,0,0,Drama,2012-09-07 00:00:00
+Hating Breitbart,40673,0,0,Documentary,2012-10-19 00:00:00
+Harvest of Empire,0,0,0,Documentary,2012-09-28 00:00:00
+The Innkeepers,29557,0,0,Horror,2012-02-03 00:00:00
+This is Not a Film,12608,0,0,Documentary,2012-02-29 00:00:00
+The Island President,13998,0,0,Documentary,2012-03-28 00:00:00
+Hara-Kiri:Death of a Samurai,10920,3447775,0,Foreign / Action,2012-07-20 00:00:00
+On the Ice,17901,0,0,Drama / Thriller,2012-02-17 00:00:00
+Detachment,10739,0,0,Drama,2012-03-16 00:00:00
+The Invisible War,16500,0,0,Documentary,2012-06-22 00:00:00
+Runaway Slave,3626,0,0,Documentary,2012-07-06 00:00:00
+My Way (2012),17817,16467797,0,Foreign,2012-04-20 00:00:00
+Taur Mittran Di,49926,0,0,Foreign,2012-05-11 00:00:00
+An Inconsistent Truth,20733,0,0,Documentary,2012-01-27 00:00:00
+Intruders,40746,2943074,0,Horror Thriller,2012-03-30 00:00:00
+Klown,19683,12375005,0,Foreign,2012-07-27 00:00:00
+Deadfall (2012),19391,0,0,Crime,2012-12-07 00:00:00
+Toys in the Attic,19913,61551,0,Animation,2012-09-07 00:00:00
+Girlfriend Boyfriend - GF BF,29016,0,0,Foreign,2012-08-03 00:00:00
+The Details,18528,0,0,Comedy,2012-11-02 00:00:00
+Let the Bullets Fly,11287,104273875,0,Foreign / Action,2012-03-02 00:00:00
+Backwards,23190,0,0,Drama,2012-09-21 00:00:00
+The Bodyguard (2012 re-release),0,0,0,Romance,2012-03-28 00:00:00
+Neighboring Sounds,12666,0,0,Foreign,2012-08-24 00:00:00
+Gregory Crewdson:Brief Encounters,1492,0,0,Documentary,2012-11-02 00:00:00
+Declaration of War,12791,5841992,0,Foreign,2012-01-27 00:00:00
+Vulgaria,31097,0,0,Foreign,2012-09-28 00:00:00
+Side By Side,6956,0,0,Documentary,2012-08-17 00:00:00
+Beyond the Black Rainbow,4957,0,0,Sci-Fi,2012-05-18 00:00:00
+The Turin Horse,9145,0,0,Foreign,2012-02-10 00:00:00
+Natural Selection,10375,0,0,Comedy,2012-03-16 00:00:00
+Deitrick Haddon's A Beautiful Soul,46410,0,0,Drama,2012-05-04 00:00:00
+Dangerous Liaisons (2012),18027,0,0,Foreign,2012-11-09 00:00:00
+Surviving Progress,4161,0,0,Documentary,2012-04-06 00:00:00
+Free Men,0,564293,0,Foreign,2012-03-16 00:00:00
+A Trip to the Moon/The Extraordinary Voyage,2915,0,0,Documentary,2012-02-10 00:00:00
+Occupy Unmasked,40952,0,0,Documentary,2012-09-21 00:00:00
+Red Lights (2012),10340,13498550,0,Thriller,2012-07-13 00:00:00
+Jodi Breakers,52618,0,0,Foreign,2012-02-24 00:00:00
+Painted Skin:The Resurrection,17791,0,0,Foreign / Action,2012-08-17 00:00:00
+Wake in Fright,6761,0,0,Thriller,2012-10-05 00:00:00
+The Fitzgerald Family Christmas,13800,0,0,Drama,2012-12-07 00:00:00
+"All's Well, End's Well (2012)",23250,0,0,Foreign,2012-01-27 00:00:00
+War of the Buttons (2012),4737,13828480,0,Foreign,2012-10-12 00:00:00
+Sing Your Song,13459,0,0,Documentary,2012-01-13 00:00:00
+Step Up to the Plate,5643,0,0,Foreign,2012-09-14 00:00:00
+Ballplayer:Pelotero,20628,0,0,Documentary,2012-07-13 00:00:00
+The Pruitt-Igoe Myth,4721,0,0,Documentary,2012-01-20 00:00:00
+Union Square,14406,0,0,Comedy,2012-07-13 00:00:00
+Double Trouble,17978,0,0,Foreign,2012-06-08 00:00:00
+OC87,5733,0,0,Documentary,2012-05-25 00:00:00
+The Graduate:45th Anniversary Reunion,5778,0,0,Comedy / Drama,2012-04-11 00:00:00
+All Together,12887,7168000,0,Foreign,2012-10-19 00:00:00
+Nobody Else But You,3759,0,0,Foreign,2012-05-11 00:00:00
+Last Call at the Oasis,8899,0,0,Documentary,2012-05-04 00:00:00
+Fixing the Future,0,0,0,Documentary,2012-07-18 00:00:00
+Fat Kid Rules the World,1450,0,0,Comedy,2012-10-05 00:00:00
+The Comedy,6000,0,0,Drama,2012-11-09 00:00:00
+The FP,15465,0,0,Comedy,2012-03-16 00:00:00
+Paan Singh Tomar,20568,0,0,Foreign,2012-03-02 00:00:00
+Soldiers of Fortune,24978,1533142,0,Action / Adventure,2012-08-03 00:00:00
+Paul Williams Still Alive,6116,0,0,Documentary,2012-06-08 00:00:00
+Death by China,5701,0,0,Documentary,2012-08-17 00:00:00
+The Fairy,4199,0,0,Foreign,2012-02-24 00:00:00
+Wagner & Me,4891,41020,0,Documentary,2012-12-07 00:00:00
+Children of Paradise (2012 re-release),10741,0,0,Foreign,2012-03-09 00:00:00
+Mansome,18395,0,0,Documentary,2012-05-18 00:00:00
+The Inbetweeners Movie,36000,87989781,0,Comedy,2012-09-07 00:00:00
+Bangkok Revenge,22116,0,0,Foreign / Action,2012-09-14 00:00:00
+Fetih 1453:The Conquest of Constantinople,35730,34449107,0,Foreign / Action,2012-04-06 00:00:00
+Max et les Ferrailleurs (Max and the Junkmen) (2012 re-release),11264,0,0,Foreign,2012-08-10 00:00:00
+Comic-Con Episode IV:A Fan's Hope,8203,0,0,Documentary,2012-04-06 00:00:00
+Orchestra of Exiles,6719,0,0,Documentary,2012-10-26 00:00:00
+Hit So Hard,6500,0,0,Documentary,2012-04-13 00:00:00
+District of Corruption,25086,0,0,Documentary,2012-10-26 00:00:00
+Musical Chairs,9092,0,0,Romance,2012-03-23 00:00:00
+Celine & Julie Go Boating (re-issue),5624,0,0,Foreign,2012-05-04 00:00:00
+Whores' Glory,5358,0,0,Foreign,2012-04-27 00:00:00
+Kalakalappu@Masala Cafe,17101,0,0,Foreign,2012-05-11 00:00:00
+L!fe Happens,20186,0,0,Comedy,2012-04-13 00:00:00
+Meet the Fokkens,7628,0,0,Documentary,2012-08-08 00:00:00
+The Bay,19747,0,0,Horror Thriller,2012-11-02 00:00:00
+Hide Away (2012),689,0,0,Drama,2012-05-25 00:00:00
+Hermano,18835,1556003,0,Foreign,2012-08-24 00:00:00
+Sacrifice,15243,0,0,Foreign,2012-07-27 00:00:00
+You've Been Trumped,4497,0,0,Documentary,2012-08-03 00:00:00
+Kill List,9838,142697,0,Horror,2012-02-03 00:00:00
+Hitler's Children,2939,0,0,Documentary,2012-11-16 00:00:00
+North Sea Texas,4487,16685,0,Foreign,2012-11-02 00:00:00
+The Ambassador,13046,0,0,Documentary,2012-08-29 00:00:00
+Least Among Saints,15774,0,0,Drama,2012-10-12 00:00:00
+Port of Shadows (2012 re-issue),6618,0,0,Foreign,2012-09-14 00:00:00
+"The Devil, Probably (2012 re-release)",1688,0,0,Foreign,2012-01-13 00:00:00
+Here (2012),7927,0,0,Romance,2012-04-13 00:00:00
+"Pink Ribbons, Inc.",2721,0,0,Documentary,2012-06-01 00:00:00
+Django (2012 re-release),6150,0,0,Foreign,2012-12-21 00:00:00
+Nobody Walks,7269,0,0,Drama,2012-10-19 00:00:00
+Death of the Virgin,8628,0,0,Horror,2012-02-10 00:00:00
+In Another Country,3207,0,0,Drama,2012-11-09 00:00:00
+Sound of Noise,5877,0,0,Foreign,2012-03-09 00:00:00
+Otter 501,5444,0,0,Documentary,2012-05-11 00:00:00
+Radio Unnameable,5833,0,0,Documentary,2012-09-19 00:00:00
+Attenberg,3998,45925,0,Foreign,2012-03-09 00:00:00
+The Rabbi's Cat,4301,3711407,0,Animation,2012-12-07 00:00:00
+Hellbound?,3938,0,0,Documentary,2012-09-21 00:00:00
+The First Time,17061,0,0,Comedy / Drama,2012-10-19 00:00:00
+Keyhole,3294,0,0,Thriller,2012-04-06 00:00:00
+The Long Day Closes (2012 re-release),1407,0,0,Drama,2012-03-05 00:00:00
+Carol Channing:Larger Than Life,5000,0,0,Documentary,2012-01-20 00:00:00
+The Revisionaries,2608,0,0,Documentary,2012-10-05 00:00:00
+Losing Control,2196,0,0,Romantic Comedy,2012-03-23 00:00:00
+My Worst Nightmare,1142,7094036,0,Foreign,2012-10-19 00:00:00
+Better Than Something:Jay Reatard,5712,0,0,Documentary,2012-03-02 00:00:00
+Sedona,0,0,0,Adventure Comedy,2012-03-16 00:00:00
+Waiting for Lightning,19537,0,0,Documentary,2012-12-07 00:00:00
+Bonsai,2293,0,0,Foreign,2012-05-11 00:00:00
+Girl Model,4898,0,0,Documentary,2012-09-05 00:00:00
+Lay the Favorite,20998,1555689,0,Comedy,2012-12-07 00:00:00
+The Day,10121,0,0,Sci-Fi Thriller,2012-08-29 00:00:00
+The Highest Pass,10125,0,0,Documentary,2012-04-27 00:00:00
+Jesus Henry Christ,8192,0,0,Comedy / Drama,2012-04-20 00:00:00
+How to Grow a Band,5705,0,0,Documentary,2012-04-13 00:00:00
+In Over My Head,7476,0,0,Romantic Comedy,2012-10-26 00:00:00
+Tchoupitoulas,2379,0,0,Documentary,2012-12-07 00:00:00
+The Color Wheel,3884,0,0,Comedy,2012-05-18 00:00:00
+Sophomore,13097,0,0,Comedy,2012-01-13 00:00:00
+28 Hotel Rooms,1869,0,0,Drama,2012-11-09 00:00:00
+Chely Wright:Wish Me Away,5026,0,0,Documentary,2012-06-01 00:00:00
+Lovely Molly,12555,0,0,Horror Thriller,2012-05-18 00:00:00
+El Milagro De Marcelino Pan,17092,0,3000000,Foreign,2012-10-26 00:00:00
+Total Recall (2012 re-release),5788,0,0,Sci-Fi Action,2012-08-10 00:00:00
+Juan of the Dead,12000,0,0,Foreign,2012-03-16 00:00:00
+Payback (2012),2186,0,0,Documentary,2012-04-25 00:00:00
+4:44:Last Day on Earth,8355,0,0,Fantasy Drama,2012-03-23 00:00:00
+Little Birds,4574,0,0,Drama,2012-08-29 00:00:00
+Grandmaster,10479,0,0,Foreign / Action,2012-05-04 00:00:00
+The Understudy,0,0,0,Comedy / Drama,2012-03-16 00:00:00
+The Prophet's Son,8168,0,0,Drama,2012-09-29 00:00:00
+Inventing Our Life:The Kibbutz Experiment,6193,0,0,Documentary,2012-04-27 00:00:00
+Teddy Bear,5388,0,0,Foreign,2012-08-22 00:00:00
+Return (2012),6717,0,0,Drama,2012-02-10 00:00:00
+Alps,2628,0,0,Foreign,2012-07-13 00:00:00
+Long Shot:The Kevin Laue Story,16011,0,0,Documentary,2012-10-26 00:00:00
+Patience (After Sebald),5302,0,0,Documentary,2012-05-09 00:00:00
+$upercapitalist,8372,0,0,Thriller,2012-08-10 00:00:00
+This Binary Universe,1794,0,0,Documentary,2012-05-04 00:00:00
+Take Me Home,322,0,0,Romantic Comedy,2012-03-09 00:00:00
+Michael (2012),0,0,0,Foreign,2012-02-15 00:00:00
+Quill:The Life of a Guide Dog,1678,0,0,Foreign,2012-05-18 00:00:00
+California Solo,3412,0,0,Drama,2012-11-30 00:00:00
+A Little Bit of Heaven,10011,1281562,0,Romance,2012-05-04 00:00:00
+Only the Young,1446,0,0,Documentary,2012-12-07 00:00:00
+17 Girls,4449,186484,0,Foreign,2012-09-21 00:00:00
+Kung Fu Joe,3158,0,0,Comedy,2012-02-10 00:00:00
+Trade of Innocents,588,0,0,Thriller,2012-10-05 00:00:00
+30 Beats,8624,0,0,Romantic Comedy,2012-07-20 00:00:00
+Unraveled,9006,0,0,Documentary,2012-04-13 00:00:00
+Tristana (2012 re-release),4754,0,0,Foreign,2012-10-12 00:00:00
+Silent Night,9780,0,0,Horror,2012-11-30 00:00:00
+Space Dogs 3D,14408,8300000,0,Animation,2012-05-18 00:00:00
+Never Stand Still:Dancing at Jacob's Pillow,1951,0,0,Documentary,2012-05-18 00:00:00
+We Won't Grow Old Together (2012 re-release),1677,0,0,Foreign,2012-06-08 00:00:00
+Gayby,4792,0,0,Comedy / Drama,2012-10-12 00:00:00
+6 Month Rule,1963,0,0,Comedy,2012-06-01 00:00:00
+Head Games,1152,0,0,Documentary,2012-09-21 00:00:00
+Planet of Snail,2011,0,0,Documentary,2012-07-25 00:00:00
+Falling Away,1284,0,0,Drama,2012-03-02 00:00:00
+The Day He Arrives,3311,0,0,Foreign,2012-04-20 00:00:00
+Daisies (2012 re-release),6576,0,0,Foreign,2012-07-06 00:00:00
+The Law in These Parts,2814,0,0,Foreign,2012-11-16 00:00:00
+When the Iron Bird Flies,0,0,0,Documentary,2012-10-19 00:00:00
+Reuniting the Rubins,734,0,0,Family Comedy,2012-03-16 00:00:00
+Dysfunctional Friends,7409,0,5000000,Comedy,2012-02-03 00:00:00
+Citadel,5715,0,0,Horror Thriller,2012-11-09 00:00:00
+The Trouble with Bliss,4618,0,0,Romantic Comedy,2012-03-23 00:00:00
+Nothing But a Man (2012 re-release),3466,0,0,Romance,2012-11-09 00:00:00
+"How Much Does Your Building Weigh, Mr. Foster?",2759,0,0,Documentary,2012-01-25 00:00:00
+Norwegian Wood,13000,17623261,0,Foreign,2012-01-06 00:00:00
+Virginia,6915,0,0,Drama,2012-05-18 00:00:00
+Around June,0,0,0,Fantasy Drama,2012-02-24 00:00:00
+For Ellen,4616,0,0,Drama,2012-09-05 00:00:00
+Grassroots,6497,0,0,Comedy / Drama,2012-06-22 00:00:00
+Lost Angels:Skid Row is My Home,7039,0,0,Documentary,2012-12-07 00:00:00
+Ultrasuede,3968,0,0,Documentary,2012-01-20 00:00:00
+"Now, Forager",1539,0,0,Drama,2012-10-03 00:00:00
+Dragon (2012),11137,29140858,0,Foreign / Action,2012-11-30 00:00:00
+The Front Line,7188,0,0,Foreign / Action,2012-01-20 00:00:00
+Tales of the Night,7154,1709582,0,Animation,2012-09-26 00:00:00
+Henning Mankell's 'Wallander':The Revenge,2230,0,0,Foreign,2012-05-25 00:00:00
+The Man Who Shook the Hand of Vicente Fernandez,3099,0,0,Comedy / Drama,2012-12-07 00:00:00
+Special Forces,10759,0,0,Action,2012-10-12 00:00:00
+Found Memories,3874,0,0,Foreign,2012-06-01 00:00:00
+China Heavyweight,3792,0,0,Documentary,2012-07-06 00:00:00
+Santa Mesa,3846,0,0,Drama,2012-01-13 00:00:00
+Husbands in Goa,4483,0,0,Foreign,2012-09-21 00:00:00
+Putin's Kiss,1525,0,0,Foreign,2012-02-17 00:00:00
+Starry Starry Night,2312,0,0,Foreign,2012-03-23 00:00:00
+Arjun:The Warrior Prince,5527,0,0,Animation,2012-05-25 00:00:00
+The Do-Deca-Pentathlon,10000,0,0,Comedy,2012-07-06 00:00:00
+Post Mortem,2406,0,0,Foreign,2012-04-11 00:00:00
+Rec 3:Genesis,3001,10148447,0,Foreign / Horror,2012-09-07 00:00:00
+The City Dark,2983,0,0,Documentary,2012-01-18 00:00:00
+Decoding Deepak,9100,0,0,Documentary,2012-10-05 00:00:00
+Art of Submission,8759,0,0,Action Thriller,2012-09-21 00:00:00
+Three Stars,1003,0,0,Documentary,2012-09-21 00:00:00
+Corpo Celeste,2263,0,0,Foreign,2012-06-08 00:00:00
+Home Run Showdown,8824,0,0,Sports Comedy,2012-07-27 00:00:00
+The Man in the White Suit (2012 re-release),3874,0,0,Comedy,2012-11-16 00:00:00
+Man on a Mission,3430,0,0,Documentary,2012-01-13 00:00:00
+"Small, Beautiful Moving Parts",3087,0,0,Comedy,2012-05-11 00:00:00
+Mosquita y Mari,5070,0,0,Drama,2012-08-03 00:00:00
+General Education,282,0,0,Comedy,2012-08-24 00:00:00
+Cartas a Elena,7711,0,0,Foreign,2012-06-08 00:00:00
+The Snowtown Murders,1273,0,0,Thriller,2012-03-02 00:00:00
+Dreams of a Life,3085,0,0,Documentary,2012-08-03 00:00:00
+Restless City,8100,0,0,Drama,2012-04-27 00:00:00
+The Babymakers,5215,0,0,Comedy,2012-08-03 00:00:00
+Roadie (2012),2661,0,0,Drama,2012-01-06 00:00:00
+Photographic Memory,3006,0,0,Documentary,2012-10-12 00:00:00
+Last Days Here,2671,0,0,Documentary,2012-03-02 00:00:00
+Brooklyn Brothers Beat the Best,3850,0,0,Comedy,2012-09-21 00:00:00
+Bel Borba Aqui,1869,0,0,Foreign,2012-10-03 00:00:00
+Price Check,2783,0,0,Comedy / Drama,2012-11-16 00:00:00
+The Giant Mechanical Man,1789,0,0,Romantic Comedy,2012-04-27 00:00:00
+Domain (2012),2810,0,0,Foreign,2012-01-13 00:00:00
+"Love, Marilyn",4000,0,0,Documentary,2012-11-30 00:00:00
+Last Ride,838,0,0,Drama,2012-06-29 00:00:00
+In Our Nature,4378,0,0,Drama,2012-12-07 00:00:00
+Windfall,1780,0,0,Documentary,2012-02-03 00:00:00
+The Beat Hotel,1458,0,0,Documentary,2012-03-30 00:00:00
+Tonight You're Mine,2144,0,0,Comedy,2012-05-11 00:00:00
+Crazy Eyes,3259,0,0,Comedy,2012-07-06 00:00:00
+The Last Fall,6100,0,0,Drama,2012-10-26 00:00:00
+The Miners' Hymns,3217,0,0,Drama,2012-02-08 00:00:00
+Las Acacias,6000,0,0,Foreign,2012-09-07 00:00:00
+American Animal,5928,0,0,Comedy / Drama,2012-05-18 00:00:00
+Buzzkill,0,0,0,Comedy,2012-01-20 00:00:00
+Sushi:The Global Catch,516,0,0,Documentary,2012-08-03 00:00:00
+Save the Date,3755,0,0,Romantic Comedy,2012-12-14 00:00:00
+Bookers Place,2455,0,0,Documentary,2012-04-25 00:00:00
+Young and Wild,3798,0,0,Foreign,2012-11-30 00:00:00
+Universal Soldier:Day of Reckoning,3181,363719,0,Sci-Fi Action,2012-11-30 00:00:00
+The Good Doctor,3180,0,0,Thriller,2012-08-31 00:00:00
+Liar's Autobiography,5102,0,0,Animation,2012-11-02 00:00:00
+Downtown Express,3474,0,0,Drama,2012-04-20 00:00:00
+Bringing Up Bobby,1005,0,0,Family Comedy,2012-09-28 00:00:00
+Tomorrow When the War Began,3172,16500000,0,Action / Adventure,2012-02-24 00:00:00
+Brake,4330,0,0,Thriller,2012-03-21 00:00:00
+A Man Vanishes (2012 re-release),1576,0,0,Documentary,2012-11-15 00:00:00
+Breathing,949,802806,0,Foreign,2012-08-31 00:00:00
+Newlyweds,4584,0,0,Comedy / Drama,2012-01-13 00:00:00
+Art Is... The Permanent Revolution,2718,0,0,Documentary,2012-03-02 00:00:00
+Yangsi,0,0,0,Documentary,2012-12-07 00:00:00
+The Moth Diaries,2276,0,0,Sci-Fi Horror,2012-04-20 00:00:00
+Free Radicals:A History of Experimental Film,1350,0,0,Documentary,2012-08-03 00:00:00
+They Come to America,3775,0,0,Documentary,2012-03-31 00:00:00
+Bad Blood the Hunger,1872,0,0,Horror,2012-10-26 00:00:00
+Pickin & Grinnin,3003,0,0,Comedy,2012-09-07 00:00:00
+The Day I Saw Your Heart,2810,1963145,0,Foreign,2012-08-24 00:00:00
+Loosies,808,0,0,Comedy / Drama,2012-01-11 00:00:00
+Cirkus Columbia,1284,9529,0,Foreign,2012-02-17 00:00:00
+Vamps,548,0,0,Comedy,2012-11-02 00:00:00
+Sleepless Night,2106,0,0,Foreign / Action,2012-05-11 00:00:00
+After the Wizard,2527,0,0,Fantasy,2012-08-10 00:00:00
+Apart (2012),3161,0,0,Drama,2012-03-09 00:00:00
+ATM,2034,0,0,Thriller,2012-04-06 00:00:00
+About Cherry,2760,0,0,Drama,2012-09-21 00:00:00
+Perfect Sense,1567,0,0,Romance,2012-02-03 00:00:00
+Cheerful Weather for the Wedding,727,0,0,Romantic Comedy,2012-12-07 00:00:00
+Carl,2592,0,0,Horror Thriller,2012-04-27 00:00:00
+The Samaritan,1744,0,0,Thriller,2012-05-18 00:00:00
+The Ghastly Love of Johnny X,86,0,0,Fantasy Comedy,2012-10-26 00:00:00
+Why Stop Now?,1641,0,0,Comedy / Drama,2012-08-17 00:00:00
+Split:A Deeper Divide,2338,0,0,Documentary,2012-10-12 00:00:00
+Scorn,0,0,0,Drama,2012-03-01 00:00:00
+Patagonia Rising,981,0,0,Documentary,2012-06-08 00:00:00
+I Kissed a Vampire,1380,0,0,Musical,2012-03-30 00:00:00
+Dystopia 2013,1011,0,0,Action / Adventure,2012-01-13 00:00:00
+El Velador (The Night Watchman),378,0,0,Documentary,2012-07-06 00:00:00
+Where Are You Taking Me?,937,0,0,Documentary,2012-03-02 00:00:00
+Bestiaire,0,0,0,Documentary,2012-10-19 00:00:00
+Headshot,456,0,0,Foreign,2012-09-28 00:00:00
+Jason Becker:Not Dead Yet,319,0,0,Documentary,2012-12-12 00:00:00
+Snowman's Land,656,0,0,Foreign,2012-09-14 00:00:00
+Jack and Diane,294,0,0,Romance,2012-11-02 00:00:00
+The Decoy Bride,542,0,0,Comedy,2012-03-09 00:00:00
+Nature Calls,382,0,0,Comedy,2012-11-09 00:00:00
+Citizen Gangster,625,0,0,Crime Drama,2012-04-27 00:00:00
+Death of a Superhero,345,0,0,Drama,2012-05-04 00:00:00
+Gottfried Helnwein and the Dreaming Child,402,0,0,Documentary,2012-11-23 00:00:00
+Meeting Evil,181,0,0,Crime Drama,2012-05-04 00:00:00
+Apartment 143,256,425876,0,Horror,2012-06-01 00:00:00
+Playback,252,0,0,Horror Thriller,2012-03-16 00:00:00
+Harry Potter and the Deathly Hallows Part 2,169189427,960500000,0,Fantasy,2011-07-15 00:00:00
+Transformers:Dark of the Moon,97852865,771403536,195000000,Sci-Fi Action,2011-06-29 00:00:00
+The Twilight Saga:Breaking Dawn Part 1,138122261,430918723,110000000,Romance,2011-11-18 00:00:00
+The Hangover Part II,85946294,332300000,80000000,Comedy,2011-05-26 00:00:00
+Pirates of the Caribbean:On Stranger Tides,90151958,804642000,250000000,Period Adventure,2011-05-20 00:00:00
+Fast Five,86198765,416300000,125000000,Action,2011-04-29 00:00:00
+Mission:Impossible - Ghost Protocol,42341833,485315477,145000000,Action,2011-12-16 00:00:00
+Cars 2,66135507,368400000,200000000,Animation,2011-06-24 00:00:00
+Sherlock Holmes:A Game of Shadows,39637079,358600000,0,Adventure,2011-12-16 00:00:00
+Thor,65723338,268295994,150000000,Action / Adventure,2011-05-06 00:00:00
+Rise of the Planet of the Apes,54806191,305040864,93000000,Sci-Fi Action,2011-08-05 00:00:00
+Captain America:The First Avenger,65058524,193915269,140000000,Action / Adventure,2011-07-22 00:00:00
+The Help,26044590,46931000,25000000,Drama,2011-08-10 00:00:00
+Bridesmaids,26247410,119276798,0,Comedy,2011-05-13 00:00:00
+Kung Fu Panda 2,47656302,500443218,150000000,Animation,2011-05-26 00:00:00
+Puss in Boots,34077439,405726973,130000000,Animation,2011-10-28 00:00:00
+X-Men:First Class,55101604,207215819,160000000,Action / Adventure,2011-06-03 00:00:00
+Rio,39225962,341015951,90000000,Animation,2011-04-15 00:00:00
+The Smurfs,35611637,421135165,110000000,Family Comedy,2011-07-29 00:00:00
+Alvin and the Chipmunks:Chipwrecked,23244744,209584693,75000000,Family Comedy,2011-12-16 00:00:00
+Super 8,35451168,133091807,50000000,Sci-Fi,2011-06-10 00:00:00
+Rango,38079323,122246996,135000000,Animation,2011-03-04 00:00:00
+Horrible Bosses,28302165,92100000,35000000,Comedy,2011-07-08 00:00:00
+Green Lantern,53174303,103250000,200000000,Action / Adventure,2011-06-17 00:00:00
+Hop,37543710,75868418,63000000,Comedy,2011-04-01 00:00:00
+Paranormal Activity 3,52568183,103011037,5000000,Horror,2011-10-21 00:00:00
+Just Go With It,30514732,111917482,80000000,Romantic Comedy,2011-02-11 00:00:00
+The Girl with the Dragon Tattoo (2011),12768604,130101637,90000000,Thriller,2011-12-21 00:00:00
+Bad Teacher,31603106,115904636,20000000,Comedy,2011-06-24 00:00:00
+Cowboys & Aliens,36431290,74581774,163000000,Sci-Fi Action,2011-07-29 00:00:00
+Gnomeo and Juliet,25356909,94000000,0,Animation,2011-02-11 00:00:00
+The Green Hornet,33526876,129037206,120000000,Action / Adventure,2011-01-14 00:00:00
+The Lion King (in 3D),30151614,91300000,0,Animation,2011-09-16 00:00:00
+The Muppets,29239026,76553000,45000000,Family Comedy,2011-11-23 00:00:00
+Real Steel,27319677,213800000,0,Action Drama,2011-10-07 00:00:00
+"Crazy, Stupid, Love.",19104303,58500000,50000000,Comedy,2011-07-29 00:00:00
+Battle:Los Angeles,35573187,128266925,70000000,Sci-Fi Action,2011-03-11 00:00:00
+Immortals,32206425,143400000,75000000,Fantasy Drama,2011-11-11 00:00:00
+The Descendants,5570234,94659025,0,Comedy / Drama,2011-11-16 00:00:00
+Zookeeper,20065617,89491916,80000000,Comedy,2011-07-08 00:00:00
+War Horse,22043374,97700000,66000000,War,2011-12-25 00:00:00
+Limitless,18907302,82600000,27000000,Action Thriller,2011-03-18 00:00:00
+Tower Heist,24025190,74884053,75000000,Comedy,2011-11-04 00:00:00
+The Adventures of Tintin,9720993,296402120,0,Animation,2011-12-21 00:00:00
+Contagion,22403596,59800000,60000000,Action Thriller,2011-09-09 00:00:00
+We Bought a Zoo,9360434,44457291,0,Comedy / Drama,2011-12-23 00:00:00
+Moneyball,19501302,34600724,50000000,Sports Drama,2011-09-23 00:00:00
+Jack and Jill,25003575,75515631,79000000,Comedy,2011-11-11 00:00:00
+Hugo,11364505,111905653,0,Family Adventure,2011-11-23 00:00:00
+Justin Bieber:Never Say Never,29514054,26022917,13000000,Documentary,2011-02-11 00:00:00
+Dolphin Tale,19152401,23117618,37000000,Family,2011-09-23 00:00:00
+No Strings Attached,19652921,78565857,25000000,Comedy,2011-01-21 00:00:00
+Mr. Popper's Penguins,18445355,119137302,55000000,Family Comedy,2011-06-17 00:00:00
+Happy Feet Two,21237068,86400000,0,Animation,2011-11-18 00:00:00
+Unknown,21856389,67100000,30000000,Drama / Thriller,2011-02-18 00:00:00
+The Adjustment Bureau,21157730,65373734,0,Sci-Fi Thriller,2011-03-04 00:00:00
+Water for Elephants,16842353,58385185,38000000,Drama,2011-04-22 00:00:00
+The Lincoln Lawyer,13206453,17000000,40000000,Crime Drama,2011-03-18 00:00:00
+Midnight in Paris,6429726,94302174,17000000,Romantic Comedy,2011-05-20 00:00:00
+Friends with Benefits,18622150,93739491,35000000,Comedy,2011-07-22 00:00:00
+I Am Number Four,19449893,94778000,60000000,Sci-Fi Adventure,2011-02-18 00:00:00
+Source Code,14812094,92620470,32000000,Sci-Fi Thriller,2011-04-01 00:00:00
+New Year's Eve,13019180,87500000,56000000,Romantic Comedy,2011-12-09 00:00:00
+Insidious,13271464,43000000,0,Horror,2011-04-01 00:00:00
+Tyler Perry's Madea's Big Happy Family,25068677,816000,0,Comedy,2011-04-22 00:00:00
+Diary of a Wimpy Kid:Rodrick Rules,23751502,19718859,21000000,Comedy,2011-03-25 00:00:00
+Footloose (2011),15556113,11740586,24000000,Musical,2011-10-14 00:00:00
+The Dilemma,17816230,21246676,70000000,Comedy,2011-01-14 00:00:00
+Arthur Christmas,12068931,100957003,0,Animation,2011-11-23 00:00:00
+Hall Pass,13535374,38100000,36000000,Comedy,2011-02-25 00:00:00
+The Artist,2576681,88761174,15000000,Comedy / Drama,2011-11-25 00:00:00
+Soul Surfer,10601862,3235566,18000000,Sports Drama,2011-04-08 00:00:00
+Final Destination 5,18031396,115300000,40000000,Horror,2011-08-12 00:00:00
+The Ides of March,10470143,35030527,0,Thriller,2011-10-07 00:00:00
+Hanna,12370549,23522959,30000000,Adventure,2011-04-08 00:00:00
+Something Borrowed,13945368,21137332,35000000,Romantic Comedy,2011-05-06 00:00:00
+Spy Kids:All the Time in the World,11644672,47026122,27000000,Family Adventure,2011-08-19 00:00:00
+Scream 4,18692090,58957758,40000000,Horror,2011-04-15 00:00:00
+"Big Mommas:Like Father, Like Son",16300803,44770652,32000000,Action Comedy,2011-02-18 00:00:00
+Red Riding Hood,14005335,51500000,42000000,Drama / Thriller,2011-03-11 00:00:00
+In Time,12050368,136410501,40000000,Sci-Fi Thriller,2011-10-28 00:00:00
+Paul,13043310,60571070,40000000,Sci-Fi Comedy,2011-03-18 00:00:00
+J. Edgar,11217324,47300000,35000000,Drama,2011-11-09 00:00:00
+The Roommate,15002635,3192652,16000000,Thriller,2011-02-04 00:00:00
+Jumping the Broom,15215487,415216,0,Comedy,2011-05-06 00:00:00
+The Change-Up,13531115,38368962,52000000,Comedy,2011-08-05 00:00:00
+30 Minutes or Less,13330118,3493516,28000000,Action Comedy,2011-08-12 00:00:00
+Colombiana,10408176,24300000,40000000,Action,2011-08-26 00:00:00
+Sucker Punch,19058199,53400000,82000000,Action,2011-03-25 00:00:00
+Larry Crowne,13096065,36400000,30000000,Romantic Comedy,2011-07-01 00:00:00
+A Very Harold & Kumar 3D Christmas,12954142,326181,19000000,Comedy,2011-11-04 00:00:00
+Drive (2011),11340461,41114477,15000000,Action Drama,2011-09-16 00:00:00
+50/50,8644095,4173591,8000000,Comedy / Drama,2011-09-30 00:00:00
+Courageous,9112839,0,2000000,Drama,2011-09-30 00:00:00
+The Rite,14789393,63000000,37000000,Thriller,2011-01-28 00:00:00
+Arthur (2011),12222756,12700000,40000000,Comedy,2011-04-08 00:00:00
+Extremely Loud & Incredibly Close,10117680,23400000,0,Drama,2011-12-25 00:00:00
+The Debt,9909499,14458820,20000000,Drama / Thriller,2011-08-31 00:00:00
+The Sitter,9851435,4500862,25000000,Comedy,2011-12-09 00:00:00
+The Iron Lady,5633343,84938707,0,Drama,2011-12-30 00:00:00
+Priest,14953664,49172505,60000000,Action Horror,2011-05-13 00:00:00
+The Mechanic,11422006,32919000,40000000,Action,2011-01-28 00:00:00
+Abduction,10925253,54000000,35000000,Action,2011-09-23 00:00:00
+Beastly,9851102,15300000,17000000,Fantasy,2011-03-04 00:00:00
+Winnie the Pooh,7857076,6460000,30000000,Animation,2011-07-15 00:00:00
+Killer Elite,9352008,31258790,70000000,Action Thriller,2011-09-23 00:00:00
+Born to Be Wild (IMAX),871478,15205483,0,IMAX,2011-04-08 00:00:00
+Season of the Witch,10612375,66800000,40000000,Period Action,2011-01-07 00:00:00
+Our Idiot Brother,7011631,0,5000000,Comedy,2011-08-26 00:00:00
+"Tinker, Tailor, Soldier, Spy",5789083,56481215,0,Thriller,2011-12-09 00:00:00
+Don't Be Afraid of the Dark,8525728,12946486,25000000,Horror,2011-08-26 00:00:00
+Sanctum,9447930,85400000,30000000,Thriller,2011-02-04 00:00:00
+Monte Carlo,7453944,16480896,20000000,Romantic Comedy,2011-07-01 00:00:00
+Your Highness,9360020,3260033,0,Comedy,2011-04-08 00:00:00
+The Darkest Hour,8055998,43183292,30000000,Sci-Fi Thriller,2011-12-25 00:00:00
+Mars Needs Moms,6914488,17600000,150000000,Animation,2011-03-11 00:00:00
+Dream House,8129355,17200000,50000000,Thriller,2011-09-30 00:00:00
+Conan the Barbarian (2011),10021215,27500000,90000000,Action,2011-08-19 00:00:00
+The Three Musketeers (2011),8674452,111900000,75000000,Period Action,2011-10-21 00:00:00
+The Eagle,8684464,7631999,25000000,Period Action,2011-02-11 00:00:00
+Shark Night 3D,8404260,21259326,25000000,Horror,2011-09-02 00:00:00
+Fright Night (2011),7714388,22700000,30000000,Horror,2011-08-19 00:00:00
+Apollo 18,8704271,7875215,5000000,Sci-Fi Thriller,2011-09-02 00:00:00
+The Thing (2011),8493665,10500000,38000000,Sci-Fi Horror,2011-10-14 00:00:00
+Young Adult,3713422,6627456,12000000,Comedy / Drama,2011-12-09 00:00:00
+African Cats,6003200,15429000,0,Documentary,2011-04-22 00:00:00
+Judy Moody and the NOT Bummer Summer,6076859,677990,20000000,Comedy,2011-06-10 00:00:00
+My Week with Marilyn,2311604,20457349,0,Drama,2011-11-23 00:00:00
+What's Your Number?,5421669,16415012,20000000,Comedy,2011-09-30 00:00:00
+One Day,5079566,45545662,15000000,Romance,2011-08-19 00:00:00
+Warrior,5242107,9400000,25000000,Action,2011-09-09 00:00:00
+The Tree of Life,372920,41000000,32000000,Drama,2011-05-27 00:00:00
+The Rum Diary,5135369,10837729,45000000,Adventure,2011-10-28 00:00:00
+Glee The 3D Concert Movie,5961231,6800840,9000000,Concert,2011-08-12 00:00:00
+The Conspirator,3506602,3940596,25000000,Historical Drama,2011-04-15 00:00:00
+Jane Eyre,182885,23467967,0,Romance,2011-03-11 00:00:00
+Drive Angry,5187625,18210368,0,Action,2011-02-25 00:00:00
+Straw Dogs (2011),5123760,0,25000000,Thriller,2011-09-16 00:00:00
+Win Win,150362,651898,0,Comedy,2011-03-18 00:00:00
+Hoodwinked Too! Hood vs. Evil,4108630,6817189,30000000,Animation,2011-04-29 00:00:00
+Prom,4712638,0,8000000,Comedy / Drama,2011-04-29 00:00:00
+I Don't Know How She Does It,4402201,20889211,24000000,Comedy,2011-09-16 00:00:00
+Johnny English Reborn,3833300,151772616,45000000,Action Comedy,2011-10-21 00:00:00
+Kevin Hart:Laugh at My Pain,1908420,0,0,Concert,2011-09-09 00:00:00
+Sarah's Key,115708,13424906,0,Foreign,2011-07-22 00:00:00
+The Big Year,3251884,244247,41000000,Comedy,2011-10-14 00:00:00
+A Separation,59481,12800000,0,Foreign,2011-12-30 00:00:00
+Take Me Home Tonight,3464679,0,0,Comedy,2011-03-04 00:00:00
+Cedar Rapids,302968,0,0,Comedy,2011-02-11 00:00:00
+Beginners,141340,8520807,0,Drama,2011-06-03 00:00:00
+Flying Monsters,0,5107988,0,Documentary,2011-10-07 00:00:00
+A Dangerous Method,167953,21757332,0,Drama / Thriller,2011-11-23 00:00:00
+The Guard,76834,14200000,6000000,Comedy Thriller,2011-07-29 00:00:00
+Margin Call,561906,14150000,0,Thriller,2011-10-21 00:00:00
+Cave of Forgotten Dreams,139101,1162428,0,Documentary,2011-04-29 00:00:00
+Biutiful,457206,20046549,0,Foreign,2011-01-28 00:00:00
+Atlas Shrugged:Part I,1686347,0,20000000,Drama,2011-04-15 00:00:00
+Anonymous,1021768,10931795,30000000,Period Drama,2011-10-28 00:00:00
+The Company Men,647797,441305,15000000,Drama,2011-01-21 00:00:00
+Barney's Version (U.S. only),65241,4016256,30000000,Comedy / Drama,2011-01-14 00:00:00
+The Way,110418,0,0,Adventure,2011-10-07 00:00:00
+Seven Days in Utopia,1316910,0,0,Drama,2011-09-02 00:00:00
+Buck,67548,0,0,Documentary,2011-06-17 00:00:00
+Of Gods and Men,308895,38196671,0,Foreign,2011-02-25 00:00:00
+Shame,349519,13784673,0,Drama,2011-12-02 00:00:00
+Don 2,1673921,0,0,Foreign / Action,2011-12-22 00:00:00
+Pina,68012,11100000,0,Documentary,2011-12-23 00:00:00
+Like Crazy,123140,336098,0,Romance,2011-10-28 00:00:00
+The King's Speech (PG-13),1133162,0,0,Historical Drama,2011-04-01 00:00:00
+The Skin I Live In,223119,27656541,0,Foreign,2011-10-14 00:00:00
+Zindagi Na Milegi Dobara,960548,0,0,Foreign,2011-07-15 00:00:00
+From Prada to Nada,1115638,123276,0,Romantic Comedy,2011-01-28 00:00:00
+Melancholia,257174,12915473,0,Drama,2011-11-11 00:00:00
+Martha Marcy May Marlene,137651,547821,0,Drama,2011-10-21 00:00:00
+Everything Must Go,791676,0,5000000,Comedy / Drama,2011-05-13 00:00:00
+The Way Back,1218868,17646390,30000000,Drama,2011-01-21 00:00:00
+Carnage (2011),79795,25056022,0,Drama,2011-12-16 00:00:00
+Bucky Larson:Born to Be a Star,1415023,0,10000000,Comedy,2011-09-09 00:00:00
+RA One,0,33400000,0,Foreign,2011-10-26 00:00:00
+The Grace Card,1010299,0,0,Drama,2011-02-25 00:00:00
+Incendies (U.S. only),50679,1477434,0,Foreign,2011-04-22 00:00:00
+The Trip (2011),77904,0,0,Comedy,2011-06-10 00:00:00
+The Mighty Macs,963221,0,7000000,Sports Drama,2011-10-21 00:00:00
+Bodyguard,863751,0,0,Foreign,2011-08-31 00:00:00
+A Better Life,62087,0,10000000,Drama,2011-06-24 00:00:00
+We Need to Talk About Kevin,24587,4300250,0,Thriller,2011-12-09 00:00:00
+Take Shelter,52041,1369018,5000000,Drama,2011-09-30 00:00:00
+Potiche,86017,21556512,0,Foreign,2011-03-25 00:00:00
+Senna,73497,6600000,0,Documentary,2011-08-12 00:00:00
+I Am,10092,0,0,Documentary,2011-02-18 00:00:00
+Delhi Belly,581943,15173480,0,Foreign,2011-07-01 00:00:00
+The Double Hour,30246,1200809,0,Foreign,2011-04-15 00:00:00
+Bill Cunningham New York,33677,0,0,Documentary,2011-03-16 00:00:00
+The Art of Getting By,679160,0,0,Romance,2011-06-17 00:00:00
+Saving Private Perez,664517,7929739,0,Foreign,2011-09-02 00:00:00
+Certified Copy,77937,4081761,0,Foreign,2011-03-11 00:00:00
+The Devil's Double,96414,0,0,Drama,2011-07-29 00:00:00
+2011 Oscar Shorts,300706,0,0,Unknown,2011-02-11 00:00:00
+Snow Flower and the Secret Fan,134005,10000000,6000000,Historical Drama,2011-07-15 00:00:00
+"No Eres Tu, Soy Yo",588938,0,0,Foreign,2011-04-08 00:00:00
+Another Earth,77740,455741,0,Drama,2011-07-22 00:00:00
+"Beats, Rhymes & Life:The Travels of a Tribe Called Quest",111982,0,0,Documentary,2011-07-08 00:00:00
+Kill the Irishman,145430,0,0,Action / Crime,2011-03-11 00:00:00
+Dylan Dog:Dead of Night,754779,3447524,0,Horror Comedy,2011-04-29 00:00:00
+The Whistleblower,61002,0,0,Drama,2011-08-05 00:00:00
+Red State,204230,0,0,Horror Thriller,2011-03-05 00:00:00
+The Heart Specialist,473062,0,0,Romantic Comedy,2011-01-14 00:00:00
+Desi Boyz,702325,0,0,Foreign,2011-11-25 00:00:00
+There Be Dragons,705537,0,36000000,Drama,2011-05-06 00:00:00
+Page One:A Year Inside the New York Times,28911,0,0,Documentary,2011-06-17 00:00:00
+Attack the Block,139506,4800000,13000000,Sci-Fi Comedy,2011-07-29 00:00:00
+In a Better World,33058,8621728,0,Foreign,2011-04-01 00:00:00
+Yamla Pagla Deewana,504116,600170,0,Foreign,2011-01-14 00:00:00
+Rockstar (2011),612235,0,0,Foreign,2011-11-11 00:00:00
+Meek's Cutoff,20024,0,2000000,Western,2011-04-08 00:00:00
+The Beaver,107577,6322889,21000000,Comedy / Drama,2011-05-06 00:00:00
+Ready,460238,0,0,Foreign,2011-06-03 00:00:00
+Sholem Aleichem:Laughing in the Darkness,20247,0,0,Documentary,2011-07-08 00:00:00
+Higher Ground,21495,0,2000000,Drama,2011-08-26 00:00:00
+The Lord of the Rings:The Return of the King (2011 re-release),0,0,0,Fantasy,2011-06-28 00:00:00
+13 Assassins,45854,16752363,0,Foreign,2011-04-29 00:00:00
+Pariah,48579,0,0,Drama,2011-12-28 00:00:00
+The Lord of the Rings:The Fellowship of the Ring (2011 re-release),0,0,0,Fantasy,2011-06-14 00:00:00
+The Lord of the Rings:The Two Towers (2011 re-release),0,0,0,Fantasy,2011-06-21 00:00:00
+Forks Over Knives,17645,0,0,Documentary,2011-01-07 00:00:00
+Mausam,459024,0,0,Foreign,2011-09-23 00:00:00
+The Women on the 6th Floor,26200,22547488,0,Foreign,2011-10-07 00:00:00
+The Polar Express (2011 re-issue),55299,0,0,Animation,2011-11-25 00:00:00
+Point Blank,41031,8521942,0,Foreign,2011-07-29 00:00:00
+The Hedgehog,39276,12013672,0,Foreign,2011-08-19 00:00:00
+Mozart's Sister,34046,131769,0,Foreign,2011-08-19 00:00:00
+Hobo With a Shotgun,12046,0,0,Action,2011-05-06 00:00:00
+Tabloid,91201,0,0,Documentary,2011-07-15 00:00:00
+My Afternoons with Margueritte,20900,13590321,0,Foreign,2011-09-16 00:00:00
+Terri,65103,0,0,Comedy,2011-07-01 00:00:00
+Aarakshan (Reservation),344661,0,0,Foreign,2011-08-12 00:00:00
+POM Wonderful Presents:The Greatest Movie Ever Sold,118294,0,0,Documentary,2011-04-22 00:00:00
+The Last Lions,53344,0,0,Documentary,2011-02-18 00:00:00
+Le Havre,26363,9886948,0,Foreign,2011-10-21 00:00:00
+Dhobi Ghat (Mumbai Diaries),365297,102076,0,Foreign,2011-01-21 00:00:00
+The Future,27137,0,0,Drama,2011-07-29 00:00:00
+Dum Maaro Dum,327523,0,0,Foreign,2011-04-22 00:00:00
+The Greatest Miracle,35768,2464216,0,Animation,2011-10-14 00:00:00
+Double Dhamaal,301831,0,0,Foreign,2011-06-24 00:00:00
+Winter in Wartime,14937,8652414,0,Foreign,2011-03-18 00:00:00
+Love Crime,35375,3068869,0,Foreign,2011-09-02 00:00:00
+Machine Gun Preacher,45130,2800000,30000000,Action,2011-09-23 00:00:00
+Even the Rain,53730,5292313,0,Foreign,2011-02-18 00:00:00
+The Names of Love,30372,4076876,0,Foreign,2011-06-24 00:00:00
+Creature (2011),327000,0,0,Horror,2011-09-09 00:00:00
+Bride Flight,54044,3672134,0,Drama,2011-06-10 00:00:00
+Mere Brother Ki Dulhan,403017,0,0,Foreign,2011-09-09 00:00:00
+Weekend (2011),27245,0,0,Drama,2011-09-23 00:00:00
+Queen to Play,28092,0,0,Foreign,2011-04-01 00:00:00
+Pearl Jam Twenty,102448,0,0,Documentary,2011-09-20 00:00:00
+Submarine,41832,397057,0,Comedy / Drama,2011-06-03 00:00:00
+Thank You (2011),244183,4988000,0,Foreign,2011-04-08 00:00:00
+Detective Dee and the Mystery of the Phantom Flame,52617,51263449,0,Foreign,2011-09-02 00:00:00
+Circumstance,43318,0,0,Drama,2011-08-26 00:00:00
+No One Killed Jessica,227473,193154,0,Foreign,2011-01-07 00:00:00
+Project Nim,25820,0,0,Documentary,2011-07-08 00:00:00
+The 5th Quarter,202342,0,0,Drama,2011-03-25 00:00:00
+Turtle:The Incredible Journey,69389,0,0,Documentary,2011-06-24 00:00:00
+Hesher,126046,0,7000000,Comedy / Drama,2011-05-13 00:00:00
+Miral,66244,527227,0,Drama,2011-03-25 00:00:00
+Mooz-lum,139835,0,0,Drama,2011-02-11 00:00:00
+Poetry,18900,1874491,0,Foreign,2011-02-11 00:00:00
+The Princess of Montpensier,23456,6422693,0,Foreign,2011-04-15 00:00:00
+Singham,161063,0,0,Foreign,2011-07-22 00:00:00
+The First Grader,20437,382416,0,Drama,2011-05-13 00:00:00
+Super,46549,0,0,Comedy,2011-04-01 00:00:00
+L'Amour Fou,37250,0,0,Foreign,2011-05-13 00:00:00
+The Mill and the Cross,11354,30332,0,Historical Drama,2011-09-14 00:00:00
+Being Elmo:A Puppeteer's Journey,22963,0,0,Documentary,2011-10-21 00:00:00
+In the Land of Blood and Honey,18854,0,0,Drama,2011-12-23 00:00:00
+The Interrupters,7920,0,0,Documentary,2011-07-29 00:00:00
+Rascals,168082,0,0,Foreign,2011-10-07 00:00:00
+The Black Power Mix Tape:1967-1975,17316,0,0,Documentary,2011-09-09 00:00:00
+7 Khoon Maaf,164153,94724,0,Foreign,2011-02-18 00:00:00
+Conan O'Brien Can't Stop,97043,0,0,Documentary,2011-06-24 00:00:00
+Munger Road,36605,0,0,Horror,2011-09-30 00:00:00
+Phil Ochs:There But For Fortune,18211,0,0,Documentary,2011-01-05 00:00:00
+The Music Never Stopped,76543,0,0,Drama,2011-03-18 00:00:00
+Passione,15377,0,0,Concert,2011-06-22 00:00:00
+Trollhunter,5585,3906234,0,Foreign,2011-06-10 00:00:00
+Life in a Day,45202,0,0,Documentary,2011-07-29 00:00:00
+War of the Arrows,24041,45827299,0,Foreign,2011-09-30 00:00:00
+My Perestroika,17680,0,0,Documentary,2011-03-23 00:00:00
+El Bulli:Cooking in Progress,12756,0,0,Foreign,2011-07-27 00:00:00
+Gainsbourg:A Heroic Life,25189,11987449,0,Foreign,2011-08-31 00:00:00
+Brighton Rock,32774,1599367,12000000,Period Drama,2011-08-26 00:00:00
+Into the Abyss,47559,0,0,Documentary,2011-11-11 00:00:00
+Tucker & Dale Vs. Evil,52843,4525678,0,Horror Comedy,2011-09-30 00:00:00
+HappyThankYouMorePlease,35063,0,0,Romantic Comedy,2011-03-04 00:00:00
+The Afflicted,90272,0,0,Horror,2011-10-21 00:00:00
+Ip Man 2:Legend of the Grandmaster,61057,14856127,0,Foreign / Action,2011-01-28 00:00:00
+"Filth to Ashes, Flesh to Dust",86086,0,0,Horror Comedy,2011-09-30 00:00:00
+Blackthorn,15254,422970,0,Western,2011-10-07 00:00:00
+A Good Old Fashioned Orgy,117564,0,0,Comedy,2011-09-02 00:00:00
+October Baby,102096,0,0,Drama,2011-10-28 00:00:00
+Bol,62473,0,0,Drama,2011-08-31 00:00:00
+Amigo,37324,0,0,Drama,2011-08-19 00:00:00
+Uncle Boonmee Who Can Recall His Past Lives,23540,946353,0,Foreign,2011-03-02 00:00:00
+Jig,70432,0,0,Documentary,2011-06-17 00:00:00
+"The Man Nobody Knew:In Search of My Father, CIA Spymaster William Colby",15411,0,0,Documentary,2011-09-23 00:00:00
+Go For It,119714,0,0,Comedy / Drama,2011-05-13 00:00:00
+Bellflower,22279,0,0,Thriller,2011-08-05 00:00:00
+The Last Godfather,101779,16586583,0,Comedy,2011-04-01 00:00:00
+Nostalgia for the Light,5664,13672,0,Documentary,2011-01-13 00:00:00
+Restless (2011),15467,0,8000000,Drama,2011-09-16 00:00:00
+Young Goethe in Love,17143,5626590,0,Foreign,2011-11-04 00:00:00
+Pastorela,82175,2748653,0,Foreign,2011-12-02 00:00:00
+The Housemaid,16670,14617654,0,Foreign,2011-01-21 00:00:00
+Chasing Madoff,0,0,0,Documentary,2011-08-26 00:00:00
+Magic Trip,14367,0,0,Documentary,2011-08-05 00:00:00
+Sex and Zen 3D:Extreme Ecstasy,903,6216148,0,Foreign,2011-08-12 00:00:00
+Eames:The Architect and the Painter,0,0,0,Documentary,2011-11-11 00:00:00
+Le Quattro Volte,16192,102861,0,Foreign,2011-03-30 00:00:00
+Beginning of the Great Revival,65866,58158179,0,Foreign,2011-06-24 00:00:00
+Revenge of the Electric Car,17482,0,0,Documentary,2011-10-21 00:00:00
+Gun Hill Road,37963,0,0,Drama,2011-08-05 00:00:00
+Thunder Soul,51260,0,0,Documentary,2011-09-23 00:00:00
+Oranges and Sunshine,18600,2438821,0,Drama,2011-10-21 00:00:00
+The Human Centipede 2:Full Sequence,49456,0,0,Horror,2011-10-07 00:00:00
+Cold Weather,14513,0,0,Thriller,2011-02-04 00:00:00
+Game (2011),83783,0,0,Foreign / Action,2011-04-01 00:00:00
+The Double,26640,3558311,0,Thriller,2011-10-28 00:00:00
+Labios Rojos,73476,0,0,Foreign,2011-10-14 00:00:00
+I Will Follow,56176,0,0,Drama,2011-03-11 00:00:00
+1911,55850,0,0,Foreign,2011-10-07 00:00:00
+"Life, Above All",13788,0,0,Foreign,2011-07-15 00:00:00
+Evangelion 2.0:You Can (Not) Advance,84157,41028401,0,Foreign,2011-01-21 00:00:00
+Tomboy (2011),7078,0,0,Foreign,2011-11-16 00:00:00
+I Saw the Devil,13567,12644780,0,Foreign,2011-03-04 00:00:00
+What Women Want (Wo Zhi Nu Run Xin),53224,11707836,0,Foreign,2011-02-03 00:00:00
+Inni,14903,0,0,Documentary,2011-10-28 00:00:00
+The Last Mountain,17570,0,0,Documentary,2011-06-03 00:00:00
+City of Life and Death,5610,10564758,12000000,Foreign,2011-05-11 00:00:00
+Trust (2011),58214,0,4000000,Drama,2011-04-01 00:00:00
+Kaboom,13714,421038,0,Sci-Fi Comedy,2011-01-28 00:00:00
+The Undefeated (2011),65132,0,0,Documentary,2011-07-15 00:00:00
+Blank City,13989,0,0,Documentary,2011-04-06 00:00:00
+35 and Ticking,29808,0,0,Romantic Comedy,2011-05-20 00:00:00
+Mysteries of Lisbon,12308,14911,0,Foreign,2011-08-05 00:00:00
+Steve Jobs:The Lost Interview,0,0,0,Documentary,2011-11-16 00:00:00
+Henry's Crime,8726,102399,0,Comedy,2011-04-08 00:00:00
+In the Family,0,0,0,Drama,2011-11-04 00:00:00
+Rubber,16346,0,0,Horror Comedy,2011-04-01 00:00:00
+Rejoice and Shout,6589,0,0,Documentary,2011-06-03 00:00:00
+Elite Squad:The Enemy Within,8648,62927562,0,Foreign / Action,2011-11-11 00:00:00
+The Man Who Fell to Earth (35th anniversary re-issue),5922,0,0,Sci-Fi,2011-06-24 00:00:00
+Last Night,29505,7644937,0,Romance,2011-05-06 00:00:00
+A Little Help,44870,0,0,Comedy,2011-07-22 00:00:00
+Chalo Dilli,38268,0,0,Foreign,2011-04-29 00:00:00
+My Reincarnation,6498,0,0,Documentary,2011-10-28 00:00:00
+American:The Bill Hicks Story,5872,0,0,Documentary,2011-04-08 00:00:00
+Evil Bong 3-D,24775,0,0,Sci-Fi Comedy,2011-04-08 00:00:00
+Exporting Raymond,35292,0,0,Documentary,2011-04-29 00:00:00
+Crazy Wisdom,10304,0,0,Documentary,2011-11-25 00:00:00
+Vidal Sassoon:The Movie,13053,38558,0,Documentary,2011-02-11 00:00:00
+Carancho,15810,3889394,0,Foreign,2011-02-11 00:00:00
+Wretches & Jabberers,0,0,0,Documentary,2011-04-01 00:00:00
+The Robber,2169,125024,0,Foreign,2011-02-03 00:00:00
+The Whale,4835,0,0,Documentary,2011-09-09 00:00:00
+Inkubus,0,0,0,Horror,2011-10-28 00:00:00
+Circo,5403,0,0,Documentary,2011-04-01 00:00:00
+Beautiful Boy,16162,0,0,Drama,2011-06-03 00:00:00
+To Catch a Dollar,0,0,0,Documentary,2011-03-31 00:00:00
+The Conquest,16273,0,0,Foreign,2011-11-11 00:00:00
+The Tree,4983,2148024,0,Drama,2011-07-15 00:00:00
+Fireflies in the Garden,36884,3322561,8000000,Drama,2011-10-14 00:00:00
+The Warring States,35381,11800000,0,Foreign,2011-04-22 00:00:00
+Puncture,29175,0,0,Drama,2011-09-23 00:00:00
+Heartbeats,7197,519660,0,Foreign,2011-02-25 00:00:00
+A Beautiful Life,23605,0,0,Foreign,2011-05-20 00:00:00
+Shaolin,19132,33596775,0,Foreign,2011-09-09 00:00:00
+Battle of the Brides (Co Dau Dai Chien),23612,0,0,Foreign,2011-05-06 00:00:00
+The Human Resources Manager,8528,328974,0,Foreign,2011-03-04 00:00:00
+Public Speaking,6260,0,0,Documentary,2011-02-23 00:00:00
+Trigun:Badlands Rumble,29201,0,0,Foreign,2011-07-08 00:00:00
+If a Tree Falls:A Story of the Earth Liberation Front,5634,0,0,Documentary,2011-06-22 00:00:00
+Viva Riva!,10314,0,0,Foreign,2011-06-10 00:00:00
+How to Live Forever,3716,0,0,Documentary,2011-05-13 00:00:00
+Limelight,9259,0,0,Documentary,2011-09-23 00:00:00
+Crime After Crime,3215,0,0,Documentary,2011-07-01 00:00:00
+3 (2011),9821,2551601,0,Drama,2011-09-16 00:00:00
+Murder 2,0,0,0,Foreign,2011-07-08 00:00:00
+Farmageddon,2699,0,0,Documentary,2011-06-17 00:00:00
+Finding Joe,8753,0,0,Documentary,2011-09-30 00:00:00
+Into Eternity,3530,0,0,Documentary,2011-02-02 00:00:00
+Dirty Girl,17859,0,0,Drama,2011-10-07 00:00:00
+Snowmen,54333,0,0,Family,2011-10-21 00:00:00
+The Other F Word,15792,0,0,Documentary,2011-11-04 00:00:00
+"Women, Art, Revolution",5791,0,0,Documentary,2011-06-01 00:00:00
+Over Your Cities Grass Will Grow,7272,0,0,Foreign,2011-08-10 00:00:00
+Battleship Potemkin (2011 re-issue),5641,0,0,War,2011-01-14 00:00:00
+Legend of the Fist:The Return of Chen Zhen,11365,26516816,0,Foreign,2011-04-22 00:00:00
+Putty Hill,4868,0,0,Drama,2011-02-18 00:00:00
+Pianomania,2238,0,0,Documentary,2011-05-27 00:00:00
+Orgasm Inc.,8773,0,0,Documentary,2011-02-11 00:00:00
+The Perfect Host,7505,0,0,Thriller,2011-07-01 00:00:00
+Love U Mr. Kalakaar,38268,0,0,Foreign,2011-05-13 00:00:00
+"Lebanon, Pa.",6675,0,0,Drama,2011-04-29 00:00:00
+"The Butcher, the Chef and the Swordsman",23425,1987281,0,Foreign / Action,2011-03-18 00:00:00
+Alabama Moon,6568,0,0,Family Adventure,2011-03-18 00:00:00
+Went The Day Well? (2011 re-release),7849,0,0,Drama,2011-05-20 00:00:00
+Diary of a Country Priest (2011 re-release),7674,0,0,Foreign,2011-02-25 00:00:00
+Connected,13301,0,0,Documentary,2011-09-16 00:00:00
+The Woodmans,5874,0,0,Documentary,2011-01-19 00:00:00
+Margaret,7525,0,14000000,Drama,2011-09-30 00:00:00
+Every Day,9857,0,3000000,Comedy / Drama,2011-01-14 00:00:00
+Rapt,5872,2884581,0,Foreign,2011-07-06 00:00:00
+Texas Killing Fields,8772,911771,0,Crime Thriller,2011-10-14 00:00:00
+CornerStore,12743,0,0,Comedy,2011-08-12 00:00:00
+"Happy, Happy",7125,0,0,Foreign,2011-09-16 00:00:00
+Outrage (2011),6518,8383891,0,Foreign,2011-12-02 00:00:00
+The Bride Wore Black (2011 re-release),6463,0,0,Foreign,2011-11-04 00:00:00
+Desert Flower,7657,14587029,0,Drama,2011-03-18 00:00:00
+Granito:How to Nail a Dictator,4330,0,0,Documentary,2011-09-14 00:00:00
+Le Rayon Vert (Summer),4957,0,0,Foreign,2011-06-09 00:00:00
+Bereavement,20744,0,0,Horror,2011-03-04 00:00:00
+Love Etc.,8781,0,0,Documentary,2011-07-01 00:00:00
+3 Backyards,11332,0,0,Drama,2011-03-11 00:00:00
+Down for Life,23176,0,0,Drama,2011-01-14 00:00:00
+The Myth of the American Sleepover,8700,0,0,Comedy / Drama,2011-07-22 00:00:00
+Hell and Back Again,3413,0,0,Documentary,2011-10-05 00:00:00
+The Last Circus,4757,3178118,0,Foreign,2011-08-19 00:00:00
+Louder Than a Bomb,2300,0,0,Documentary,2011-05-18 00:00:00
+Road to Nowhere,2521,121325,0,Romantic Thriller,2011-06-10 00:00:00
+Addiction Incorporated,1629,0,0,Documentary,2011-12-14 00:00:00
+Khodorkovsky,6110,0,0,Foreign,2011-11-30 00:00:00
+Where Soldiers Come From,0,0,0,Documentary,2011-09-09 00:00:00
+A Somewhat Gentle Man,2506,1787171,0,Foreign,2011-01-14 00:00:00
+Sleeping Beauty (2011) (II),9207,0,0,Drama,2011-12-02 00:00:00
+My Kingdom (2011),16816,0,0,Foreign,2011-09-09 00:00:00
+Paul Goodman Changed My Life,5754,0,0,Documentary,2011-10-19 00:00:00
+Kinyarwanda,21097,0,0,Romance,2011-12-02 00:00:00
+When Harry Tries to Marry,23790,0,0,Romantic Comedy,2011-04-22 00:00:00
+Love in Space,13795,0,0,Foreign,2011-09-09 00:00:00
+Beautiful Darling,12406,0,0,Documentary,2011-04-22 00:00:00
+The Autobiography of Nicolae Ceausescu,4644,0,0,Foreign,2011-09-09 00:00:00
+Making the Boys,7513,0,0,Documentary,2011-03-11 00:00:00
+Stake Land,7258,0,0,Horror,2011-04-22 00:00:00
+American Teacher,6036,0,0,Documentary,2011-09-30 00:00:00
+Meet Monica Velour,7438,0,0,Comedy / Drama,2011-04-08 00:00:00
+Film Socialisme,4526,159069,0,Foreign,2011-06-03 00:00:00
+The Time That Remains,6453,1004636,0,Foreign,2011-01-07 00:00:00
+11-11-11,32771,5706613,0,Horror,2011-11-11 00:00:00
+Octubre,7054,96731,0,Foreign,2011-05-06 00:00:00
+"Hey, Boo:Harper Lee & To Kill A Mockingbird",5457,0,0,Documentary,2011-05-13 00:00:00
+Small Town Murder Songs,2810,0,0,Crime Thriller,2011-06-03 00:00:00
+White Irish Drinkers,16836,0,0,Drama,2011-03-25 00:00:00
+The Son of No One,18015,0,0,Crime Thriller,2011-11-04 00:00:00
+Muran,16490,0,0,Foreign,2011-09-30 00:00:00
+Cat Run,30000,0,0,Action Comedy,2011-04-01 00:00:00
+Evidence of a Haunting,16800,0,0,Horror,2011-08-26 00:00:00
+Cracks,9467,0,0,Drama,2011-03-18 00:00:00
+Redemption Road,19152,0,0,Drama,2011-08-26 00:00:00
+The Topp Twins:Untouchable Girls,2506,1791149,0,Documentary,2011-05-13 00:00:00
+The Sleeping Beauty,5973,0,0,Foreign,2011-07-08 00:00:00
+Garbo:The Spy,5593,0,0,Documentary,2011-11-18 00:00:00
+Salvation Boulevard,7208,0,0,Comedy Thriller,2011-07-15 00:00:00
+"Tuesday, After Christmas",6472,36225,0,Foreign,2011-05-25 00:00:00
+Giorgio Moroder Presents Metropolis,0,0,0,Sci-Fi,2011-10-07 00:00:00
+Jane's Journey,6193,0,0,Documentary,2011-09-16 00:00:00
+Clash (Bay Rong),12249,0,0,Foreign / Action,2011-03-11 00:00:00
+The Last Ride,16270,0,0,Drama,2011-10-21 00:00:00
+Caesar & Otto's Summer Camp Massacre,11375,0,0,Horror Comedy,2011-09-16 00:00:00
+Waiting for Forever,8917,0,5000000,Romance,2011-02-04 00:00:00
+The Other Woman,6224,426768,0,Drama,2011-02-04 00:00:00
+The Worst Movie EVER!,11,0,0,Action Comedy,2011-08-19 00:00:00
+Bonnie & Clyde Vs. Dracula,5688,0,0,Action,2011-03-11 00:00:00
+Harvest,5870,0,0,Drama,2011-05-06 00:00:00
+Immigration Tango,14432,0,0,Comedy,2011-02-18 00:00:00
+After,6333,0,0,Drama,2011-09-09 00:00:00
+Trespass (2011),16816,9588375,0,Crime Thriller,2011-10-14 00:00:00
+Ranchero,3826,0,0,Drama,2011-07-08 00:00:00
+Shut Up Little Man,0,0,0,Documentary,2011-08-26 00:00:00
+Raw Faith,0,0,0,Documentary,2011-06-24 00:00:00
+Lost Bohemia,0,0,0,Documentary,2011-05-20 00:00:00
+Vanishing on 7th Street,2898,1045953,0,Horror Thriller,2011-02-18 00:00:00
+Black Death,6692,242764,0,Adventure,2011-03-11 00:00:00
+Incendiary,7308,0,0,Documentary,2011-09-23 00:00:00
+Tyrannosaur,7635,0,0,Drama,2011-11-18 00:00:00
+Ceremony,6920,0,0,Comedy,2011-04-08 00:00:00
+All's Faire in Love,16440,0,0,Comedy,2011-10-28 00:00:00
+Four Adventures of Reinette and Mirabelle (2011 re-release),5051,0,0,Foreign,2011-07-20 00:00:00
+Answers to Nothing,14262,0,0,Drama,2011-12-02 00:00:00
+The Arbor,2638,104562,0,Documentary,2011-04-27 00:00:00
+Monogamy,4476,0,0,Drama,2011-03-11 00:00:00
+Always Kabhi Kabhi,14570,0,0,Foreign,2011-06-17 00:00:00
+Resurrect Dead:The Mystery of the Toynbee Tiles,3054,0,0,Documentary,2011-09-02 00:00:00
+Cameraman:The Work and Life of Jack Cardiff,1998,0,0,Documentary,2011-05-13 00:00:00
+Charlotte Rampling:The Look,5905,0,0,Documentary,2011-11-04 00:00:00
+Brotherhood (2011),7873,12694,0,Crime Drama,2011-02-18 00:00:00
+When We Leave (Die Fremde),6018,1052783,0,Foreign,2011-01-28 00:00:00
+Skateland,5254,0,0,Drama,2011-05-13 00:00:00
+House of Pleasures,4766,0,0,Foreign,2011-11-25 00:00:00
+Make Believe,0,0,0,Documentary,2011-05-13 00:00:00
+OKA!,4461,0,0,Foreign,2011-10-14 00:00:00
+Battle for Brooklyn,11141,0,0,Documentary,2011-06-17 00:00:00
+Cook County,7579,0,0,Drama,2011-12-16 00:00:00
+5 Days of War,6254,0,12000000,Action Drama,2011-08-19 00:00:00
+Littlerock,0,0,0,Drama,2011-08-12 00:00:00
+Archie's Final Project,3657,0,0,Comedy,2011-09-23 00:00:00
+Mia and the Migoo,16975,0,0,Animation,2011-03-25 00:00:00
+London Boulevard,3431,4628033,0,Crime Drama,2011-11-11 00:00:00
+Anchor Baby,3510,160842,0,Drama / Thriller,2011-07-08 00:00:00
+Dumbstruck,981,0,0,Documentary,2011-04-15 00:00:00
+I'm Not Jesus Mommy,5280,0,0,Horror,2011-05-06 00:00:00
+The Tenant (2011),750,0,0,Thriller,2011-04-15 00:00:00
+Ong Bak 3,5648,2325473,0,Foreign / Action,2011-01-14 00:00:00
+Armadillo,3958,1996770,0,Foreign,2011-04-15 00:00:00
+Peep World,6702,0,0,Comedy,2011-03-25 00:00:00
+Saheb Biwi Aur Gangster,9548,0,0,Foreign,2011-09-30 00:00:00
+Sympathy for Delicious,9448,0,0,Comedy / Drama,2011-04-29 00:00:00
+Benda Bilili!,1678,0,0,Foreign,2011-09-30 00:00:00
+Under the Boardwalk:The Monopoly Story,5054,0,0,Documentary,2011-03-04 00:00:00
+Leap Year (2011),2727,175263,0,Foreign,2011-06-24 00:00:00
+Bloodworth,9612,0,0,Drama,2011-05-20 00:00:00
+America the Beautiful 2:The Thin Commandments,5599,0,0,Documentary,2011-10-14 00:00:00
+Rebirth,2740,0,0,Documentary,2011-08-31 00:00:00
+Back Door Channels,3425,0,0,Documentary,2011-09-16 00:00:00
+"If I Want to Whistle, I Whistle",2999,219544,0,Foreign,2011-01-05 00:00:00
+Deep Gold,7000,0,0,Action,2011-04-22 00:00:00
+Rid of Me,2070,0,0,Comedy,2011-11-18 00:00:00
+Elektra Luxx,5601,0,0,Comedy,2011-03-11 00:00:00
+InSight,9571,0,0,Drama,2011-09-02 00:00:00
+The Woman with the Five Elephants,4988,0,0,Foreign,2011-07-20 00:00:00
+Sarah Palin - You Betcha!,6911,0,0,Documentary,2011-09-30 00:00:00
+Magic to Win,5125,0,0,Foreign,2011-12-09 00:00:00
+Frankie & Alice,0,0,0,Drama,2011-07-18 00:00:00
+"Marriage, Italian Style (2011 re-release)",4967,0,0,Foreign,2011-09-23 00:00:00
+Zero Bridge,3304,0,0,Foreign,2011-02-16 00:00:00
+The Heir Apparent:Largo Winch,2830,16923028,0,Foreign,2011-11-18 00:00:00
+The Prince of the Himalayas,0,0,0,Foreign,2011-12-23 00:00:00
+Miss Minoes,1901,0,0,Family,2011-12-23 00:00:00
+A Bird of the Air,3819,0,0,Romantic Comedy,2011-09-23 00:00:00
+A Screaming Man,2421,175226,0,Foreign,2011-04-13 00:00:00
+Vito Bonafacci,3027,0,0,Drama,2011-05-06 00:00:00
+The Ledge,5176,601770,0,Thriller,2011-07-08 00:00:00
+Special Treatment,678,285627,0,Foreign,2011-08-26 00:00:00
+How I Ended This Summer,4968,613911,0,Foreign,2011-02-04 00:00:00
+I'm Glad My Mother is Alive,3118,13152,0,Foreign,2011-09-02 00:00:00
+Lucky (2011),4986,0,0,Comedy,2011-07-15 00:00:00
+Another Happy Day,8464,347224,0,Drama,2011-11-18 00:00:00
+Korkoro,1224,618846,0,Foreign,2011-03-25 00:00:00
+Wrecked,2054,0,0,Thriller,2011-04-01 00:00:00
+King of Devil's Island,1039,4171990,0,Foreign,2011-11-18 00:00:00
+London River,1044,1073040,0,Drama,2011-12-07 00:00:00
+Good Neighbors,2953,0,0,Comedy Thriller,2011-07-29 00:00:00
+Corman's World,7000,0,0,Documentary,2011-12-16 00:00:00
+My Piece of the Pie,4213,0,0,Foreign,2011-12-09 00:00:00
+Janie Jones,0,0,0,Drama,2011-10-28 00:00:00
+I Melt With You,2729,0,0,Thriller,2011-12-09 00:00:00
+Chillar Party,4155,825820,0,Foreign,2011-07-08 00:00:00
+My Joy,2077,0,0,Foreign,2011-09-30 00:00:00
+"El Sicario, Room 164",2040,0,0,Foreign,2011-12-28 00:00:00
+The Family Tree,3658,0,0,Comedy / Drama,2011-08-26 00:00:00
+The Imperialists Are Still Alive!,2832,0,0,Drama,2011-04-15 00:00:00
+Aurora,2105,5098,0,Foreign,2011-06-29 00:00:00
+Rage (Rabia),952,402976,0,Foreign,2011-01-28 00:00:00
+Elevate,3547,0,0,Documentary,2011-10-21 00:00:00
+And They're Off,5154,0,0,Comedy,2011-10-28 00:00:00
+Tanner Hall,2803,0,0,Drama,2011-09-09 00:00:00
+Flypaper,1098,3137111,0,Crime Comedy,2011-08-19 00:00:00
+Burke and Hare,947,4344354,0,Comedy,2011-09-09 00:00:00
+The Catechism Cataclysm,897,0,0,Horror Comedy,2011-10-19 00:00:00
+Campus Radio,3196,0,0,Romantic Comedy,2011-02-04 00:00:00
+Daylight (2011),959,0,0,Horror Thriller,2011-07-15 00:00:00
+Caterpillar,2109,247765,0,Foreign,2011-05-06 00:00:00
+To Die Like a Man,2346,926,0,Foreign,2011-04-08 00:00:00
+The Harvest/La Cosecha,2245,0,0,Documentary,2011-07-29 00:00:00
+Passion Play,2100,0,0,Drama / Thriller,2011-05-06 00:00:00
+Building Hope,3500,0,0,Documentary,2011-06-03 00:00:00
+The Sons of Tennessee Williams,1492,0,0,Documentary,2011-10-07 00:00:00
+Plastic Planet,740,836258,0,Documentary,2011-01-14 00:00:00
+Balls to the Wall,3140,0,0,Comedy,2011-10-21 00:00:00
+The Weird World of Blowfly,1036,0,0,Documentary,2011-09-16 00:00:00
+The Lie,3000,0,0,Drama,2011-11-18 00:00:00
+Protektor,2968,468952,0,Foreign,2011-08-05 00:00:00
+Zokkomon,2815,0,0,Foreign,2011-04-22 00:00:00
+Blood Ties,2760,0,0,Action,2011-02-11 00:00:00
+Restitution,1779,0,0,Crime Thriller,2011-10-28 00:00:00
+United Red Army,1161,0,0,Foreign,2011-05-27 00:00:00
+Knuckle,2647,0,0,Documentary,2011-12-09 00:00:00
+Main Street,1553,0,0,Drama,2011-09-09 00:00:00
+Sidewalls,1304,0,0,Foreign,2011-10-26 00:00:00
+Pool Boys,0,0,0,Comedy,2011-09-30 00:00:00
+"Love, Wedding, Marriage",1378,0,0,Romantic Comedy,2011-06-03 00:00:00
+Now & Later,1516,0,0,Drama,2011-02-18 00:00:00
+Chalet Girl,192,1747747,0,Romantic Comedy,2011-10-14 00:00:00
+They're Out of Business,0,0,0,Comedy,2011-04-06 00:00:00
+The Tunnel (2011),507,0,0,Horror Thriller,2011-08-05 00:00:00
+Little Girl (La Pivellina),526,236085,0,Foreign,2011-09-02 00:00:00
+An Invisible Sign,0,0,0,Drama,2011-05-06 00:00:00
+Romeos,773,0,0,Foreign,2011-09-16 00:00:00
+Strangers Online,968,0,0,Drama / Thriller,2011-06-24 00:00:00
+Angels Crest,407,0,0,Drama,2011-12-30 00:00:00
+Redneck Carnage,325,0,0,Horror,2011-10-29 00:00:00
+Illegal (2011),404,289457,0,Foreign,2011-03-25 00:00:00
+A Good Day to Die,0,0,0,Documentary,2011-11-04 00:00:00
+Toy Story 3,110307189,648167031,200000000,Animation,2010-06-18 00:00:00
+Alice in Wonderland (2010),116101023,691276000,200000000,Family Adventure,2010-03-05 00:00:00
+Iron Man 2,128122480,311500000,200000000,Action / Adventure,2010-05-07 00:00:00
+The Twilight Saga:Eclipse,64832191,397959596,68000000,Romance,2010-06-30 00:00:00
+Harry Potter and the Deathly Hallows Part 1,125017372,664300000,0,Fantasy,2010-11-19 00:00:00
+Inception,62785337,532956569,160000000,Sci-Fi Action,2010-07-16 00:00:00
+Despicable Me,56397125,291600000,69000000,Animation,2010-07-09 00:00:00
+Shrek Forever After,70838207,513864080,165000000,Animation,2010-05-21 00:00:00
+How to Train Your Dragon,43732319,277297528,165000000,Animation,2010-03-26 00:00:00
+Tangled,48767052,390973000,260000000,Animation,2010-11-24 00:00:00
+The Karate Kid,55665805,182534404,40000000,Action Drama,2010-06-11 00:00:00
+Tron Legacy,44026211,228000000,170000000,Sci-Fi Action,2010-12-17 00:00:00
+True Grit,24830443,81033922,38000000,Western,2010-12-22 00:00:00
+Clash of the Titans (2010),61235105,330000105,125000000,Fantasy,2010-04-02 00:00:00
+Grown Ups,40506562,109429003,80000000,Comedy,2010-06-25 00:00:00
+Little Fockers,30833665,162211985,100000000,Comedy,2010-12-22 00:00:00
+Megamind,46016833,173469912,130000000,Animation,2010-11-05 00:00:00
+The King's Speech,4839802,275414100,15000000,Historical Drama,2010-11-26 00:00:00
+The Last Airbender,40325019,187941694,150000000,Fantasy,2010-07-01 00:00:00
+Shutter Island,41062440,166791261,80000000,Period Drama,2010-02-19 00:00:00
+The Other Guys,35543162,51212949,100000000,Action Comedy,2010-08-06 00:00:00
+Salt,36011243,175191986,110000000,Action Thriller,2010-07-23 00:00:00
+Jackass 3-D,50353641,54456100,20000000,Comedy,2010-10-15 00:00:00
+Valentine's Day,56260707,106000000,52000000,Romantic Comedy,2010-02-12 00:00:00
+Black Swan,9827288,222443368,13000000,Drama / Thriller,2010-12-03 00:00:00
+Robin Hood,36063385,216400011,200000000,Period Adventure,2010-05-14 00:00:00
+The Chronicles of Narnia:The Voyage of the Dawn Treader,24005069,311299267,155000000,Fantasy,2010-12-10 00:00:00
+The Expendables,34825135,171401870,80000000,Action,2010-08-13 00:00:00
+Due Date,32689406,111241781,65000000,Comedy,2010-11-05 00:00:00
+Yogi Bear,16411322,101338130,80000000,Family Comedy,2010-12-17 00:00:00
+Date Night,25207599,53552476,55000000,Comedy,2010-04-09 00:00:00
+The Social Network,22445653,127957621,40000000,Comedy / Drama,2010-10-01 00:00:00
+Sex and the City 2,31001870,193000000,100000000,Romantic Comedy,2010-05-27 00:00:00
+The Book of Eli,32789494,62272696,80000000,Action / Adventure,2010-01-15 00:00:00
+The Fighter,12435478,35573860,25000000,Sports Drama,2010-12-10 00:00:00
+The Town,23808032,61839874,37000000,Crime Drama,2010-09-17 00:00:00
+Prince of Persia:The Sands of Time,30095259,245606000,200000000,Adventure,2010-05-28 00:00:00
+Red,21761408,108626225,58000000,Action Comedy,2010-10-15 00:00:00
+Percy Jackson & The Olympians:The Lightning Thief,31236067,137728906,95000000,Fantasy,2010-02-12 00:00:00
+Paranormal Activity 2,40678424,92759125,3000000,Horror,2010-10-22 00:00:00
+Unstoppable,22688457,86242524,100000000,Action Thriller,2010-11-12 00:00:00
+Eat Pray Love,23104523,124020006,60000000,Drama,2010-08-13 00:00:00
+Dear John,30468614,34962262,25000000,Romance,2010-02-05 00:00:00
+The A-Team,25669455,100016697,110000000,Action,2010-06-11 00:00:00
+Knight & Day,20139985,185507401,117000000,Comedy,2010-06-23 00:00:00
+Dinner for Schmucks,23527839,13829402,69000000,Comedy,2010-07-30 00:00:00
+The Tourist,16472458,210715032,100000000,Romantic Thriller,2010-12-10 00:00:00
+The Bounty Hunter,20686423,69272294,40000000,Action Comedy,2010-03-19 00:00:00
+Diary of a Wimpy Kid,22126166,11696873,15000000,Comedy,2010-03-19 00:00:00
+The Sorcerer's Apprentice,17619622,152132751,150000000,Fantasy,2010-07-14 00:00:00
+A Nightmare on Elm Street (2010),32902299,52589026,35000000,Horror,2010-04-30 00:00:00
+The Last Song,16007426,26091272,20000000,Drama,2010-03-31 00:00:00
+The Wolfman,31479235,77810085,150000000,Horror,2010-02-12 00:00:00
+Get Him to the Greek,17570955,30287004,40000000,Comedy,2010-06-04 00:00:00
+Resident Evil:Afterlife,26650264,236093097,60000000,Action Horror,2010-09-10 00:00:00
+Tyler Perry's Why Did I Get Married Too?,29289537,578120,20000000,Comedy / Drama,2010-04-02 00:00:00
+Tooth Fairy,14010409,52440252,48000000,Fantasy Comedy,2010-01-22 00:00:00
+Secretariat,12694770,537416,35000000,Sports Drama,2010-10-08 00:00:00
+Easy A,17734040,16550841,8000000,Romantic Comedy,2010-09-17 00:00:00
+Takers,20512304,11310975,32000000,Action / Crime,2010-08-27 00:00:00
+Legend of the Guardians:The Owls of Ga'Hoole,16112211,84398077,80000000,Animation,2010-09-24 00:00:00
+Life as We Know It,14506464,52274025,38000000,Comedy,2010-10-08 00:00:00
+Letters to Juliet,13540486,26149297,30000000,Romance,2010-05-14 00:00:00
+Wall Street:Money Never Sleeps,19011188,82273405,70000000,Drama,2010-09-24 00:00:00
+Predators,24760882,75232420,40000000,Sci-Fi Horror,2010-07-09 00:00:00
+Hubble 3D,413477,20388356,0,IMAX,2010-03-19 00:00:00
+Hot Tub Time Machine,14020502,14284706,36000000,Comedy,2010-03-26 00:00:00
+Kick-Ass,19828687,48117600,30000000,Action Comedy,2010-04-16 00:00:00
+Killers,15837266,51100000,75000000,Action Comedy,2010-06-04 00:00:00
+Saw 3D,22530123,90440256,20000000,Horror,2010-10-29 00:00:00
+Cop Out,18211126,10708323,30000000,Comedy,2010-02-26 00:00:00
+Cats & Dogs:The Revenge of Kitty Galore,12279363,68898011,85000000,Family Comedy,2010-07-30 00:00:00
+Edge of Darkness,17214384,37810239,80000000,Drama / Thriller,2010-01-29 00:00:00
+Gulliver's Travels,6307691,194603463,112000000,Adventure Comedy,2010-12-25 00:00:00
+Death at a Funeral (2010),16217540,6311539,21000000,Comedy,2010-04-16 00:00:00
+Step Up 3-D,15812311,116891586,30000000,Music Drama,2010-08-06 00:00:00
+The Last Exorcism,20366613,26703740,0,Horror,2010-08-27 00:00:00
+Legion (2010),17501625,27750578,26000000,Horror Thriller,2010-01-22 00:00:00
+Burlesque,11947744,50079118,55000000,Musical,2010-11-24 00:00:00
+The Crazies,16067552,15683234,20000000,Horror,2010-02-26 00:00:00
+For Colored Girls,19497324,17318,21000000,Drama,2010-11-05 00:00:00
+The Back-Up Plan,12201710,39987001,35000000,Romantic Comedy,2010-04-23 00:00:00
+Vampires Suck,12202831,43886362,20000000,Horror Comedy,2010-08-18 00:00:00
+The American,13177790,32269905,20000000,Drama / Thriller,2010-09-01 00:00:00
+Green Zone,14309295,59828889,100000000,Thriller,2010-03-12 00:00:00
+Marmaduke,11599661,50117056,50000000,Family Comedy,2010-06-04 00:00:00
+Devil,12289375,29094299,0,Horror,2010-09-17 00:00:00
+Hereafter,12238469,72450694,50000000,Drama,2010-10-15 00:00:00
+When in Rome,12350041,10362202,0,Romantic Comedy,2010-01-29 00:00:00
+Love and Other Drugs,9739161,70453003,30000000,Comedy / Drama,2010-11-24 00:00:00
+She's Out of My League,9775278,17768868,20000000,Romantic Comedy,2010-03-12 00:00:00
+Scott Pilgrim vs. the World,10609795,16140284,60000000,Action Comedy,2010-08-13 00:00:00
+Charlie St. Cloud,12381585,17028159,44000000,Drama,2010-07-30 00:00:00
+Morning Glory,9203266,29029244,40000000,Comedy,2010-11-10 00:00:00
+How Do You Know,7484696,18456287,120000000,Comedy / Drama,2010-12-17 00:00:00
+Daybreakers,15146692,21314887,20000000,Horror,2010-01-08 00:00:00
+Nanny McPhee Returns,8407685,64239906,35000000,Family,2010-08-20 00:00:00
+The Switch,8436713,22051181,19000000,Comedy,2010-08-20 00:00:00
+Brooklyn's Finest,13350299,9276608,17000000,Action / Crime,2010-03-05 00:00:00
+Machete,11416164,17499670,0,Action / Adventure,2010-09-03 00:00:00
+Ramona and Beezus,7810481,1126741,15000000,Family,2010-07-23 00:00:00
+Leap Year,9202815,6688396,19000000,Romantic Comedy,2010-01-08 00:00:00
+You Again,8407513,6303195,20000000,Comedy,2010-09-24 00:00:00
+Alpha and Omega,9106906,25400000,0,Animation,2010-09-17 00:00:00
+Piranha 3D,10106872,58185010,24000000,Horror,2010-08-20 00:00:00
+Lottery Ticket,10652297,0,17000000,Comedy,2010-08-20 00:00:00
+The Spy Next Door,9726056,20929457,28000000,Action Comedy,2010-01-15 00:00:00
+From Paris with Love,8158860,28749167,52000000,Action,2010-02-05 00:00:00
+The Losers,9406348,5788291,25000000,Action,2010-04-23 00:00:00
+Faster,8523153,12386938,24000000,Action,2010-11-24 00:00:00
+Just Wright,8284989,29900,0,Romantic Comedy,2010-05-14 00:00:00
+Skyline,11692415,45427416,10000000,Thriller,2010-11-12 00:00:00
+The Next Three Days,6542779,46300000,30000000,Action Thriller,2010-11-19 00:00:00
+The Kids Are All Right,4017556,13894485,4000000,Comedy,2010-07-09 00:00:00
+Our Family Wedding,7629862,1153747,0,Comedy,2010-03-12 00:00:00
+Country Strong,7356617,310273,15000000,Music Drama,2010-12-22 00:00:00
+Oceans,6058958,63229120,80000000,Documentary,2010-04-22 00:00:00
+Remember Me,8089139,36964649,16000000,Romance,2010-03-12 00:00:00
+127 Hours,2401652,42403567,18000000,Drama,2010-11-05 00:00:00
+Going the Distance,6884964,24248458,32000000,Romantic Comedy,2010-09-03 00:00:00
+Furry Vengeance,6627564,18606245,35000000,Family Comedy,2010-04-30 00:00:00
+Splice,7385277,9847289,30000000,Sci-Fi Horror,2010-06-04 00:00:00
+The Ghost Writer,2246604,44680749,45000000,Thriller,2010-02-19 00:00:00
+Youth in Revolt,6888334,4369807,18000000,Comedy,2010-01-08 00:00:00
+My Soul to Take,6842220,6231967,25000000,Horror,2010-10-08 00:00:00
+Repo Men,6126170,4615056,32000000,Sci-Fi Action,2010-03-19 00:00:00
+Case 39,5350570,14928128,26000000,Horror Thriller,2010-10-01 00:00:00
+Let Me In,5147479,12010678,20000000,Horror,2010-10-01 00:00:00
+Extraordinary Measures,6012594,3065980,31000000,Drama,2010-01-22 00:00:00
+Avatar:Special Edition,4007750,22469358,0,Sci-Fi Adventure,2010-08-27 00:00:00
+Jonah Hex,5379365,356195,47000000,Western,2010-06-18 00:00:00
+The Girl with the Dragon Tattoo,335502,94300000,13000000,Thriller,2010-03-19 00:00:00
+Blue Valentine,193728,2649406,0,Drama,2010-12-29 00:00:00
+Fair Game (2010),651082,14648231,22000000,Action Thriller,2010-11-05 00:00:00
+Get Low,88182,518349,7000000,Comedy,2010-07-30 00:00:00
+MacGruber,4043495,797295,10000000,Comedy,2010-05-21 00:00:00
+The Girl Who Played with Fire,904998,59488554,0,Thriller,2010-07-09 00:00:00
+Cyrus,181716,2454919,7000000,Comedy,2010-06-18 00:00:00
+Babies,2160460,2175039,0,Documentary,2010-05-07 00:00:00
+Conviction,1731137,2926926,0,Drama,2010-10-15 00:00:00
+City Island,32001,1204826,6000000,Comedy,2010-03-19 00:00:00
+The Last Station,73723,6932905,18000000,Historical Drama,2010-01-15 00:00:00
+Winter's Bone,84797,7265331,2000000,Drama,2010-06-11 00:00:00
+"Waiting for""Superman""",139033,9322,0,Documentary,2010-09-24 00:00:00
+The Secret in Their Eyes,167866,27573843,0,Crime Drama,2010-04-16 00:00:00
+It's Kind of a Funny Story,2013406,127612,8000000,Drama,2010-10-08 00:00:00
+Sea Rex 3D:Journey to a Prehistoric World,0,9907568,5000000,IMAX,2010-05-28 00:00:00
+The Warrior's Way,3048665,5421229,42000000,Western,2010-12-03 00:00:00
+The Girl Who Kicked the Hornet's Nest,881737,38307912,0,Foreign,2010-10-29 00:00:00
+I Am Love,121504,5901103,0,Foreign,2010-06-18 00:00:00
+Mao's Last Dancer,199657,17451353,0,Drama,2010-08-20 00:00:00
+Solitary Man,94936,818034,15000000,Comedy / Drama,2010-05-21 00:00:00
+Inside Job,39649,3558787,2000000,Documentary,2010-10-08 00:00:00
+Greenberg,118152,1919797,0,Comedy / Drama,2010-03-19 00:00:00
+Please Give,118123,279511,3000000,Comedy / Drama,2010-04-30 00:00:00
+My Name is Khan,1944027,38326589,0,Foreign,2010-02-12 00:00:00
+To Save a Life,1581517,45815,0,Drama,2010-01-22 00:00:00
+The Runaways,805115,1107978,10000000,Drama,2010-03-19 00:00:00
+Exit Through the Gift Shop,170756,2017368,0,Documentary,2010-04-16 00:00:00
+You Will Meet a Tall Dark Stranger,160103,31027741,22000000,Romance,2010-09-22 00:00:00
+Catfish,257285,242271,0,Documentary,2010-09-17 00:00:00
+Another Year,111869,16517060,8000000,Drama,2010-12-29 00:00:00
+Chloe,900688,8627387,14000000,Drama,2010-03-26 00:00:00
+Joan Rivers:A Piece of Work,164351,0,0,Documentary,2010-06-11 00:00:00
+Letters to God,1088873,60315,3000000,Drama,2010-04-09 00:00:00
+N'Secure,1166406,0,0,Drama,2010-10-15 00:00:00
+Never Let Me Go,111734,7020580,15000000,Drama / Thriller,2010-09-15 00:00:00
+Twilight/New Moon Combo (one-night-only),0,0,0,Romance,2010-06-29 00:00:00
+The Illusionist (2010),38594,3370957,17000000,Animation,2010-12-25 00:00:00
+Rabbit Hole,53778,2900000,5000000,Drama,2010-12-17 00:00:00
+"I Love You, Phillip Morris",112520,18685384,13000000,Comedy,2010-12-03 00:00:00
+Harry Brown,173353,8511066,0,Crime Thriller,2010-04-30 00:00:00
+Stone,75766,7669640,22000000,Drama / Thriller,2010-10-08 00:00:00
+Somewhere,119086,12151264,7000000,Comedy / Drama,2010-12-22 00:00:00
+Flipped,224233,0,14000000,Comedy,2010-08-06 00:00:00
+Kites,959329,1281265,0,Romance,2010-05-21 00:00:00
+Coco Chanel & Igor Stravinsky,44454,4132264,0,Foreign,2010-06-11 00:00:00
+Cairo Time,66245,391396,0,Romance,2010-08-06 00:00:00
+Raajneeti,850244,11089666,0,Drama,2010-06-04 00:00:00
+The Joneses,509689,5546982,10000000,Drama,2010-04-16 00:00:00
+Nowhere Boy,52749,5120531,0,Drama,2010-10-08 00:00:00
+Restrepo,35581,105497,0,Documentary,2010-06-25 00:00:00
+Dabangg,628137,1654005,0,Foreign / Action,2010-09-10 00:00:00
+Micmacs,42751,15082254,42000000,Comedy,2010-05-28 00:00:00
+Housefull,642156,1156892,0,Comedy,2010-04-30 00:00:00
+Golmaal 3,626432,935479,0,Foreign,2010-11-05 00:00:00
+Mother and Child,43040,3870227,7000000,Drama,2010-05-07 00:00:00
+Made in Dagenham,37563,11299718,0,Drama,2010-11-19 00:00:00
+Tees Maar Khan,539793,1377971,0,Foreign,2010-12-22 00:00:00
+La Mission,49046,0,0,Drama,2010-04-09 00:00:00
+Buried,100268,18108337,0,Thriller,2010-09-24 00:00:00
+Animal Kingdom,61968,5749943,0,Crime Drama,2010-08-13 00:00:00
+Casino Jack,34528,40724,0,Thriller,2010-12-17 00:00:00
+The Perfect Game,511698,2841922,0,Sports Drama,2010-04-16 00:00:00
+2010 Oscar Shorts,291360,0,0,Unknown,2010-02-19 00:00:00
+Guzaarish,488121,694905,0,Foreign,2010-11-19 00:00:00
+The Salvation Poem (Poema de Salvacion),0,182932,0,Drama,2010-08-27 00:00:00
+The Wildest Dream,67848,0,0,Documentary,2010-08-06 00:00:00
+Princess Kaiulani,186995,0,9000000,Drama,2010-05-14 00:00:00
+Anjaana Anjaani,517608,761131,0,Foreign,2010-10-01 00:00:00
+I Hate Luv Storys,375297,14871219,0,Foreign,2010-06-30 00:00:00
+What If...,49770,0,0,Drama,2010-08-20 00:00:00
+The Tillman Story,52185,0,0,Documentary,2010-08-20 00:00:00
+Peepli Live,350054,8702980,0,Foreign,2010-08-13 00:00:00
+Middle Men,325641,0,20000000,Crime Comedy,2010-08-06 00:00:00
+North Face,23050,216283,0,Historical Drama,2010-01-29 00:00:00
+Raavan,482760,647735,0,Drama / Thriller,2010-06-18 00:00:00
+The Secret of Kells,39826,62679,8000000,Animation,2010-03-05 00:00:00
+Mid-August Lunch,13090,8708045,0,Foreign,2010-03-17 00:00:00
+The Polar Express (IMAX re-issue 2010),80505,0,0,IMAX,2010-12-03 00:00:00
+The Concert,21742,40488365,0,Foreign,2010-07-30 00:00:00
+We Are Family,296907,392926,0,Foreign,2010-09-03 00:00:00
+The Virginity Hit,301885,0,2000000,Comedy,2010-09-24 00:00:00
+Ajami,35792,669445,0,Drama,2010-02-03 00:00:00
+Agora,33262,38422082,70000000,Historical Drama,2010-05-28 00:00:00
+Vincere,18096,5078839,13000000,Historical Drama,2010-03-19 00:00:00
+Howl,51185,565924,0,Drama,2010-09-24 00:00:00
+Elvis On Tour 75th Anniversary,0,0,0,Documentary,2010-07-29 00:00:00
+All Good Things,37172,62511,0,Thriller,2010-12-03 00:00:00
+Tamara Drewe,18604,11350304,0,Comedy,2010-10-08 00:00:00
+Mesrine:Killer Instinct,152873,30503743,0,Crime Thriller,2010-08-27 00:00:00
+Mother (2010),35858,16561204,0,Crime Drama,2010-03-12 00:00:00
+Ondine,27497,1094283,12000000,Drama,2010-06-04 00:00:00
+The Art of the Steal,39019,0,0,Documentary,2010-02-26 00:00:00
+Jack Goes Boating,28916,77578,0,Comedy,2010-09-17 00:00:00
+Khatta Meetha,309211,498910,0,Foreign,2010-07-23 00:00:00
+Standing Ovation,343125,0,0,Family,2010-07-16 00:00:00
+Mademoiselle Chambon,19446,4745439,0,Romance,2010-05-28 00:00:00
+Metropolis (2010 re-issue),19978,0,0,Sci-Fi,2010-05-07 00:00:00
+The Man From Nowhere,35751,42531615,0,Foreign,2010-10-01 00:00:00
+Veer (2010),334562,277269,0,Historical Drama,2010-01-22 00:00:00
+Preacher's Kid,190638,0,0,Drama,2010-01-29 00:00:00
+Heartbreaker,52628,46851157,0,Foreign,2010-09-10 00:00:00
+The City of Your Final Destination,24401,858570,0,Drama / Thriller,2010-04-16 00:00:00
+The Most Dangerous Man in America:Daniel Ellsberg and the Pentagon Papers,1114,0,0,Documentary,2010-01-29 00:00:00
+The Extra Man,18861,4490,0,Comedy,2010-07-30 00:00:00
+Vision,11406,4608604,0,Foreign,2010-10-13 00:00:00
+I Want Your Money,249428,0,0,Documentary,2010-10-15 00:00:00
+Break Ke Baad,194737,389360,0,Foreign,2010-11-24 00:00:00
+If You Are the One 2 (Fei Cheng Wu Rao II),182517,75643458,0,Comedy,2010-12-24 00:00:00
+I'm Still Here,96658,159980,0,Comedy / Drama,2010-09-10 00:00:00
+The Square,17092,0,0,Drama / Thriller,2010-04-09 00:00:00
+Wild Grass,39162,4197398,0,Foreign,2010-06-25 00:00:00
+Tiny Furniture,21235,0,0,Comedy,2010-11-12 00:00:00
+Fish Tank,25854,1983177,3000000,Drama,2010-01-15 00:00:00
+Lebanon,17145,830093,0,Foreign,2010-08-06 00:00:00
+Grease (Sing-a-Long re-issue),60759,0,0,Musical,2010-07-08 00:00:00
+Breathless (2010 re-issue),32424,0,0,Crime Drama,2010-05-28 00:00:00
+Like Dandelion Dust,77960,0,0,Drama,2010-09-24 00:00:00
+Creation,53073,554975,0,Historical Drama,2010-01-22 00:00:00
+Enter the Void,43651,417782,16000000,Drama,2010-09-24 00:00:00
+Kings of Pastry,15162,0,0,Documentary,2010-09-15 00:00:00
+A Film Unfinished,34060,0,0,Documentary,2010-08-18 00:00:00
+The Yellow Handkerchief,37296,0,0,Drama,2010-02-26 00:00:00
+Today's Special,90639,0,0,Comedy,2010-11-19 00:00:00
+Four Lions,41512,4353954,0,Comedy,2010-11-05 00:00:00
+White Material,34613,0,0,Foreign,2010-11-19 00:00:00
+Holy Rollers,39685,304963,0,Crime Drama,2010-05-21 00:00:00
+Last Train Home,20418,0,0,Documentary,2010-09-03 00:00:00
+Karthik Calling Karthik,179643,7090,0,Comedy Thriller,2010-02-26 00:00:00
+No Problem,242116,368901,0,Foreign,2010-12-10 00:00:00
+Life During Wartime,30507,486569,0,Comedy / Drama,2010-07-23 00:00:00
+The Tempest,42436,68651,20000000,Romance,2010-12-10 00:00:00
+Soul Kitchen,20916,17595895,0,Foreign,2010-08-20 00:00:00
+Mesrine:Public Enemy No. 1,74449,28126,0,Crime Thriller,2010-09-03 00:00:00
+Countdown to Zero,41307,0,0,Documentary,2010-07-23 00:00:00
+Jean-Michel Basquiat:The Radiant Child,17466,0,0,Documentary,2010-07-21 00:00:00
+My Dog Tulip,11550,0,0,Animation,2010-09-01 00:00:00
+Frozen (2010),131395,2904910,0,Horror,2010-02-05 00:00:00
+When You're Strange,66833,900926,0,Documentary,2010-04-09 00:00:00
+Monsters,20508,4005677,0,Sci-Fi,2010-10-29 00:00:00
+Rare Exports:A Christmas Tale,9281,3778786,0,Fantasy,2010-12-03 00:00:00
+The Exorcist Extended Director's Cut,0,0,0,Horror,2010-09-30 00:00:00
+Formosa Betrayed,77326,100693,0,Thriller,2010-02-26 00:00:00
+The Black Waters of Echo's Pond,224409,0,0,Horror,2010-04-09 00:00:00
+The Killer Inside Me,11083,3759915,13000000,Crime Drama,2010-06-18 00:00:00
+La Soga,52554,0,0,Foreign,2010-08-13 00:00:00
+The Girl on the Train,19154,97117,9000000,Foreign,2010-01-22 00:00:00
+Sweetgrass,9870,0,0,Documentary,2010-01-06 00:00:00
+Legendary,126964,0,0,Sports Drama,2010-09-10 00:00:00
+South of the Border,21545,70809,0,Documentary,2010-06-25 00:00:00
+The Nutcracker in 3D,65944,15983500,90000000,Fantasy,2010-11-24 00:00:00
+"A Woman, A Gun and A Noodle Shop",27330,121311,0,Drama,2010-09-03 00:00:00
+Client 9:The Rise and Fall of Eliot Spitzer,16962,3454,0,Documentary,2010-11-05 00:00:00
+Nick Saban:Gamechanger,188786,0,0,Documentary,2010-08-27 00:00:00
+Waste Land,9806,88690,0,Documentary,2010-10-29 00:00:00
+Twelve,110238,2382797,5000000,Thriller,2010-08-06 00:00:00
+Human Centipede,12424,70740,0,Horror,2010-04-30 00:00:00
+Winnebago Man,16469,0,0,Documentary,2010-07-09 00:00:00
+Casino Jack and the United States of Money,28234,0,0,Documentary,2010-05-07 00:00:00
+71 Into the Fire,77161,20791022,0,War,2010-07-30 00:00:00
+Leaving,12697,892665,0,Foreign,2010-10-01 00:00:00
+Terribly Happy,11650,0,0,Drama,2010-02-05 00:00:00
+Chance Pe Dance,117917,24271,0,Foreign,2010-01-15 00:00:00
+Genius Within:The Inner Life of Glenn Gould,17034,0,0,Documentary,2010-09-10 00:00:00
+The Disappearance of Alice Creed,40258,700734,0,Thriller,2010-08-06 00:00:00
+De Mai Tinh (Fool for Love),49313,0,0,Foreign,2010-09-10 00:00:00
+Welcome to the Rileys,42145,158484,0,Drama,2010-10-29 00:00:00
+Red Riding Trilogy,14526,0,9000000,Crime Thriller,2010-02-05 00:00:00
+The Cremaster Cycle (re-issue),7982,0,0,Unknown,2010-04-09 00:00:00
+House (re-release),0,0,0,Foreign / Horror,2010-01-15 00:00:00
+Only the Brave,14825,0,0,War,2010-05-28 00:00:00
+Carlos,20006,725753,18000000,Action Thriller,2010-10-15 00:00:00
+Father of My Children,10414,335260,0,Drama,2010-05-21 00:00:00
+The Weathered Underground,1010,0,0,Action Thriller,2010-01-26 00:00:00
+Chain Letter,138788,446574,3000000,Horror Thriller,2010-10-01 00:00:00
+Love Ranch,44220,0,25000000,Drama,2010-06-30 00:00:00
+Pure Country 2,0,0,0,Music Drama,2010-10-15 00:00:00
+The Eclipse,13207,26441,3000000,Romance,2010-03-26 00:00:00
+Warlords,10073,0,0,Foreign / Action,2010-04-02 00:00:00
+"The Good, the Bad, the Weird",4775,44132723,10000000,Action / Adventure,2010-04-23 00:00:00
+Stonewall Uprising,15729,0,0,Documentary,2010-06-16 00:00:00
+"Lovely, Still",4584,105519,0,Drama,2010-09-10 00:00:00
+Ran (2010 re-issue),10245,0,0,Drama,2010-02-05 00:00:00
+Centurion,42826,6691219,12000000,Action / Adventure,2010-08-27 00:00:00
+Valley of the Heart's Delight,5164,0,0,Drama,2010-04-09 00:00:00
+See What I'm Saying:The Deaf Entertainers Documentary,4996,0,0,Documentary,2010-03-19 00:00:00
+Touching Home,47382,0,0,Drama,2010-04-30 00:00:00
+The Greatest (2010),33616,359363,6000000,Drama,2010-04-02 00:00:00
+Bran Nue Dae,23527,0,0,Musical,2010-09-10 00:00:00
+Marwencol,3276,0,0,Documentary,2010-10-08 00:00:00
+Let it Rain,16290,0,0,Comedy,2010-06-18 00:00:00
+Dogtooth,6686,273899,0,Foreign,2010-06-25 00:00:00
+Best Worst Movie,5503,0,0,Documentary,2010-04-23 00:00:00
+Blood Done Sign My Name,82739,0,10000000,Drama,2010-02-19 00:00:00
+Undertow (2010),6749,392636,0,Foreign,2010-09-17 00:00:00
+After.Life,59946,1894023,0,Horror Thriller,2010-04-09 00:00:00
+Wild Target,23174,3344454,8000000,Comedy Thriller,2010-10-29 00:00:00
+Inspector Bellamy,20635,3574042,0,Foreign,2010-10-29 00:00:00
+The Romantics,45527,17296,0,Romantic Comedy,2010-09-10 00:00:00
+Saint John of Las Vegas,21666,9086,0,Comedy / Drama,2010-01-29 00:00:00
+Everyone Else,10810,0,0,Romance,2010-04-09 00:00:00
+George A. Romero's Survival of the Dead,43757,41451,4000000,Horror,2010-05-28 00:00:00
+Freakonomics,31893,16408,0,Documentary,2010-10-01 00:00:00
+Feed the Fish,5820,0,0,Comedy,2010-04-23 00:00:00
+The Good Guy,34712,0,10000000,Romantic Comedy,2010-02-19 00:00:00
+8:The Mormon Proposition,42566,0,0,Documentary,2010-06-18 00:00:00
+Bhutto,8275,0,0,Documentary,2010-12-03 00:00:00
+Kings of the Evening,11156,0,0,Period Drama,2010-06-11 00:00:00
+Outside the Law (Hors-la-loi),0,3298780,0,Foreign,2010-11-03 00:00:00
+I Spit on Your Grave,32440,479758,2000000,Horror,2010-10-08 00:00:00
+Oy Vey! My Son is Gay!,4042,0,0,Comedy,2010-12-24 00:00:00
+OSS 117:Lost in Rio,10243,0,0,Foreign,2010-05-07 00:00:00
+Crazy on the Outside,64438,0,0,Comedy,2010-01-08 00:00:00
+The Cartel,3694,0,0,Documentary,2010-04-16 00:00:00
+No One Knows About Persian Cats,8843,798169,0,Drama,2010-04-16 00:00:00
+Kisses,15485,15253,0,Drama,2010-07-16 00:00:00
+Summer Wars,1412,0,0,Animation,2010-12-24 00:00:00
+Waking Sleeping Beauty,33115,4177,0,Documentary,2010-03-26 00:00:00
+Breaking Upwards,15467,0,0,Romance,2010-04-02 00:00:00
+Night Catches Us,13562,0,0,Drama,2010-12-03 00:00:00
+Prodigal Sons,6102,0,0,Documentary,2010-02-26 00:00:00
+Enemies of the People,2277,6425,0,Documentary,2010-07-30 00:00:00
+The Sicilian Girl,5922,0,0,Crime Drama,2010-08-04 00:00:00
+Rosencrantz & Guildenstern Are Undead,14370,0,0,Action,2010-06-04 00:00:00
+Leaves of Grass,20987,948687,9000000,Crime Comedy,2010-09-17 00:00:00
+Strange Powers:Stephin Merritt and the Magnetic Fields,4620,0,0,Documentary,2010-10-27 00:00:00
+Budrus,7819,0,0,Documentary,2010-10-08 00:00:00
+2012:Time for Change,9009,0,0,Documentary,2010-04-09 00:00:00
+Le Amiche (re-issue),10092,0,0,Drama,2010-06-18 00:00:00
+John Rabe,4892,0,0,Historical Drama,2010-05-21 00:00:00
+The Sun Behind the Clouds:Tibet's Struggle for Freedom,10884,0,0,Documentary,2010-03-31 00:00:00
+Dancing Across Borders,5204,0,0,Documentary,2010-03-26 00:00:00
+Racing Dreams,20048,0,0,Documentary,2010-05-21 00:00:00
+Aftershock (Tangshan Dadizhen),19329,100229867,0,Foreign,2010-10-29 00:00:00
+Cool It,26847,0,0,Documentary,2010-11-12 00:00:00
+Alamar,7668,0,0,Drama,2010-07-14 00:00:00
+Orlando (re-issue),10885,0,0,Romance,2010-07-23 00:00:00
+Looking for Eric,6743,11499521,0,Comedy,2010-05-14 00:00:00
+The Nature of Existence,2977,0,0,Documentary,2010-06-18 00:00:00
+The Lottery,16435,0,0,Documentary,2010-06-11 00:00:00
+The Harimaya Bridge,1226,0,0,Drama,2010-03-12 00:00:00
+Harlan:In the Shadow of Jew Suss,9258,0,0,Documentary,2010-03-03 00:00:00
+God of Vampires,10395,0,0,Action Horror,2010-07-02 00:00:00
+Hatchet 2,52604,0,0,Horror,2010-10-01 00:00:00
+Cropsey,6306,0,0,Documentary,2010-06-04 00:00:00
+Breath Made Visible,8425,0,0,Documentary,2010-04-02 00:00:00
+The Human Experience,27170,0,0,Documentary,2010-04-09 00:00:00
+The Strange Case of Angelica,7499,0,0,Foreign,2010-12-29 00:00:00
+Tales from Earthsea,20614,68625104,0,Animation,2010-08-13 00:00:00
+Every Man for Himself (2010 re-issue),7926,0,0,Foreign,2010-11-12 00:00:00
+Change of Plans,15378,0,0,Foreign,2010-08-27 00:00:00
+Ca$h,16469,0,0,Thriller,2010-03-26 00:00:00
+William S. Burroughs:A Man Within,6510,0,0,Documentary,2010-11-17 00:00:00
+Defendor,13265,0,0,Comedy / Drama,2010-02-19 00:00:00
+Band Baaja Baaraat,43820,60712,0,Foreign,2010-12-10 00:00:00
+The Oath,5760,0,0,Documentary,2010-05-07 00:00:00
+On the Bowery (re-release),13236,0,0,Documentary,2010-09-17 00:00:00
+Kites:The Remix,24869,0,0,Romance,2010-05-28 00:00:00
+The Trouble with Terkel,3972,0,0,Animation,2010-10-15 00:00:00
+44 Inch Chest,4185,255212,0,Drama,2010-01-15 00:00:00
+Nine Nation Animation,2834,0,0,Animation,2010-09-29 00:00:00
+The Legend of Pale Male,12910,0,0,Documentary,2010-11-24 00:00:00
+The Red Baron,13931,3050,0,Historical Drama,2010-03-19 00:00:00
+Army of Crime,8102,1162846,0,Foreign,2010-08-20 00:00:00
+District B13:Ultimatum,11870,16153,0,Action,2010-02-05 00:00:00
+Guy and Madeline on a Park Bench,3233,0,0,Music Drama,2010-11-05 00:00:00
+Hideaway (Le Refuge),11124,836715,0,Foreign,2010-09-10 00:00:00
+Bluebeard,8370,5206,0,Fantasy,2010-03-26 00:00:00
+Around a Small Mountain,5326,131320,0,Drama,2010-07-09 00:00:00
+Ahead of Time,12790,0,0,Documentary,2010-09-10 00:00:00
+Spoken Word,2343,0,0,Drama,2010-07-23 00:00:00
+Boxing Gym,0,0,0,Documentary,2010-10-22 00:00:00
+Beetle Queen Conquers Tokyo,6498,0,0,Documentary,2010-05-12 00:00:00
+Living in Emergency,21905,0,0,Documentary,2010-06-04 00:00:00
+180 South,10269,0,0,Documentary,2010-05-21 00:00:00
+Who Is Harry Nilsson?,6078,0,0,Documentary,2010-09-10 00:00:00
+GasLand,2641,18582,0,Documentary,2010-09-15 00:00:00
+Valhalla Rising,7905,0,0,Sci-Fi Action,2010-07-16 00:00:00
+Shanghai Red,3008,0,0,Foreign,2010-02-12 00:00:00
+In My Sleep,9285,0,0,Drama / Thriller,2010-04-23 00:00:00
+Saint Misbehavin':The Wavy Gravy Movie,10976,0,0,Documentary,2010-12-03 00:00:00
+Lbs.,11690,0,0,Comedy / Drama,2010-03-26 00:00:00
+Multiple Sarcasms,16025,0,0,Drama,2010-05-07 00:00:00
+Two in the Wave,5676,0,0,Documentary,2010-05-19 00:00:00
+[Rec] 2,8191,18469680,0,Foreign / Horror,2010-07-09 00:00:00
+Here and There,6352,0,0,Comedy / Drama,2010-05-14 00:00:00
+Eyes Wide Open,6818,250318,0,Drama,2010-02-05 00:00:00
+October Country,7026,0,0,Documentary,2010-02-12 00:00:00
+The Exploding Girl,5910,0,0,Drama,2010-03-12 00:00:00
+Henri-Georges Clouzot's Inferno,3981,0,0,Documentary,2010-07-16 00:00:00
+Fresh (2010),0,0,0,Documentary,2010-04-09 00:00:00
+Behind the Burly Q,3958,0,0,Documentary,2010-04-23 00:00:00
+Videocracy,8324,1155956,0,Documentary,2010-02-12 00:00:00
+The Other City,10396,0,0,Documentary,2010-09-17 00:00:00
+Happy Tears,13009,0,0,Drama,2010-02-19 00:00:00
+Hemingway's Garden of Eden,12404,0,0,Drama,2010-12-10 00:00:00
+And Everything is Going Fine,7035,0,0,Documentary,2010-12-10 00:00:00
+Daddy Longlegs,8323,11451,0,Comedy / Drama,2010-05-14 00:00:00
+Toe to Toe,5205,0,0,Drama,2010-02-26 00:00:00
+Red Hill,8650,300336,0,Crime Thriller,2010-11-05 00:00:00
+The Good Heart,5955,322888,0,Drama,2010-04-30 00:00:00
+Douchebag,2966,0,0,Comedy,2010-10-01 00:00:00
+The Korean,4002,0,0,Action,2010-02-05 00:00:00
+Double Take (2010),4650,0,0,Documentary,2010-06-02 00:00:00
+Shoah,2874,0,0,Documentary,2010-12-10 00:00:00
+The Trial (2010),8957,0,0,Drama,2010-09-10 00:00:00
+Neshoba:The Price of Freedom,4645,0,0,Documentary,2010-08-13 00:00:00
+The People I've Slept With,3716,0,0,Comedy,2010-08-13 00:00:00
+Off and Running,7978,0,0,Documentary,2010-01-29 00:00:00
+Nenette,1176,5384,0,Documentary,2010-12-22 00:00:00
+Great Directors,5440,0,0,Documentary,2010-07-02 00:00:00
+Bitch Slap,12254,182071,0,Action,2010-01-08 00:00:00
+The Law (re-release),0,0,0,Drama,2010-06-23 00:00:00
+Carbon Nation,402,0,0,Documentary,2010-05-07 00:00:00
+The Freebie,4309,0,0,Comedy / Drama,2010-09-17 00:00:00
+BoyBand,7591,0,0,Comedy,2010-06-04 00:00:00
+Dreamkiller,861,0,0,Crime Thriller,2010-02-19 00:00:00
+The Two Escobars,0,0,0,Documentary,2010-08-27 00:00:00
+GhettoPhysics:Will the Real Pimps and Hos Please Stand Up?,10087,0,0,Drama,2010-10-08 00:00:00
+Don McKay,8919,0,0,Drama / Thriller,2010-04-02 00:00:00
+Paper Man,8613,0,0,Comedy / Drama,2010-04-23 00:00:00
+Handsome Harry,13500,0,0,Drama,2010-04-16 00:00:00
+Violet Tendencies,5264,0,0,Comedy,2010-11-05 00:00:00
+Jim (2010),7809,0,0,Sci-Fi,2010-10-08 00:00:00
+The Living Wake,3821,0,0,Comedy,2010-05-14 00:00:00
+The Kids Grow Up,4497,0,0,Documentary,2010-10-29 00:00:00
+Picture Me,6718,10361,0,Documentary,2010-09-17 00:00:00
+The Dry Land,7351,0,0,Drama,2010-07-30 00:00:00
+White Wedding,5860,0,0,Romantic Comedy,2010-09-03 00:00:00
+Salt of this Sea,4973,545251,0,Foreign,2010-08-13 00:00:00
+After the Cup:Sons of Sakhnin United,2501,0,0,Documentary,2010-05-21 00:00:00
+The Taqwacores,3532,0,0,Drama,2010-10-22 00:00:00
+Cherry,2416,0,0,Comedy / Drama,2010-10-08 00:00:00
+Children of Invention,4874,0,0,Drama,2010-03-12 00:00:00
+Christina,0,0,0,Drama,2010-12-03 00:00:00
+Spring Fever,854,150286,0,Foreign,2010-06-04 00:00:00
+Terkel in Trouble,3648,0,0,Animation,2010-03-26 00:00:00
+Waiting for Armageddon,2579,0,0,Documentary,2010-01-08 00:00:00
+The Milk of Sorrow,1914,0,0,Music Drama,2010-08-27 00:00:00
+Come Undone (2010),2030,31314,0,Foreign,2010-12-03 00:00:00
+Circle,3926,0,0,Horror Thriller,2010-08-27 00:00:00
+"Hugh Hefner:Playboy, Activist and Rebel",10000,0,0,Documentary,2010-07-30 00:00:00
+Down Terrace,3088,0,0,Comedy,2010-10-15 00:00:00
+Brutal Beauty:Tales of the Rose City Rollers,0,0,0,Documentary,2010-01-08 00:00:00
+Wonderful World,4582,0,0,Romance,2010-01-08 00:00:00
+Brotherhood (Broderskab),2341,0,0,Foreign,2010-08-06 00:00:00
+Only When I Dance,2181,0,0,Documentary,2010-07-02 00:00:00
+All About Evil,5070,0,0,Horror Comedy,2010-07-09 00:00:00
+Stolen (2010),1035,0,0,Thriller,2010-03-12 00:00:00
+Mugabe and the White African,1907,0,0,Documentary,2010-07-23 00:00:00
+Zenith,2347,0,0,Sci-Fi,2010-10-01 00:00:00
+Tales from the Script,1938,0,0,Documentary,2010-03-12 00:00:00
+Udaan,2715,0,0,Foreign,2010-07-16 00:00:00
+The Thorn in the Heart,5173,10473,0,Documentary,2010-04-02 00:00:00
+Gangster's Paradise:Jerusalema,4958,0,2000000,Crime Drama,2010-06-11 00:00:00
+Happiness Runs,2674,0,0,Drama,2010-05-07 00:00:00
+Logan,7137,0,0,Drama,2010-09-10 00:00:00
+Misconceptions,3796,0,0,Comedy / Drama,2010-01-22 00:00:00
+Finding Bliss,2115,0,0,Romantic Comedy,2010-06-04 00:00:00
+Mercy (2010),1776,0,0,Drama,2010-04-30 00:00:00
+Regina Spektor:Live In London,1798,0,0,Documentary,2010-11-19 00:00:00
+Dream Boy,2243,0,0,Romance,2010-03-26 00:00:00
+Watercolors,3207,0,0,Drama,2010-01-22 00:00:00
+The Red Chapel,2459,0,0,Foreign,2010-12-29 00:00:00
+BearCity,5980,0,0,Comedy,2010-10-22 00:00:00
+Sweethearts of the Prison Rodeo,2198,0,0,Documentary,2010-09-17 00:00:00
+Midnight Reckoning,1029,0,0,Drama / Thriller,2010-09-10 00:00:00
+American Grindhouse,0,0,0,Documentary,2010-06-18 00:00:00
+Whiz Kids,1333,0,0,Documentary,2010-06-04 00:00:00
+Speed-Dating,3394,0,0,Comedy,2010-06-04 00:00:00
+Hadewijch,1892,57462,0,Drama,2010-12-24 00:00:00
+The Oxford Murders,1191,0,0,Crime Thriller,2010-08-06 00:00:00
+To Die is Hard,112,0,0,Comedy,2010-12-17 00:00:00
+Promised Lands (2010 re-issue),797,0,0,Documentary,2010-02-05 00:00:00
+Kimjongilia,1497,0,0,Documentary,2010-03-19 00:00:00
+Helena From the Wedding,2692,0,0,Drama,2010-11-12 00:00:00
+Inhale,3030,50974,0,Thriller,2010-10-22 00:00:00
+Just Say Love,1257,0,0,Romance,2010-03-26 00:00:00
+In/Significant Others,1408,0,0,Drama / Thriller,2010-05-14 00:00:00
+Heartless,2033,0,0,Sci-Fi Horror,2010-11-19 00:00:00
+Smash His Camera,2367,0,0,Documentary,2010-07-30 00:00:00
+The Full Picture,1358,0,0,Drama,2010-06-11 00:00:00
+Murder in Fashion,1046,0,0,Thriller,2010-01-22 00:00:00
+El Superstar:The Unlikely Rise of Juan Frances,2330,0,0,Comedy,2010-09-17 00:00:00
+My Year Without Sex,528,0,0,Comedy,2010-03-12 00:00:00
+The Afterlight,1466,0,0,Drama / Thriller,2010-09-10 00:00:00
+Altiplano,1269,0,0,Drama,2010-08-20 00:00:00
+Eichmann,573,0,0,Foreign,2010-10-29 00:00:00
+Boogie Woogie,1776,44909,0,Comedy / Drama,2010-04-23 00:00:00
+Daniel & Ana,1400,0,0,Drama / Thriller,2010-08-27 00:00:00
+You Won't Miss Me,2240,0,0,Comedy / Drama,2010-12-10 00:00:00
+The Girl (Flickan),712,228589,0,Drama,2010-09-17 00:00:00
+Nobody's Perfect,533,0,0,Documentary,2010-04-16 00:00:00
+As Good as Dead,1494,53637,0,Thriller,2010-10-08 00:00:00
+Falling Awake,847,0,0,Drama,2010-01-29 00:00:00
+The Temptation of St. Tony,747,0,0,Fantasy Drama,2010-09-17 00:00:00
+A Mother's Courage:Talking Back to Autism,822,0,0,Documentary,2010-09-24 00:00:00
+Manuela and Manuel,629,0,0,Comedy,2010-03-26 00:00:00
+"Carmo, Hit the Road",835,0,0,Adventure,2010-10-15 00:00:00
+Drool,1199,0,0,Comedy,2010-01-22 00:00:00
+45365,107,0,0,Documentary,2010-02-26 00:00:00
+Perrier's Bounty,828,167110,0,Drama / Thriller,2010-05-21 00:00:00
+Shake Hands with the Devil,86,0,0,Historical Drama,2010-10-29 00:00:00
+The Magician (2010),117,0,0,Thriller,2010-10-29 00:00:00
