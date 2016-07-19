@@ -297,7 +297,7 @@ The Unknown Known,64315,0,0,Documentary,2014-04-04 00:00:00
 Main Tera Hero,162404,0,0,Foreign,2014-04-04 00:00:00
 Night Moves,21488,0,0,Thriller,2014-05-30 00:00:00
 Love on the Cloud (Wei Ai),67967,0,0,Foreign,2014-12-24 00:00:00
-The Love Punch,0,4522129,0,Comedy,2014-05-23 00:00:00
+The Love Punch,266588,4522129,0,Comedy,2014-05-23 00:00:00
 Life of Crime,104300,0,0,Comedy,2014-08-29 00:00:00
 Ernest & Celestine,13078,4813287,0,Animation,2014-02-28 00:00:00
 Blue Ruin,32608,0,0,Thriller,2014-04-25 00:00:00
@@ -347,7 +347,7 @@ The Divine Move,49057,27790164,0,Foreign,2014-07-25 00:00:00
 Redwood Highway,30,0,0,Drama,2014-04-11 00:00:00
 The Jewish Cardinal,0,0,0,Foreign,2014-01-10 00:00:00
 Raja Natwarlal,83669,0,0,Foreign,2014-08-29 00:00:00
-Bjork - Biophilia Live,0,305932,0,Documentary,2014-09-26 00:00:00
+Bjork - Biophilia Live,127754,305932,0,Documentary,2014-09-26 00:00:00
 Make Your Move,81172,1346000,0,Drama,2014-04-18 00:00:00
 Knights of Badassdom,17449,0,0,Comedy,2014-01-21 00:00:00
 Afflicted (2014),69447,0,0,Horror,2014-04-04 00:00:00
@@ -503,7 +503,7 @@ Video Games:The Movie,12759,0,0,Documentary,2014-07-18 00:00:00
 Short Peace,0,0,0,Animation,2014-03-03 00:00:00
 Two Lives,1303,0,0,Foreign,2014-02-28 00:00:00
 Grand Piano,2964,0,0,Thriller,2014-03-07 00:00:00
-May in the Summer,0,112000,0,Comedy / Drama,2014-08-22 00:00:00
+May in the Summer,22004,112000,2000000,Comedy / Drama,2014-08-22 00:00:00
 Bright Days Ahead,4919,1414579,0,Foreign,2014-04-25 00:00:00
 The Decent One,0,0,0,Documentary,2014-10-01 00:00:00
 Memphis,0,0,0,Drama,2014-09-05 00:00:00
@@ -562,7 +562,7 @@ The French Minister,3800,5100000,0,Foreign,2014-03-21 00:00:00
 Queen Margot (2014 re-release),4985,0,0,Foreign,2014-05-09 00:00:00
 Revenge of the Mekons,2354,0,0,Documentary,2014-10-29 00:00:00
 Falcon Rising,8691,0,0,Action / Adventure,2014-09-05 00:00:00
-Life of Riley,0,2338000,0,Foreign,2014-10-24 00:00:00
+Life of Riley,11616,2338000,7300000,Foreign,2014-10-24 00:00:00
 Living is Easy with Eyes Closed,11600,2591825,0,Foreign,2014-06-27 00:00:00
 You're Not You,9226,0,0,Drama,2014-10-10 00:00:00
 The Great Invisible,2348,0,0,Documentary,2014-10-29 00:00:00
@@ -579,7 +579,7 @@ Stray Dogs,2998,0,0,Foreign,2014-09-12 00:00:00
 The Endless Summer (2014 re-release),0,0,0,Documentary,2014-07-23 00:00:00
 Before I Disappear,2676,0,0,Comedy / Drama,2014-11-28 00:00:00
 Kabbalah Me,2196,0,0,Documentary,2014-08-22 00:00:00
-Marius,0,2240000,0,Foreign,2014-07-04 00:00:00
+Marius,9781,2240000,0,Foreign,2014-07-04 00:00:00
 "If You Don't, I Will",1707,0,0,Foreign,2014-12-17 00:00:00
 On the Other Side of the Tracks,5923,25100000,0,Foreign,2014-04-04 00:00:00
 In the House of Flies,3500,0,0,Thriller,2014-05-09 00:00:00
@@ -603,7 +603,7 @@ Empty Hours,1366,0,0,Foreign,2014-07-11 00:00:00
 Gladiators of Rome,1920,10071000,0,Animation,2014-11-11 00:00:00
 Next Year Jerusalem,2590,0,0,Documentary,2014-05-16 00:00:00
 Rigor Mortis,7865,0,0,Foreign / Horror,2014-06-06 00:00:00
-Archipelago,0,491598,0,Drama,2014-06-27 00:00:00
+Archipelago,7791,491598,655605,Drama,2014-06-27 00:00:00
 Faith Connections,0,0,0,Documentary,2014-09-12 00:00:00
 Come Back to Me,4156,0,0,Horror,2014-07-25 00:00:00
 Iceman (2014),4698,26000000,0,Foreign / Action,2014-09-19 00:00:00
@@ -642,7 +642,7 @@ Nothing Bad Can Happen,2853,0,0,Foreign,2014-06-27 00:00:00
 Half the Road,1613,0,0,Documentary,2014-04-18 00:00:00
 Death Metal Angola,895,0,0,Documentary,2014-11-07 00:00:00
 Smiling Through the Apocalypse,2590,0,0,Documentary,2014-09-12 00:00:00
-Unrelated,0,154463,0,Drama,2014-06-27 00:00:00
+Unrelated,4,529,154463,0,Drama,2014-06-27 00:00:00
 The Truth About Emanuel,0,0,0,Thriller,2014-01-10 00:00:00
 Anna,2541,0,0,Thriller,2014-06-06 00:00:00
 Free the Nipple,606,0,0,Drama,2014-12-12 00:00:00
@@ -659,11 +659,11 @@ Locker 13,2468,0,0,Thriller,2014-03-28 00:00:00
 The Hacker Wars,2958,0,0,Documentary,2014-10-17 00:00:00
 Aftermath (2014),1124,0,0,Crime Thriller,2014-11-28 00:00:00
 Life's a Breeze,1361,99668,0,Comedy / Drama,2014-09-19 00:00:00
-Age of Uprising:The Legend of Michael Kohlhaas (U.S. only),0,797000,0,Foreign,2014-05-30 00:00:00
+Age of Uprising:The Legend of Michael Kohlhaas (U.S. only),3313,797000,0,Foreign,2014-05-30 00:00:00
 The Girl on the Train (2014),211,0,0,Drama,2014-07-04 00:00:00
 Showrunners:The Art of Running a TV Show,3100,0,0,Documentary,2014-10-31 00:00:00
 What Now? Remind Me,1434,0,0,Foreign,2014-08-08 00:00:00
-French Gigolo (Cliente),0,6003708,0,Foreign,2014-03-21 00:00:00
+French Gigolo (Cliente),3021,6003708,,Foreign,2014-03-21 00:00:00
 Fatal Assistance,3000,0,0,Documentary,2014-02-28 00:00:00
 V/H/S:Viral,1221,0,0,Horror,2014-11-21 00:00:00
 Black Out,1749,0,0,Foreign / Action,2014-02-21 00:00:00
@@ -839,7 +839,7 @@ Movie 43,4805878,23598535,6000000,Comedy,2013-01-25 00:00:00
 Mandela:Long Walk to Freedom,2325028,19010750,0,Drama,2013-11-29 00:00:00
 Before Midnight,1629633,3061842,0,Drama,2013-05-24 00:00:00
 Dhoom 3,3423508,80000000,0,Foreign / Action,2013-12-20 00:00:00
-Jerusalem,0,1258735,0,Documentary,2013-09-13 00:00:00
+Jerusalem,8020721,1258735,8000000,Documentary,2013-09-13 00:00:00
 Machete Kills,3837183,7000000,0,Action,2013-10-11 00:00:00
 Paranoia,3528376,6400000,35000000,Thriller,2013-08-16 00:00:00
 Journey to the South Pacific,8137,4887980,0,Documentary,2013-11-27 00:00:00
@@ -927,7 +927,7 @@ Hannah Arendt,31270,0,0,Foreign,2013-05-29 00:00:00
 56 Up,22088,0,0,Documentary,2013-01-04 00:00:00
 Muscle Shoals,13901,0,0,Documentary,2013-09-27 00:00:00
 Besharam,364962,0,0,Foreign,2013-10-02 00:00:00
-The Berlin File,0,48300000,0,Foreign / Action,2013-02-15 00:00:00
+The Berlin File,665210,48300000,9000000,Foreign / Action,2013-02-15 00:00:00
 Parkland,310246,0,0,Drama,2013-10-04 00:00:00
 The Hunt,43045,0,0,Foreign,2013-07-12 00:00:00
 Walking the Camino:Six Ways to Santiago,0,0,0,Documentary,2013-09-06 00:00:00
@@ -1073,7 +1073,7 @@ Winnie Mandela,61847,0,0,Drama,2013-09-06 00:00:00
 Ramaiya Vastavaiya,52514,0,0,Foreign,2013-07-19 00:00:00
 More Than Honey,5225,0,0,Documentary,2013-06-12 00:00:00
 Caesar Must Die,0,0,0,Foreign,2013-02-01 00:00:00
-Commitment,0,4467956,0,Foreign,2013-12-06 00:00:00
+Commitment,76543,4467956,0,Foreign,2013-12-06 00:00:00
 Leviathan (2013),10000,0,0,Documentary,2013-03-01 00:00:00
 No One Lives,47800,0,0,Horror,2013-05-10 00:00:00
 Reality (2013),7072,2162338,0,Foreign,2013-03-15 00:00:00
@@ -1382,7 +1382,7 @@ Paris Countdown,0,0,0,Foreign,2013-11-08 00:00:00
 Absence,0,0,0,Thriller,2013-07-05 00:00:00
 Khumba,1029,27186346,0,Animation,2013-12-06 00:00:00
 Remnants,0,0,0,Sci-Fi,2013-11-14 00:00:00
-Billy and Buddy,0,15229656,0,Foreign,2013-11-08 00:00:00
+Billy and Buddy,894,15229656,0,Foreign,2013-11-08 00:00:00
 I Spit on Your Grave 2,441,0,0,Horror,2013-09-20 00:00:00
 Into the White,90,0,0,War Drama,2013-04-12 00:00:00
 Syrup,301,0,0,Comedy / Drama,2013-06-07 00:00:00

@@ -218,13 +218,13 @@ Damsels in Distress,58589,0,0,Comedy,2012-04-06 00:00:00
 Unconditional,525192,0,0,Drama,2012-09-21 00:00:00
 Burn,0,0,0,Documentary,2012-07-24 00:00:00
 Rampart,60446,0,0,Crime Drama,2012-02-10 00:00:00
-Masquerade (2012),0,79839675,0,Foreign,2012-09-21 00:00:00
+Masquerade (2012),922921,79839675,8328460,Foreign,2012-09-21 00:00:00
 The Imposter,22379,1100960,0,Documentary,2012-07-13 00:00:00
 Bill W.,0,0,0,Documentary,2012-05-18 00:00:00
 Darling Companion,39962,0,0,Comedy,2012-04-20 00:00:00
 Thin Ice,183527,0,0,Crime Drama,2012-02-17 00:00:00
 Teri Meri Kahaani,405926,0,0,Foreign,2012-06-22 00:00:00
-Meerkats,0,482021,0,Documentary,2012-05-26 00:00:00
+Meerkats,777595,482021,0,Documentary,2012-05-26 00:00:00
 Rowdy Rathore,381784,28565090,0,Foreign,2012-06-01 00:00:00
 Son of Sardaar,341552,0,0,Foreign,2012-11-13 00:00:00
 Cosmopolis,70339,5300000,0,Drama,2012-08-17 00:00:00
@@ -250,7 +250,7 @@ Being Flynn,43990,0,0,Comedy / Drama,2012-03-02 00:00:00
 Ai Weiwei:Never Sorry,41104,0,0,Documentary,2012-07-27 00:00:00
 Where Do We Go Now?,15382,0,0,Foreign,2012-05-11 00:00:00
 Shut Up and Play the Hits,0,0,0,Concert,2012-07-18 00:00:00
-Delicacy,0,9197620,0,Foreign,2012-03-16 00:00:00
+Delicacy,498584,9197620,7000000,Foreign,2012-03-16 00:00:00
 The Flat,19916,0,0,Foreign,2012-10-19 00:00:00
 Bachelorette,181494,11500000,0,Comedy,2012-09-07 00:00:00
 Ferrari Ki Sawaari,240792,0,0,Foreign,2012-06-15 00:00:00
@@ -262,10 +262,10 @@ Khiladi 786,228967,0,0,Foreign,2012-12-07 00:00:00
 Smashed,26943,0,0,Comedy / Drama,2012-10-12 00:00:00
 Piranha 3DD,182237,8117216,0,Horror,2012-06-01 00:00:00
 The Oranges,198461,0,0,Comedy / Drama,2012-10-05 00:00:00
-The Lady,0,3404191,0,Drama,2012-04-13 00:00:00
+The Lady,355391,3404191,24350995,Drama,2012-04-13 00:00:00
 Branded,240589,3400557,0,Action,2012-09-07 00:00:00
 Chico & Rita,20654,1883933,0,Foreign,2012-02-10 00:00:00
-A Werewolf Boy,0,41336378,0,Foreign,2012-11-30 00:00:00
+A Werewolf Boy,342922,41336378,0,Foreign,2012-11-30 00:00:00
 Red Hook Summer,40070,0,0,Drama,2012-08-10 00:00:00
 Liberal Arts,27435,0,0,Comedy / Drama,2012-09-14 00:00:00
 The Central Park Five,30570,0,0,Documentary,2012-11-23 00:00:00
@@ -348,7 +348,7 @@ Forgiveness of Blood,26724,0,0,Foreign,2012-02-24 00:00:00
 Escape Fire,30953,0,0,Documentary,2012-10-05 00:00:00
 "Turn Me On, Dammit!",10145,0,0,Foreign,2012-03-30 00:00:00
 God Bless America,27308,0,0,Comedy,2012-05-11 00:00:00
-Iron Sky,0,8012949,0,Sci-Fi Comedy,2012-07-25 00:00:00
+Iron Sky,122082,8012949,8263912,Sci-Fi Comedy,2012-07-25 00:00:00
 Cowgirls n' Angels,54675,0,0,Family,2012-05-25 00:00:00
 Bel Ami,38018,8182799,0,Period Drama,2012-06-08 00:00:00
 Bullet Vanishes,43444,0,0,Foreign / Action,2012-08-31 00:00:00
@@ -407,7 +407,7 @@ Natural Selection,10375,0,0,Comedy,2012-03-16 00:00:00
 Deitrick Haddon's A Beautiful Soul,46410,0,0,Drama,2012-05-04 00:00:00
 Dangerous Liaisons (2012),18027,0,0,Foreign,2012-11-09 00:00:00
 Surviving Progress,4161,0,0,Documentary,2012-04-06 00:00:00
-Free Men,0,564293,0,Foreign,2012-03-16 00:00:00
+Free Men,53810,564293,0,Foreign,2012-03-16 00:00:00
 A Trip to the Moon/The Extraordinary Voyage,2915,0,0,Documentary,2012-02-10 00:00:00
 Occupy Unmasked,40952,0,0,Documentary,2012-09-21 00:00:00
 Red Lights (2012),10340,13498550,0,Thriller,2012-07-13 00:00:00
@@ -816,7 +816,7 @@ A Separation,59481,12800000,0,Foreign,2011-12-30 00:00:00
 Take Me Home Tonight,3464679,0,0,Comedy,2011-03-04 00:00:00
 Cedar Rapids,302968,0,0,Comedy,2011-02-11 00:00:00
 Beginners,141340,8520807,0,Drama,2011-06-03 00:00:00
-Flying Monsters,0,5107988,0,Documentary,2011-10-07 00:00:00
+Flying Monsters,5705874,5107988,0,Documentary,2011-10-07 00:00:00
 A Dangerous Method,167953,21757332,0,Drama / Thriller,2011-11-23 00:00:00
 The Guard,76834,14200000,6000000,Comedy Thriller,2011-07-29 00:00:00
 Margin Call,561906,14150000,0,Thriller,2011-10-21 00:00:00
@@ -844,7 +844,7 @@ Everything Must Go,791676,0,5000000,Comedy / Drama,2011-05-13 00:00:00
 The Way Back,1218868,17646390,30000000,Drama,2011-01-21 00:00:00
 Carnage (2011),79795,25056022,0,Drama,2011-12-16 00:00:00
 Bucky Larson:Born to Be a Star,1415023,0,10000000,Comedy,2011-09-09 00:00:00
-RA One,0,33400000,0,Foreign,2011-10-26 00:00:00
+RA One,2511689,33400000,32000000,Foreign,2011-10-26 00:00:00
 The Grace Card,1010299,0,0,Drama,2011-02-25 00:00:00
 Incendies (U.S. only),50679,1477434,0,Foreign,2011-04-22 00:00:00
 The Trip (2011),77904,0,0,Comedy,2011-06-10 00:00:00
@@ -1414,7 +1414,7 @@ Winter's Bone,84797,7265331,2000000,Drama,2010-06-11 00:00:00
 "Waiting for""Superman""",139033,9322,0,Documentary,2010-09-24 00:00:00
 The Secret in Their Eyes,167866,27573843,0,Crime Drama,2010-04-16 00:00:00
 It's Kind of a Funny Story,2013406,127612,8000000,Drama,2010-10-08 00:00:00
-Sea Rex 3D:Journey to a Prehistoric World,0,9907568,5000000,IMAX,2010-05-28 00:00:00
+Sea Rex 3D:Journey to a Prehistoric World,6096582,9907568,5000000,IMAX,2010-05-28 00:00:00
 The Warrior's Way,3048665,5421229,42000000,Western,2010-12-03 00:00:00
 The Girl Who Kicked the Hornet's Nest,881737,38307912,0,Foreign,2010-10-29 00:00:00
 I Am Love,121504,5901103,0,Foreign,2010-06-18 00:00:00
@@ -1464,7 +1464,7 @@ Casino Jack,34528,40724,0,Thriller,2010-12-17 00:00:00
 The Perfect Game,511698,2841922,0,Sports Drama,2010-04-16 00:00:00
 2010 Oscar Shorts,291360,0,0,Unknown,2010-02-19 00:00:00
 Guzaarish,488121,694905,0,Foreign,2010-11-19 00:00:00
-The Salvation Poem (Poema de Salvacion),0,182932,0,Drama,2010-08-27 00:00:00
+The Salvation Poem (Poema de Salvacion),914818,182932,400000,Drama,2010-08-27 00:00:00
 The Wildest Dream,67848,0,0,Documentary,2010-08-06 00:00:00
 Princess Kaiulani,186995,0,9000000,Drama,2010-05-14 00:00:00
 Anjaana Anjaani,517608,761131,0,Foreign,2010-10-01 00:00:00
@@ -1607,7 +1607,7 @@ The Good Guy,34712,0,10000000,Romantic Comedy,2010-02-19 00:00:00
 8:The Mormon Proposition,42566,0,0,Documentary,2010-06-18 00:00:00
 Bhutto,8275,0,0,Documentary,2010-12-03 00:00:00
 Kings of the Evening,11156,0,0,Period Drama,2010-06-11 00:00:00
-Outside the Law (Hors-la-loi),0,3298780,0,Foreign,2010-11-03 00:00:00
+Outside the Law (Hors-la-loi),96933,3298780,21485002,Foreign,2010-11-03 00:00:00
 I Spit on Your Grave,32440,479758,2000000,Horror,2010-10-08 00:00:00
 Oy Vey! My Son is Gay!,4042,0,0,Comedy,2010-12-24 00:00:00
 OSS 117:Lost in Rio,10243,0,0,Foreign,2010-05-07 00:00:00
