@@ -284,12 +284,61 @@ movie_list_pages_2010_2012 = ['http://www.boxofficemojo.com/yearly/chart/?yr=201
                             'http://www.boxofficemojo.com/yearly/chart/?page=5&view=releasedate&view2=domestic&yr=2010&p=.htm',
                             'http://www.boxofficemojo.com/yearly/chart/?page=6&view=releasedate&view2=domestic&yr=2010&p=.htm',]
 
-movie_urls = get_movie_urls(movie_list_pages_2010_2012)
-movie_data_list = parse_movie_page(movie_urls)
+# movie_urls = get_movie_urls(movie_list_pages_2010_2012)
+# movie_data_list = parse_movie_page(movie_urls)
 
+def get_budget_imdb(url_list):
+    for url in url_list:
+        # print "Getting url response..."
+        response = requests.get(url)
+        # should probably check to make sure the response code is good to continue
+        if response.status_code == 200:
+            #'''get the page and soup reference'''#
+            movie_page = response.text
+            movie_soup = BeautifulSoup(movie_page)
+
+
+            budget = 0
+            try:
+                reduced = movie_soup.find('div',{"id":"titleDetails"})
+                budget_string = reduced.find_all(text=re.compile('\$'))[0].strip()
+                budget = int(budget_string.replace('$','').replace(',',''))
+                # split the string, use the 2nd index to determine scale (itll be like ['245','million'])
+                # this means that there was a value for this field
+            except:
+                print "NOPE"
+                budget = 0
+            print budget
+
+def get_budget_numbers(url_list):
+    for url in url_list:
+        # print "Getting url response..."
+        response = requests.get(url)
+        # should probably check to make sure the response code is good to continue
+        if response.status_code == 200:
+            #'''get the page and soup reference'''#
+            movie_page = response.text
+            movie_soup = BeautifulSoup(movie_page)
+
+
+            budget = 0
+            try:
+                print movie_soup
+                # reduced = movie_soup.find('div',{"id":"titleDetails"})
+                # budget_string = reduced.find_all(text=re.compile('\$'))[0].strip()
+                # budget = int(budget_string.replace('$','').replace(',',''))
+                # split the string, use the 2nd index to determine scale (itll be like ['245','million'])
+                # this means that there was a value for this field
+            except:
+                print "NOPE"
+                budget = 0
+            print budget
+
+# get_budget_imdb(['http://www.imdb.com/title/tt1024648/?ref_=fn_al_tt_1'])
+get_budget_numbers(['http://www.the-numbers.com/movie/Argo#tab=summary'])
 # need to write to csv
-import csv
-print movie_data_list
-with open("movie_data_2010_2012.csv", "wb") as f:
-    writer = csv.writer(f)
-    writer.writerows(movie_data_list)
+# import csv
+# print movie_data_list
+# with open("movie_data_2010_2012.csv", "wb") as f:
+#     writer = csv.writer(f)
+#     writer.writerows(movie_data_list)
